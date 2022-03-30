@@ -1,0 +1,1117 @@
+2022-02-08 12:40:39,990 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2022-02-08 12:40:40,034 [     44]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-213.6777.50, 27 Jan 2022 19:06) 
+2022-02-08 12:40:40,042 [     52]   INFO -        #com.intellij.idea.Main - OS: Linux (5.13.0-28-generic, amd64) 
+2022-02-08 12:40:40,048 [     58]   INFO -        #com.intellij.idea.Main - JRE: 11.0.13+7-b1751.25 (JetBrains s.r.o.) 
+2022-02-08 12:40:40,049 [     59]   INFO -        #com.intellij.idea.Main - JVM: 11.0.13+7-b1751.25 (OpenJDK 64-Bit Server VM) 
+2022-02-08 12:40:40,063 [     73]   INFO -        #com.intellij.idea.Main - JVM options: [-Xms128m, -Xmx750m, -XX:ReservedCodeCacheSize=512m, -XX:+IgnoreUnrecognizedVMOptions, -XX:+UseG1GC, -XX:SoftRefLRUPolicyMSPerMB=50, -XX:CICompilerCount=2, -XX:+HeapDumpOnOutOfMemoryError, -XX:-OmitStackTraceInFastThrow, -ea, -Dsun.io.useCanonCaches=false, -Djdk.http.auth.tunneling.disabledSchemes="", -Djdk.attach.allowAttachSelf=true, -Djdk.module.illegalAccess.silent=true, -Dkotlinx.coroutines.debug=off, -Dsun.tools.attach.tmp.only=true, -XX:ErrorFile=/home/abdiweli/java_error_in_pycharm_%p.log, -XX:HeapDumpPath=/home/abdiweli/java_error_in_pycharm_.hprof, -Djb.vmOptionsFile=/snap/pycharm-community/267/bin/pycharm64.vmoptions, -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader, -Didea.vendor.name=JetBrains, -Didea.paths.selector=PyCharmCE2021.3, -Didea.platform.prefix=PyCharmCore, -Dsplash=true] 
+2022-02-08 12:40:40,063 [     73]   INFO -        #com.intellij.idea.Main - args: [] 
+2022-02-08 12:40:40,064 [     74]   INFO -        #com.intellij.idea.Main - library path: /usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib 
+2022-02-08 12:40:40,064 [     74]   INFO -        #com.intellij.idea.Main - boot library path: /snap/pycharm-community/267/jbr/lib 
+2022-02-08 12:40:40,085 [     95]   INFO -        #com.intellij.idea.Main - locale=en_US JNU=UTF-8 file.encoding=UTF-8
+  idea.config.path=/home/abdiweli/.config/JetBrains/PyCharmCE2021.3
+  idea.system.path=/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3
+  idea.plugins.path=/home/abdiweli/.local/share/JetBrains/PyCharmCE2021.3
+  idea.log.path=/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/log 
+2022-02-08 12:40:40,088 [     98]   INFO -                         STDERR - Feb 08, 2022 12:40:40 PM java.util.prefs.FileSystemPreferences$1 run 
+2022-02-08 12:40:40,089 [     99]   INFO -                         STDERR - INFO: Created user preferences directory. 
+2022-02-08 12:40:40,091 [    101]   INFO -                         STDERR - Feb 08, 2022 12:40:40 PM java.util.prefs.FileSystemPreferences$6 run 
+2022-02-08 12:40:40,091 [    101]   INFO -                         STDERR - WARNING: Prefs file removed in background /home/abdiweli/.java/.userPrefs/prefs.xml 
+2022-02-08 12:40:40,107 [    117]   INFO -        #com.intellij.idea.Main - CPU cores: 12; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@3fdff453[Running, parallelism = 11, size = 6, active = 4, running = 4, steals = 2, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@4b986eac 
+2022-02-08 12:40:40,174 [    184]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 67 ms 
+2022-02-08 12:40:57,011 [  17021]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2022-02-08 12:40:57,063 [  17073]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2022-02-21 09:05:38,112 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2022-02-21 09:05:38,245 [    133]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-213.6777.50, 27 Jan 2022 19:06) 
+2022-02-21 09:05:38,249 [    137]   INFO -        #com.intellij.idea.Main - OS: Linux (5.13.0-30-generic, amd64) 
+2022-02-21 09:05:38,272 [    160]   INFO -        #com.intellij.idea.Main - JRE: 11.0.13+7-b1751.25 (JetBrains s.r.o.) 
+2022-02-21 09:05:38,273 [    161]   INFO -        #com.intellij.idea.Main - JVM: 11.0.13+7-b1751.25 (OpenJDK 64-Bit Server VM) 
+2022-02-21 09:05:38,276 [    164]   INFO -        #com.intellij.idea.Main - JVM options: [-Xms128m, -Xmx750m, -XX:ReservedCodeCacheSize=512m, -XX:+IgnoreUnrecognizedVMOptions, -XX:+UseG1GC, -XX:SoftRefLRUPolicyMSPerMB=50, -XX:CICompilerCount=2, -XX:+HeapDumpOnOutOfMemoryError, -XX:-OmitStackTraceInFastThrow, -ea, -Dsun.io.useCanonCaches=false, -Djdk.http.auth.tunneling.disabledSchemes="", -Djdk.attach.allowAttachSelf=true, -Djdk.module.illegalAccess.silent=true, -Dkotlinx.coroutines.debug=off, -Dsun.tools.attach.tmp.only=true, -XX:ErrorFile=/home/abdiweli/java_error_in_pycharm_%p.log, -XX:HeapDumpPath=/home/abdiweli/java_error_in_pycharm_.hprof, -Djb.vmOptionsFile=/snap/pycharm-community/267/bin/pycharm64.vmoptions, -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader, -Didea.vendor.name=JetBrains, -Didea.paths.selector=PyCharmCE2021.3, -Didea.platform.prefix=PyCharmCore, -Dsplash=true] 
+2022-02-21 09:05:38,276 [    164]   INFO -        #com.intellij.idea.Main - args: [] 
+2022-02-21 09:05:38,277 [    165]   INFO -        #com.intellij.idea.Main - library path: /usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib 
+2022-02-21 09:05:38,277 [    165]   INFO -        #com.intellij.idea.Main - boot library path: /snap/pycharm-community/267/jbr/lib 
+2022-02-21 09:05:38,299 [    187]   INFO -        #com.intellij.idea.Main - locale=en_US JNU=UTF-8 file.encoding=UTF-8
+  idea.config.path=/home/abdiweli/.config/JetBrains/PyCharmCE2021.3
+  idea.system.path=/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3
+  idea.plugins.path=/home/abdiweli/.local/share/JetBrains/PyCharmCE2021.3
+  idea.log.path=/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/log 
+2022-02-21 09:05:38,319 [    207]   INFO -        #com.intellij.idea.Main - CPU cores: 12; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@50f43df1[Running, parallelism = 11, size = 8, active = 6, running = 6, steals = 1, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@26eb341d 
+2022-02-21 09:05:38,448 [    336]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 129 ms 
+2022-02-21 09:05:39,064 [    952]   INFO - llij.ide.plugins.PluginManager - Module intellij.grazie.java is not enabled because dependency com.intellij.java is not available
+Module intellij.cwm.plugin.android is not enabled because dependency org.jetbrains.android is not available
+Module intellij.space.java is not enabled because dependency com.intellij.java is not available
+Module intellij.space.index is not enabled because dependency intellij.indexing.shared is not available
+Module intellij.space.kotlin is not enabled because dependency org.jetbrains.kotlin is not available 
+2022-02-21 09:05:39,079 [    967]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: IDEA CORE (213.6777.50), IDE Features Trainer (213.6777.50), Grazie (213.6777.50), Toml (213.6777.50), Settings Repository (213.6777.50), YAML (213.6777.50), TextMate Bundles (213.6777.50), Terminal (213.6777.50), ReStructuredText (213.6777.50), Emoji Picker (213.6777.50), IntelliLang (213.6777.50), EditorConfig (213.6777.50), Mercurial (213.6777.50), Shell Script (213.6777.50), Projector Libraries for Code With Me and Remote Development (213.6777.50), Code With Me (213.6777.50), Task Management (213.6777.50), JetBrains Marketplace Licensing Support (213.6777.50), Copyright (213.6777.50), Properties (213.6777.50), Images (213.6777.50), Markdown (213.6777.50), Configuration Script (213.6777.50), Shared Indexes (213.6777.50), Shared Indexes for Python (213.6777.50), Machine Learning Code Completion (213.6777.50), Subversion (213.6777.50), Python Community Edition (213.6777.50), Shared Indexes for Python Packages (213.6777.50), PyCharm Community Customization (213.6777.50), GitHub (213.6777.50), Space (213.6777.50), Git (213.6777.50), IDE Features Trainer: Git Lessons (213.6777.50), ChangeReminder (213.6777.50), Machine Learning in Search Everywhere (213.6777.50) 
+2022-02-21 09:05:39,087 [    975]   INFO -        #com.intellij.idea.Main - notify that start-up thread is free 
+2022-02-21 09:05:45,573 [   7461]   INFO -        #com.intellij.idea.Main - WM detected: GNOME Shell, desktop: ubuntu:GNOME 
+2022-02-21 09:05:46,246 [   8134]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2022-02-21 09:05:46,259 [   8147]   INFO - rnal.statistic.DeviceIdManager - Generating new Device ID for 'FUS' 
+2022-02-21 09:05:46,261 [   8149]   INFO - eventLog.EventLogConfiguration - Generating new salt for FUS 
+2022-02-21 09:05:46,267 [   8155]   INFO - ication.options.PathMacrosImpl - Loaded path macros: {} 
+2022-02-21 09:05:46,331 [   8219]   INFO - intellij.util.io.FilePageCache - lower=100; upper=500; buffer=10; max=730 
+2022-02-21 09:05:46,355 [   8243]   INFO - intellij.diagnostic.JitWatcher - JIT compilation state checking enabled 
+2022-02-21 09:05:46,418 [   8306]   INFO - rsistent.PersistentFSConnector - Marking VFS as corrupted: '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/caches/names.dat' does not exist 
+2022-02-21 09:05:46,441 [   8329]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2022-02-21 09:05:46,441 [   8329]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2022-02-21 09:05:46,451 [   8339]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2022-02-21 09:05:46,560 [   8448]   INFO - il.indexing.FileBasedIndexImpl - Indexes are corrupted and will be rebuilt (reason = ) 
+2022-02-21 09:05:46,568 [   8456]   INFO - Types.impl.FileTypeManagerImpl - File types changed: ignored files list updated: *.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;*$py.class. Caused by plugin 'com.jetbrains.pycharm.community.customization'. 
+2022-02-21 09:05:46,570 [   8458]   INFO - impl.SharedIndexInfrastructure - Shared index version updated from -1 to 7 
+2022-02-21 09:05:46,580 [   8468]   INFO - impl.SharedIndexInfrastructure - Shared index persistent data has been cleared 
+2022-02-21 09:05:46,606 [   8494]   INFO - impl.SharedIndexMainZipStorage - Shared Indexes Storage is opened and empty 
+2022-02-21 09:05:46,682 [   8570]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/lib/pycharm.jar, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 09:05:46,684 [   8572]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/lib/pycharm.jar, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 09:05:46,684 [   8572]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/lib/pycharm.jar, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 09:05:46,684 [   8572]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/lib/pycharm.jar, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 09:05:46,724 [   8612]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/plugins/python-ce, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 09:05:46,724 [   8612]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/plugins/python-ce, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 09:05:46,744 [   8632]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/plugins/github, version=213.6777.50, package=org.jetbrains.plugins.github, isBundled=true) 
+2022-02-21 09:05:46,752 [   8640]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/plugins/space, version=213.6777.50, package=com.intellij.space, isBundled=true) 
+2022-02-21 09:05:46,801 [   8689]   INFO - penapi.application.Experiments - Experimental features enabled for user: wsl.p9.support, wsl.prefer.p9.support, wsl.p9.show.roots.in.file.chooser, wsl.execute.with.wsl.exe, linux.native.menu, recent.and.edited.files.together, show.create.new.element.in.popup, search.everywhere.mixed.results, editor.reader.mode, new.large.text.file.viewer, terminal.shell.command.handling 
+2022-02-21 09:05:46,808 [   8696]   INFO - penapi.wm.impl.GlobalMenuLinux - Start glib main loop in thread: GlobalMenuLinux loop 
+2022-02-21 09:05:46,810 [   8698]   INFO - penapi.wm.impl.GlobalMenuLinux - Closed dbus-service 'com.canonical.AppMenu.Registrar' 
+2022-02-21 09:05:46,826 [   8714]   INFO - penapi.application.Experiments - Experimental feature 'terminal.shell.command.handling' is now turned OFF 
+2022-02-21 09:05:46,838 [   8726]   INFO - stubs.SerializationManagerImpl - Name storage is repaired 
+2022-02-21 09:05:46,848 [   8736]   INFO - impl.SharedIndexMainZipStorage - Shared Indexes Storage is opened and empty 
+2022-02-21 09:05:46,852 [   8740]   INFO - ntellij.idea.ApplicationLoader - Input method disabler: canDisableInputMethod spent 7 ms, found keyboard layouts: [(us, xkb), ], result==true 
+2022-02-21 09:05:46,852 [   8740]   INFO - ings.impl.UpdateCheckerService - channel: release 
+2022-02-21 09:05:46,861 [   8749]   INFO - impl.SharedIndexInfrastructure - Shared index persistent data has been cleared 
+2022-02-21 09:05:46,868 [   8756]   WARN - l.NotificationGroupManagerImpl - Notification group CodeWithMe is already registered (group=com.intellij.notification.NotificationGroup@e9cef04). Plugin descriptor: PluginDescriptor(name=Code With Me, id=com.jetbrains.codeWithMe, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/plugins/cwm-plugin, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 09:05:47,281 [   9169]   INFO - il.indexing.FileBasedIndexImpl - Indexes to be rebuilt after corruption:FilenameIndex(v = 3),FrameworkDetectionIndex(v = 65536),TodoIndex(v = 4107),IdIndex(v = 4113),filetypes(v = 258),Stubs(v = 46),Trigram.Index(v = 4099),fileIncludes(v = 6),DomFileIndex(v = 0),RelaxSymbolIndex(v = 0),XmlTagNames(v = 1),XmlNamespaces(v = 8),html5.custom.attributes.index(v = 1),SchemaTypeInheritance(v = 2),json.file.root.values(v = 5),yaml.keys.name(v = 1),editorconfig.index.name(v = 5),xmlProperties(v = 2),Py.module.name(v = 0),Py.setuptools.namespace(v = 0) 
+2022-02-21 09:05:47,284 [   9172]   INFO - leBasedIndexDataInitialization - Index data initialization done: 806 ms. Initialized indexes: [FilenameIndex, FrameworkDetectionIndex, TodoIndex, IdIndex, filetypes, Stubs, Trigram.Index, fileIncludes, DomFileIndex, RelaxSymbolIndex, XmlTagNames, XmlNamespaces, html5.custom.attributes.index, SchemaTypeInheritance, json.file.root.values, yaml.keys.name, editorconfig.index.name, xmlProperties, Py.module.name, Py.setuptools.namespace]. 
+2022-02-21 09:05:47,324 [   9212]   INFO - tellij.psi.stubs.StubIndexImpl - Following stub indices will be built:Py.variable.shortName(v = 3),Python.Decorator(v = 2),Py.class.attributes(v = 2),Py.module.attribute(v = 2),dom.namespaceKey(v = 1),dom.elementClass(v = 0),properties.index(v = 2),markdown.header(v = 2),Py.class.shortName(v = 2),Py.class.shortNameInsensitive(v = 2),Py.function.shortName(v = 2),Py.class.super(v = 2) 
+2022-02-21 09:05:47,325 [   9213]   INFO - exImpl$StubIndexInitialization - Index data initialization done: 41 ms. Initialized stub indexes: {Python.Decorator, Py.module.attribute, Py.class.shortNameInsensitive, dom.elementClass, markdown.header, Py.class.super, Py.variable.shortName, Py.function.shortName, Py.class.shortName, Py.class.attributes, dom.namespaceKey, properties.index}. 
+2022-02-21 09:05:47,521 [   9409]   INFO - il.indexing.FileBasedIndexImpl - indexes cleared: FilenameIndex, FrameworkDetectionIndex, TodoIndex, IdIndex, filetypes, Stubs, Trigram.Index, fileIncludes, DomFileIndex, RelaxSymbolIndex, XmlTagNames, XmlNamespaces, html5.custom.attributes.index, SchemaTypeInheritance, json.file.root.values, yaml.keys.name, editorconfig.index.name, xmlProperties, Py.module.name, Py.setuptools.namespace
+survived indexes:  
+2022-02-21 09:05:54,450 [  16338]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/267/bin/fsnotifier 
+2022-02-21 09:05:54,460 [  16348]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2022-02-21 09:05:54,800 [  16688]   WARN - til.ui.update.LazyUiDisposable - use application as a parent disposable 
+2022-02-21 09:05:54,800 [  16688]   WARN - til.ui.update.LazyUiDisposable - use application as a parent disposable 
+2022-02-21 09:06:09,882 [  31770]   INFO - erver.followMe.FollowMeManager - Register new user 0:'abdiweli' with ClientId=ClientId(value=Host) 
+2022-02-21 09:06:19,013 [  40901]   INFO - dule.ModuleBridgeLoaderService - Workspace model loaded without cache. Loading real project state into workspace model. Thread[JobScheduler FJ pool 3/11,4,main] 
+2022-02-21 09:06:19,034 [  40922]   INFO - tests.impl.DistributedTestHost - Host address=localhost/127.0.0.1 
+2022-02-21 09:06:19,048 [  40936]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2022-02-21 09:06:19,051 [  40939]   INFO -                         STDOUT - Info  | RdCoroutineScope          | 31:JobScheduler FJ pool 10/11 | RdCoroutineHost overridden  
+2022-02-21 09:06:19,122 [  41010]   INFO - ins.rd.platform.codeWithMe.w.x - sessionStatus: null 
+2022-02-21 09:06:19,123 [  41011]   INFO - ins.rd.platform.codeWithMe.w.x - freeSessionRemainingTimeMs: null null 
+2022-02-21 09:06:19,190 [  41078]   INFO - penapi.wm.impl.GlobalMenuLinux - created instance of GlobalMenuLinux for xid=0x440033a 
+2022-02-21 09:06:19,435 [  41323]   INFO - al.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: true 
+2022-02-21 09:06:19,435 [  41323]   INFO - al.NewToolbarRootPaneExtension - Show new main toolbar: false 
+2022-02-21 09:06:21,344 [  43232]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.8 -S /snap/pycharm-community/267/plugins/python-ce/helpers/virtualenv.pyz /home/abdiweli/PycharmProjects/pythonProject/venv 
+2022-02-21 09:06:21,403 [  43291]   INFO - ge.ExternalProjectsDataStorage - Load external projects data in 1 millis (read time: 1) 
+2022-02-21 09:06:21,487 [  43375]   INFO - redIndexChunkConfigurationImpl - Chunk bundled-python-sdk-8628e36dc4f1-eb8d386cac10-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-213.6777.50 is registered for project 'pythonProject: matching: (fb=16, stub=12), incompatible: (fb=0, stub=0), unknown: (fb=9, stub=9),  
+2022-02-21 09:06:21,618 [  43506]   INFO - SharedIndexPostStartupActivity - Attached 1 pre-built shared indexes: bundled-python-sdk-8628e36dc4f1-eb8d386cac10-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-213.6777.50 
+2022-02-21 09:06:21,651 [  43539]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2022-02-21 09:06:21,738 [  43626]   INFO - gnostic.PerformanceWatcherImpl - Post-startup activities under progress took 454ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:21,876 [  43764]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -c . '/home/abdiweli/PycharmProjects/pythonProject/venv/bin/activate';'/snap/pycharm-community/267/bin/printenv.py' '/tmp/intellij-shell-env.6081541872484390339.tmp' 
+2022-02-21 09:06:21,895 [  43783]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (71 vars) 
+2022-02-21 09:06:21,911 [  43799]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 41 ms 
+2022-02-21 09:06:21,913 [  43801]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python38.zip 
+2022-02-21 09:06:22,006 [  43894]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python)): /home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/2119702566 
+2022-02-21 09:06:22,009 [  43897]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python)): /snap/pycharm-community/267/plugins/python-ce/helpers/python-skeletons 
+2022-02-21 09:06:22,089 [  43977]   INFO - til.indexing.RootChangesLogger - New rootsChanged event for "pythonProject" project with partial reindex with trace_hash = 1299321676:
+java.lang.Throwable
+	at com.intellij.util.indexing.RootChangesLogger.info(RootChangesLogger.java:27)
+	at com.intellij.util.indexing.EntityIndexingServiceImpl.logRootChanges(EntityIndexingServiceImpl.java:99)
+	at com.intellij.util.indexing.EntityIndexingServiceImpl.indexChanges(EntityIndexingServiceImpl.java:78)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerComponent.synchronizeRoots(ProjectRootManagerComponent.java:298)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerComponent.fireRootsChangedEvent(ProjectRootManagerComponent.java:211)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl.fireRootsChanged(ProjectRootManagerImpl.java:462)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl$1.fireRootsChanged(ProjectRootManagerImpl.java:146)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl$1.fireRootsChanged(ProjectRootManagerImpl.java:143)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl$BatchSession.rootsChanged(ProjectRootManagerImpl.java:115)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.project.ProjectRootsChangeListener.changed(ProjectRootsChangeListener.kt:34)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleManagerComponentBridge$2.changed(ModuleManagerComponentBridge.kt:147)
+	at com.intellij.workspaceModel.ide.WorkspaceModelTopics$EventsDispatcher.changed(WorkspaceModelTopics.kt:118)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeMethod(MessageBusImpl.java:645)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeListener(MessageBusImpl.java:620)
+	at com.intellij.util.messages.impl.MessageBusImpl.deliverMessage(MessageBusImpl.java:417)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:390)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:372)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:33)
+	at com.intellij.util.messages.impl.MessageBusImpl$MessagePublisher.invoke(MessageBusImpl.java:179)
+	at com.sun.proxy.$Proxy71.changed(Unknown Source)
+	at com.intellij.workspaceModel.ide.impl.WorkspaceModelImpl.onChanged(WorkspaceModelImpl.kt:112)
+	at com.intellij.workspaceModel.ide.impl.WorkspaceModelImpl.access$onChanged(WorkspaceModelImpl.kt:19)
+	at com.intellij.workspaceModel.ide.impl.WorkspaceModelImpl$updateProjectModel$2.invoke(WorkspaceModelImpl.kt:75)
+	at com.intellij.workspaceModel.ide.impl.WorkspaceModelImpl$updateProjectModel$2.invoke(WorkspaceModelImpl.kt:19)
+	at com.intellij.workspaceModel.storage.impl.VersionedEntityStorageImpl.replace(VersionedEntityStorageImpl.kt:183)
+	at com.intellij.workspaceModel.ide.impl.WorkspaceModelImpl.updateProjectModel(WorkspaceModelImpl.kt:75)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.roots.ModifiableRootModelBridgeImpl.commit(ModifiableRootModelBridgeImpl.kt:532)
+	at com.intellij.openapi.application.WriteAction.lambda$run$1(WriteAction.java:86)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteActionWithClass(ApplicationImpl.java:935)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:961)
+	at com.intellij.openapi.application.WriteAction.run(WriteAction.java:85)
+	at com.intellij.openapi.roots.ModuleRootModificationUtil.lambda$modifyModel$11(ModuleRootModificationUtil.java:146)
+	at com.intellij.openapi.application.impl.ApplicationImpl.invokeAndWait(ApplicationImpl.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.invokeAndWait(ApplicationImpl.java:455)
+	at com.intellij.openapi.roots.ModuleRootModificationUtil.modifyModel(ModuleRootModificationUtil.java:144)
+	at com.intellij.openapi.roots.ModuleRootModificationUtil.updateModel(ModuleRootModificationUtil.java:134)
+	at com.intellij.openapi.roots.ModuleRootModificationUtil.setModuleSdk(ModuleRootModificationUtil.java:108)
+	at com.jetbrains.python.sdk.PySdkExtKt.setPythonSdk(PySdkExt.kt:202)
+	at com.jetbrains.python.newProject.steps.PythonBaseProjectGenerator.configureProject(PythonBaseProjectGenerator.java:58)
+	at com.jetbrains.python.newProject.PythonProjectGenerator.generateProject(PythonProjectGenerator.java:200)
+	at com.jetbrains.python.newProject.PythonProjectGenerator.generateProject(PythonProjectGenerator.java:84)
+	at com.intellij.ide.util.projectWizard.AbstractNewProjectStep.doGenerateProject(AbstractNewProjectStep.java:235)
+	at com.jetbrains.python.newProject.steps.PythonGenerateProjectCallback.generateProject(PythonGenerateProjectCallback.java:79)
+	at com.jetbrains.python.newProject.steps.PythonGenerateProjectCallback.consume(PythonGenerateProjectCallback.java:57)
+	at com.intellij.ide.util.projectWizard.ProjectSettingsStepBase$1.actionPerformed(ProjectSettingsStepBase.java:143)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:270)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6654)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6419)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5029)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2790)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:891)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:820)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:757)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:447)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:818)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:446)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:805)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:498)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+ 
+2022-02-21 09:06:22,741 [  44629]   INFO - til.indexing.RootChangesLogger - New rootsChanged event for "pythonProject" project with partial reindex with trace_hash = 1120615771:
+java.lang.Throwable
+	at com.intellij.util.indexing.RootChangesLogger.info(RootChangesLogger.java:27)
+	at com.intellij.util.indexing.EntityIndexingServiceImpl.logRootChanges(EntityIndexingServiceImpl.java:99)
+	at com.intellij.util.indexing.EntityIndexingServiceImpl.indexChanges(EntityIndexingServiceImpl.java:78)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerComponent.synchronizeRoots(ProjectRootManagerComponent.java:298)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerComponent.fireRootsChangedEvent(ProjectRootManagerComponent.java:211)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl.fireRootsChanged(ProjectRootManagerImpl.java:462)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl$1.fireRootsChanged(ProjectRootManagerImpl.java:146)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl$1.fireRootsChanged(ProjectRootManagerImpl.java:143)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl$BatchSession.rootsChanged(ProjectRootManagerImpl.java:115)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.project.ProjectRootsChangeListener.changed(ProjectRootsChangeListener.kt:34)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleManagerComponentBridge$2.changed(ModuleManagerComponentBridge.kt:147)
+	at com.intellij.workspaceModel.ide.WorkspaceModelTopics$EventsDispatcher.changed(WorkspaceModelTopics.kt:118)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeMethod(MessageBusImpl.java:645)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeListener(MessageBusImpl.java:620)
+	at com.intellij.util.messages.impl.MessageBusImpl.deliverMessage(MessageBusImpl.java:417)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:390)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:372)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:33)
+	at com.intellij.util.messages.impl.MessageBusImpl$MessagePublisher.invoke(MessageBusImpl.java:179)
+	at com.sun.proxy.$Proxy71.changed(Unknown Source)
+	at com.intellij.workspaceModel.ide.impl.WorkspaceModelImpl.onChanged(WorkspaceModelImpl.kt:112)
+	at com.intellij.workspaceModel.ide.impl.WorkspaceModelImpl.access$onChanged(WorkspaceModelImpl.kt:19)
+	at com.intellij.workspaceModel.ide.impl.WorkspaceModelImpl$updateProjectModel$2.invoke(WorkspaceModelImpl.kt:75)
+	at com.intellij.workspaceModel.ide.impl.WorkspaceModelImpl$updateProjectModel$2.invoke(WorkspaceModelImpl.kt:19)
+	at com.intellij.workspaceModel.storage.impl.VersionedEntityStorageImpl.replace(VersionedEntityStorageImpl.kt:183)
+	at com.intellij.workspaceModel.ide.impl.WorkspaceModelImpl.updateProjectModel(WorkspaceModelImpl.kt:75)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.roots.ModifiableRootModelBridgeImpl.commit(ModifiableRootModelBridgeImpl.kt:532)
+	at com.intellij.openapi.application.WriteAction.lambda$run$1(WriteAction.java:86)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteActionWithClass(ApplicationImpl.java:935)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:961)
+	at com.intellij.openapi.application.WriteAction.run(WriteAction.java:85)
+	at com.intellij.openapi.roots.ModuleRootModificationUtil.lambda$modifyModel$11(ModuleRootModificationUtil.java:146)
+	at com.intellij.openapi.application.impl.ApplicationImpl.invokeAndWait(ApplicationImpl.java:437)
+	at com.intellij.openapi.application.impl.ApplicationImpl.invokeAndWait(ApplicationImpl.java:455)
+	at com.intellij.openapi.roots.ModuleRootModificationUtil.modifyModel(ModuleRootModificationUtil.java:144)
+	at com.intellij.openapi.roots.ModuleRootModificationUtil.updateModel(ModuleRootModificationUtil.java:134)
+	at com.intellij.openapi.roots.ModuleRootModificationUtil.setSdkInherited(ModuleRootModificationUtil.java:118)
+	at com.intellij.openapi.projectRoots.impl.SdkConfigurationUtil.lambda$setDirectoryProjectSdk$3(SdkConfigurationUtil.java:192)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:947)
+	at com.intellij.openapi.projectRoots.impl.SdkConfigurationUtil.setDirectoryProjectSdk(SdkConfigurationUtil.java:188)
+	at com.jetbrains.python.newProject.steps.PythonGenerateProjectCallback.consume(PythonGenerateProjectCallback.java:69)
+	at com.intellij.ide.util.projectWizard.ProjectSettingsStepBase$1.actionPerformed(ProjectSettingsStepBase.java:143)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:270)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6654)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6419)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5029)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2790)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:891)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:820)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:757)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:447)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:818)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:446)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:805)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:498)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+ 
+2022-02-21 09:06:22,742 [  44630]   INFO - erver.followMe.FollowMeManager - Register new user 0:'abdiweli' with ClientId=ClientId(value=Host) 
+2022-02-21 09:06:22,973 [  44861]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 15 ms 
+2022-02-21 09:06:22,973 [  44861]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python38.zip 
+2022-02-21 09:06:22,978 [  44866]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python)): /home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/2119702566 
+2022-02-21 09:06:22,979 [  44867]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python)): /snap/pycharm-community/267/plugins/python-ce/helpers/python-skeletons 
+2022-02-21 09:06:22,979 [  44867]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python) 
+2022-02-21 09:06:22,982 [  44870]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python 
+2022-02-21 09:06:22,985 [  44873]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/267 
+2022-02-21 09:06:22,997 [  44885]   INFO - ij.psi.search.LogFileTypeIndex - Loading file type index snapshot 
+2022-02-21 09:06:23,002 [  44890]   INFO - letons.PySkeletonGenerator$Run - /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python /snap/pycharm-community/267/plugins/python-ce/helpers/generator3/__main__.py -d /home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/2119702566/ -s /usr/lib/python3.8:/usr/lib/python3.8/lib-dynload:/home/abdiweli/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stdlib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/six:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/boto:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/mock:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pytz:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/toml:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/annoy:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/babel:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/click:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/emoji:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/first:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/polib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/redis:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/retry:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/ujson:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Pillow:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/PyYAML:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/bleach:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/caldav:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/docopt:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/enum34:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/orjson:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/psutil:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pycurl:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pysftp:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/stripe:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/xxhash:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/PyMySQL:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/appdirs:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/certifi:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/chardet:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/futures:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyaudio:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyvmomi:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/slumber:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/tzlocal:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/vobject:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Markdown:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Pygments:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Werkzeug:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/aiofiles:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/colorama:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/croniter:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/docutils:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/filelock:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/html5lib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/httplib2:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/jmespath:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/oauthlib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/paramiko:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/psycopg2:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/requests:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/selenium:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/tabulate:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/toposort:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/waitress:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/braintree:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/decorator:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/freezegun:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/ipaddress:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/termcolor:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/ttkthemes:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/typed-ast:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Deprecated:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/MarkupSafe:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Send2Trash:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/cachetools:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/commonmark:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/dateparser:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/frozendict:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/jsonschema:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyfarmhash:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/setuptools:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/simplejson:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/JACK-Client:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/contextvars:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/dataclasses:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/entrypoints:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/mysqlclient:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/prettytable:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-nmap:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/atomicwrites:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/aws-xray-sdk:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/cryptography:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/editdistance:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/itsdangerous:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/backports_abc:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/click-spinner:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/humanfriendly:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-gflags:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/characteristic:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-slugify:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/singledispatch:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-dateutil:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/backports.ssl_match_hostname 
+2022-02-21 09:06:23,002 [  44890]   INFO - indexing.UnindexedFilesUpdater - Started indexing of pythonProject. Reason: changes in: "Python SDK Python 3.8 (pythonProject)" 
+2022-02-21 09:06:23,003 [  44891]   INFO - indexing.UnindexedFilesUpdater - Performing delayed pushing properties tasks for pythonProject took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:23,011 [  44899]   INFO - indexing.UnindexedFilesUpdater - Scanning of pythonProject uses 11 scanning threads 
+2022-02-21 09:06:23,078 [  44966]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python /snap/pycharm-community/267/plugins/python-ce/helpers/packaging_tool.py list 
+2022-02-21 09:06:23,081 [  44969]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 4097 ms 
+2022-02-21 09:06:23,148 [  45036]   INFO - letons.PySkeletonGenerator$Run - _abc ('built-in') 
+2022-02-21 09:06:23,148 [  45036]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _abc at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,238 [  45126]   INFO - letons.PySkeletonGenerator$Run - _ast ('built-in') 
+2022-02-21 09:06:23,249 [  45137]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _ast at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,294 [  45182]   INFO - letons.PySkeletonGenerator$Run - _bisect ('built-in') 
+2022-02-21 09:06:23,302 [  45190]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _bisect at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,335 [  45223]   INFO - letons.PySkeletonGenerator$Run - _blake2 ('built-in') 
+2022-02-21 09:06:23,335 [  45223]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _blake2 at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,379 [  45267]   INFO - letons.PySkeletonGenerator$Run - _codecs ('built-in') 
+2022-02-21 09:06:23,380 [  45268]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _codecs at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,384 [  45272]   WARN - ctionSystem.impl.ActionUpdater - 268 ms to grab EDT for CWMTelephonyGroup#update (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup) 
+2022-02-21 09:06:23,416 [  45304]   INFO - letons.PySkeletonGenerator$Run - _collections ('built-in') 
+2022-02-21 09:06:23,418 [  45306]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _collections at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,509 [  45397]   INFO - letons.PySkeletonGenerator$Run - _csv ('built-in') 
+2022-02-21 09:06:23,509 [  45397]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _csv at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,549 [  45437]   INFO - letons.PySkeletonGenerator$Run - _datetime ('built-in') 
+2022-02-21 09:06:23,550 [  45438]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _datetime at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,660 [  45548]   INFO - letons.PySkeletonGenerator$Run - _elementtree ('built-in') 
+2022-02-21 09:06:23,660 [  45548]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _elementtree at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,741 [  45629]   INFO - letons.PySkeletonGenerator$Run - Processing submodule pyexpat.errors of _elementtree 
+2022-02-21 09:06:23,742 [  45630]   INFO - letons.PySkeletonGenerator$Run - Processing submodule pyexpat.model of _elementtree 
+2022-02-21 09:06:23,749 [  45637]   INFO - letons.PySkeletonGenerator$Run - _functools ('built-in') 
+2022-02-21 09:06:23,749 [  45637]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _functools at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,813 [  45701]   INFO - letons.PySkeletonGenerator$Run - _heapq ('built-in') 
+2022-02-21 09:06:23,813 [  45701]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _heapq at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,866 [  45754]   INFO - letons.PySkeletonGenerator$Run - _imp ('built-in') 
+2022-02-21 09:06:23,867 [  45755]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _imp at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,919 [  45807]   INFO - letons.PySkeletonGenerator$Run - _io ('built-in') 
+2022-02-21 09:06:23,920 [  45808]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _io at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:23,982 [  45870]   INFO - letons.PySkeletonGenerator$Run - _locale ('built-in') 
+2022-02-21 09:06:23,986 [  45874]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _locale at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,068 [  45956]   INFO - letons.PySkeletonGenerator$Run - _md5 ('built-in') 
+2022-02-21 09:06:24,074 [  45962]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _md5 at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,147 [  46035]   INFO - letons.PySkeletonGenerator$Run - _operator ('built-in') 
+2022-02-21 09:06:24,148 [  46036]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _operator at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,212 [  46100]   INFO - letons.PySkeletonGenerator$Run - _pickle ('built-in') 
+2022-02-21 09:06:24,212 [  46100]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _pickle at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,290 [  46178]   INFO - letons.PySkeletonGenerator$Run - _posixsubprocess ('built-in') 
+2022-02-21 09:06:24,290 [  46178]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _posixsubprocess at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,327 [  46215]   INFO - letons.PySkeletonGenerator$Run - _random ('built-in') 
+2022-02-21 09:06:24,328 [  46216]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _random at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,386 [  46274]   INFO - letons.PySkeletonGenerator$Run - _sha1 ('built-in') 
+2022-02-21 09:06:24,386 [  46274]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _sha1 at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,433 [  46321]   INFO - letons.PySkeletonGenerator$Run - _sha256 ('built-in') 
+2022-02-21 09:06:24,433 [  46321]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _sha256 at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,467 [  46355]   INFO - indexing.UnindexedFilesUpdater - Scanning completed for pythonProject. Number of scanned files: 3790; Number of files for indexing: 3728 took 1464ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:24,477 [  46365]   INFO - indexing.UnindexedFilesUpdater - Use 4 indexing threads for indexing of pythonProject 
+2022-02-21 09:06:24,480 [  46368]   INFO - letons.PySkeletonGenerator$Run - _sha3 ('built-in') 
+2022-02-21 09:06:24,481 [  46369]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _sha3 at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,544 [  46432]   INFO - letons.PySkeletonGenerator$Run - _sha512 ('built-in') 
+2022-02-21 09:06:24,546 [  46434]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _sha512 at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,598 [  46486]   INFO - letons.PySkeletonGenerator$Run - _signal ('built-in') 
+2022-02-21 09:06:24,600 [  46488]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _signal at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,658 [  46546]   INFO - letons.PySkeletonGenerator$Run - _socket ('built-in') 
+2022-02-21 09:06:24,658 [  46546]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _socket at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,748 [  46636]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 24 ms 
+2022-02-21 09:06:24,748 [  46636]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python38.zip 
+2022-02-21 09:06:24,749 [  46637]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python)): /home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/2119702566 
+2022-02-21 09:06:24,749 [  46637]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python)): /snap/pycharm-community/267/plugins/python-ce/helpers/python-skeletons 
+2022-02-21 09:06:24,767 [  46655]   INFO - letons.PySkeletonGenerator$Run - _sre ('built-in') 
+2022-02-21 09:06:24,769 [  46657]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _sre at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,821 [  46709]   INFO - letons.PySkeletonGenerator$Run - _stat ('built-in') 
+2022-02-21 09:06:24,823 [  46711]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _stat at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,885 [  46773]   INFO - letons.PySkeletonGenerator$Run - _statistics ('built-in') 
+2022-02-21 09:06:24,885 [  46773]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _statistics at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:24,941 [  46829]   INFO - letons.PySkeletonGenerator$Run - _string ('built-in') 
+2022-02-21 09:06:24,942 [  46830]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _string at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,021 [  46909]   INFO - letons.PySkeletonGenerator$Run - _struct ('built-in') 
+2022-02-21 09:06:25,021 [  46909]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _struct at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,100 [  46988]   INFO - letons.PySkeletonGenerator$Run - _symtable ('built-in') 
+2022-02-21 09:06:25,100 [  46988]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _symtable at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,167 [  47055]   INFO - letons.PySkeletonGenerator$Run - _thread ('built-in') 
+2022-02-21 09:06:25,173 [  47061]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _thread at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,244 [  47132]   INFO - letons.PySkeletonGenerator$Run - _tracemalloc ('built-in') 
+2022-02-21 09:06:25,245 [  47133]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _tracemalloc at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,313 [  47201]   INFO - letons.PySkeletonGenerator$Run - _warnings ('built-in') 
+2022-02-21 09:06:25,313 [  47201]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _warnings at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,394 [  47282]   INFO - letons.PySkeletonGenerator$Run - _weakref ('built-in') 
+2022-02-21 09:06:25,394 [  47282]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _weakref at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,467 [  47355]   INFO - letons.PySkeletonGenerator$Run - array ('built-in') 
+2022-02-21 09:06:25,473 [  47361]   INFO - letons.PySkeletonGenerator$Run - Updating cache for array at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,561 [  47449]   INFO - letons.PySkeletonGenerator$Run - atexit ('built-in') 
+2022-02-21 09:06:25,561 [  47449]   INFO - letons.PySkeletonGenerator$Run - Updating cache for atexit at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,652 [  47540]   INFO - letons.PySkeletonGenerator$Run - binascii ('built-in') 
+2022-02-21 09:06:25,652 [  47540]   INFO - letons.PySkeletonGenerator$Run - Updating cache for binascii at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,710 [  47598]   INFO - letons.PySkeletonGenerator$Run - builtins ('built-in') 
+2022-02-21 09:06:25,716 [  47604]   INFO - letons.PySkeletonGenerator$Run - Updating cache for builtins at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,873 [  47761]   INFO - letons.PySkeletonGenerator$Run - cmath ('built-in') 
+2022-02-21 09:06:25,873 [  47761]   INFO - letons.PySkeletonGenerator$Run - Updating cache for cmath at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:25,940 [  47828]   INFO - letons.PySkeletonGenerator$Run - errno ('built-in') 
+2022-02-21 09:06:25,940 [  47828]   INFO - letons.PySkeletonGenerator$Run - Updating cache for errno at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,006 [  47894]   INFO - letons.PySkeletonGenerator$Run - faulthandler ('built-in') 
+2022-02-21 09:06:26,007 [  47895]   INFO - letons.PySkeletonGenerator$Run - Updating cache for faulthandler at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,089 [  47977]   INFO - letons.PySkeletonGenerator$Run - fcntl ('built-in') 
+2022-02-21 09:06:26,096 [  47984]   INFO - letons.PySkeletonGenerator$Run - Updating cache for fcntl at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,156 [  48044]   INFO - letons.PySkeletonGenerator$Run - gc ('built-in') 
+2022-02-21 09:06:26,163 [  48051]   INFO - letons.PySkeletonGenerator$Run - Updating cache for gc at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,225 [  48113]   INFO - letons.PySkeletonGenerator$Run - grp ('built-in') 
+2022-02-21 09:06:26,225 [  48113]   INFO - letons.PySkeletonGenerator$Run - Updating cache for grp at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,288 [  48176]   INFO - letons.PySkeletonGenerator$Run - itertools ('built-in') 
+2022-02-21 09:06:26,288 [  48176]   INFO - letons.PySkeletonGenerator$Run - Updating cache for itertools at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,389 [  48277]   INFO - letons.PySkeletonGenerator$Run - marshal ('built-in') 
+2022-02-21 09:06:26,396 [  48284]   INFO - letons.PySkeletonGenerator$Run - Updating cache for marshal at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,446 [  48334]   INFO - letons.PySkeletonGenerator$Run - math ('built-in') 
+2022-02-21 09:06:26,453 [  48341]   INFO - letons.PySkeletonGenerator$Run - Updating cache for math at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,500 [  48388]   INFO - letons.PySkeletonGenerator$Run - posix ('built-in') 
+2022-02-21 09:06:26,500 [  48388]   INFO - letons.PySkeletonGenerator$Run - Updating cache for posix at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,609 [  48497]   INFO - letons.PySkeletonGenerator$Run - pwd ('built-in') 
+2022-02-21 09:06:26,609 [  48497]   INFO - letons.PySkeletonGenerator$Run - Updating cache for pwd at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,681 [  48569]   INFO - letons.PySkeletonGenerator$Run - pyexpat ('built-in') 
+2022-02-21 09:06:26,681 [  48569]   INFO - letons.PySkeletonGenerator$Run - Updating cache for pyexpat at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,754 [  48642]   INFO - letons.PySkeletonGenerator$Run - Processing submodule pyexpat.errors of pyexpat 
+2022-02-21 09:06:26,761 [  48649]   INFO - letons.PySkeletonGenerator$Run - Processing submodule pyexpat.model of pyexpat 
+2022-02-21 09:06:26,772 [  48660]   INFO - letons.PySkeletonGenerator$Run - select ('built-in') 
+2022-02-21 09:06:26,773 [  48661]   INFO - letons.PySkeletonGenerator$Run - Updating cache for select at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,836 [  48724]   INFO - letons.PySkeletonGenerator$Run - spwd ('built-in') 
+2022-02-21 09:06:26,836 [  48724]   INFO - letons.PySkeletonGenerator$Run - Updating cache for spwd at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,893 [  48781]   INFO - letons.PySkeletonGenerator$Run - sys ('built-in') 
+2022-02-21 09:06:26,900 [  48788]   INFO - letons.PySkeletonGenerator$Run - Updating cache for sys at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:26,949 [  48837]   INFO - indexing.UnindexedFilesUpdater - Finished for pythonProject. Unindexed files update took 2477ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:26,950 [  48838]   INFO - ij.psi.search.LogFileTypeIndex - File type index snapshot dropped 
+2022-02-21 09:06:26,967 [  48855]   INFO - letons.PySkeletonGenerator$Run - syslog ('built-in') 
+2022-02-21 09:06:26,967 [  48855]   INFO - letons.PySkeletonGenerator$Run - Updating cache for syslog at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:27,025 [  48913]   INFO - letons.PySkeletonGenerator$Run - time ('built-in') 
+2022-02-21 09:06:27,026 [  48914]   INFO - letons.PySkeletonGenerator$Run - Updating cache for time at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:27,091 [  48979]   INFO - ij.psi.search.LogFileTypeIndex - Loading file type index snapshot 
+2022-02-21 09:06:27,095 [  48983]   INFO - indexing.UnindexedFilesUpdater - Started indexing of pythonProject. Reason: changes in: "Python SDK Python 3.8 (pythonProject)" 
+2022-02-21 09:06:27,095 [  48983]   INFO - indexing.UnindexedFilesUpdater - Performing delayed pushing properties tasks for pythonProject took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:27,096 [  48984]   INFO - indexing.UnindexedFilesUpdater - Scanning of pythonProject uses 11 scanning threads 
+2022-02-21 09:06:27,099 [  48987]   INFO - letons.PySkeletonGenerator$Run - unicodedata ('built-in') 
+2022-02-21 09:06:27,099 [  48987]   INFO - letons.PySkeletonGenerator$Run - Updating cache for unicodedata at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:27,126 [  49014]   INFO - indexing.UnindexedFilesUpdater - Scanning completed for pythonProject. Number of scanned files: 3814; Number of files for indexing: 1230 took 31ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:27,128 [  49016]   INFO - indexing.UnindexedFilesUpdater - Use 4 indexing threads for indexing of pythonProject 
+2022-02-21 09:06:27,172 [  49060]   INFO - letons.PySkeletonGenerator$Run - xxsubtype ('built-in') 
+2022-02-21 09:06:27,172 [  49060]   INFO - letons.PySkeletonGenerator$Run - Updating cache for xxsubtype at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:27,240 [  49128]   INFO - letons.PySkeletonGenerator$Run - zlib ('built-in') 
+2022-02-21 09:06:27,248 [  49136]   INFO - letons.PySkeletonGenerator$Run - Updating cache for zlib at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/1b06745c51a7891f4b9bef4c0a87485fe179d2eda06de2f7ec0b6d53de2c07cc' 
+2022-02-21 09:06:27,305 [  49193]   INFO - letons.PySkeletonGenerator$Run - _asyncio ('/usr/lib/python3.8/lib-dynload/_asyncio.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,306 [  49194]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _asyncio at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/86310f2ba110f64da81e685b454946949ba0f324b357a5466acb3bb08f47a6d1' 
+2022-02-21 09:06:27,378 [  49266]   INFO - letons.PySkeletonGenerator$Run - Processing submodule typing.io of _asyncio 
+2022-02-21 09:06:27,378 [  49266]   INFO - letons.PySkeletonGenerator$Run - Processing submodule typing.re of _asyncio 
+2022-02-21 09:06:27,385 [  49273]   INFO - letons.PySkeletonGenerator$Run - _bz2 ('/usr/lib/python3.8/lib-dynload/_bz2.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,385 [  49273]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _bz2 at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/cbd4151cba6ad158e7f10725954a2d834d710b63563d36148ebcf49d18442073' 
+2022-02-21 09:06:27,447 [  49335]   INFO - letons.PySkeletonGenerator$Run - _codecs_cn ('/usr/lib/python3.8/lib-dynload/_codecs_cn.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,447 [  49335]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _codecs_cn at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/dea6d85f216fc50844bf2ec1b06164ecfb03fd625fa5de6dbbaf0fd9b8a8c61b' 
+2022-02-21 09:06:27,489 [  49377]   INFO - letons.PySkeletonGenerator$Run - _codecs_hk ('/usr/lib/python3.8/lib-dynload/_codecs_hk.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,496 [  49384]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _codecs_hk at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/f174a49da7e4d52e2826254e87ddf9bdd4c885191bc70939c56db4f2f944c4ca' 
+2022-02-21 09:06:27,538 [  49426]   INFO - letons.PySkeletonGenerator$Run - _codecs_iso2022 ('/usr/lib/python3.8/lib-dynload/_codecs_iso2022.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,538 [  49426]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _codecs_iso2022 at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/e3744ec53b2ee9105674f9f70539b55d2849859a3115add60ac3b32912b30d1b' 
+2022-02-21 09:06:27,580 [  49468]   INFO - letons.PySkeletonGenerator$Run - _codecs_jp ('/usr/lib/python3.8/lib-dynload/_codecs_jp.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,586 [  49474]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _codecs_jp at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/3c3ef5787bb8001b08e59a65f1ab3fc7d3488627e21ed792f0d14c47e8d9706c' 
+2022-02-21 09:06:27,628 [  49516]   INFO - letons.PySkeletonGenerator$Run - _codecs_kr ('/usr/lib/python3.8/lib-dynload/_codecs_kr.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,635 [  49523]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _codecs_kr at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/44313ca43ae95c322c17eb00be5a90d5bf62971194f8239cd04688d79393f9b2' 
+2022-02-21 09:06:27,679 [  49567]   INFO - letons.PySkeletonGenerator$Run - _codecs_tw ('/usr/lib/python3.8/lib-dynload/_codecs_tw.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,679 [  49567]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _codecs_tw at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/91d2d03875deed9fc7fd0e9e87174bd8de8ff20e548ff8d344639ea233ec6185' 
+2022-02-21 09:06:27,727 [  49615]   INFO - letons.PySkeletonGenerator$Run - _contextvars ('/usr/lib/python3.8/lib-dynload/_contextvars.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,727 [  49615]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _contextvars at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/2033da2c4b54bcaf7b1d2843304b719019d8961513ec0d883fde3a05a55ad8d7' 
+2022-02-21 09:06:27,774 [  49662]   INFO - letons.PySkeletonGenerator$Run - _crypt ('/usr/lib/python3.8/lib-dynload/_crypt.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,775 [  49663]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _crypt at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/2dcf5ff607fa489178d71da7a08c9f7b100d9d655a392981c2c916643ab54c2a' 
+2022-02-21 09:06:27,822 [  49710]   INFO - letons.PySkeletonGenerator$Run - _ctypes ('/usr/lib/python3.8/lib-dynload/_ctypes.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,824 [  49712]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _ctypes at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/a6c31a6f779807a273163a32de4fe499a0979f8d5898df4490516edc1cfc0d57' 
+2022-02-21 09:06:27,881 [  49769]   INFO - letons.PySkeletonGenerator$Run - _ctypes_test ('/usr/lib/python3.8/lib-dynload/_ctypes_test.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,881 [  49769]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _ctypes_test at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/50692fda6d4ee1b69eeed64baca65d4c937f2e61bb8e04b0354ec098f41ae446' 
+2022-02-21 09:06:27,929 [  49817]   INFO - letons.PySkeletonGenerator$Run - _curses ('/usr/lib/python3.8/lib-dynload/_curses.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:27,930 [  49818]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _curses at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/a2657727d9d67468b24193e310820b9a7b4ab253535a7c8218e724b781e96f32' 
+2022-02-21 09:06:28,013 [  49901]   INFO - letons.PySkeletonGenerator$Run - _curses_panel ('/usr/lib/python3.8/lib-dynload/_curses_panel.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,014 [  49902]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _curses_panel at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/d2f83d065d8ca59c588de4791fe14190dba2d9f6e702609181aa3bc2475fd296' 
+2022-02-21 09:06:28,066 [  49954]   INFO - letons.PySkeletonGenerator$Run - _dbm ('/usr/lib/python3.8/lib-dynload/_dbm.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,067 [  49955]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _dbm at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/d66f90b5e56e8dc0826bb802ab7a5b8d27f1bd6b072cc4ac401a4f0cee7c0fad' 
+2022-02-21 09:06:28,106 [  49994]   INFO - letons.PySkeletonGenerator$Run - _decimal ('/usr/lib/python3.8/lib-dynload/_decimal.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,106 [  49994]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _decimal at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/c696b454b823754b061cede5602a6bb14899e38665eef2cad3f725400fc52b38' 
+2022-02-21 09:06:28,150 [  50038]   INFO - indexing.UnindexedFilesUpdater - Finished for pythonProject. Unindexed files update took 1022ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:28,150 [  50038]   INFO - ij.psi.search.LogFileTypeIndex - File type index snapshot dropped 
+2022-02-21 09:06:28,152 [  50040]   INFO - ij.psi.search.LogFileTypeIndex - Loading file type index snapshot 
+2022-02-21 09:06:28,153 [  50041]   INFO - indexing.UnindexedFilesUpdater - Started indexing of pythonProject. Reason: On project open 
+2022-02-21 09:06:28,154 [  50042]   INFO - indexing.UnindexedFilesUpdater - Performing delayed pushing properties tasks for pythonProject took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:28,156 [  50044]   INFO - indexing.UnindexedFilesUpdater - Scanning of pythonProject uses 11 scanning threads 
+2022-02-21 09:06:28,174 [  50062]   INFO - letons.PySkeletonGenerator$Run - _gdbm ('/usr/lib/python3.8/lib-dynload/_gdbm.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,174 [  50062]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _gdbm at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/6b6e07816427dafcfb5abf994167b09f96e70d81bbf7bcb5d08d29403b5a78cd' 
+2022-02-21 09:06:28,190 [  50078]   INFO - indexing.UnindexedFilesUpdater - Scanning completed for pythonProject. Number of scanned files: 4060; Number of files for indexing: 246 took 36ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:28,192 [  50080]   INFO - indexing.UnindexedFilesUpdater - Use 4 indexing threads for indexing of pythonProject 
+2022-02-21 09:06:28,222 [  50110]   INFO - letons.PySkeletonGenerator$Run - _hashlib ('/usr/lib/python3.8/lib-dynload/_hashlib.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,228 [  50116]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _hashlib at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/eebdc2ca07f94759ffd783d111256bf6493869286a2f90ccfdb3ff41f284b670' 
+2022-02-21 09:06:28,276 [  50164]   INFO - letons.PySkeletonGenerator$Run - _json ('/usr/lib/python3.8/lib-dynload/_json.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,276 [  50164]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _json at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/81fd25c049058149925cf1812a0827bce714bc7578b7181c14ed8377033ed06e' 
+2022-02-21 09:06:28,328 [  50216]   INFO - letons.PySkeletonGenerator$Run - _lsprof ('/usr/lib/python3.8/lib-dynload/_lsprof.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,328 [  50216]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _lsprof at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/acffec543ef7f451da0335ab269503ae3ca00ddb1856d9ac9bbeac0f2827db22' 
+2022-02-21 09:06:28,376 [  50264]   INFO - letons.PySkeletonGenerator$Run - _lzma ('/usr/lib/python3.8/lib-dynload/_lzma.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,376 [  50264]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _lzma at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/27a33fb9510c0ffc1bd3be1a8edaf2c39a42d99b79696b47fbe36edab70afc8a' 
+2022-02-21 09:06:28,412 [  50300]   INFO - gnostic.MemorySizeConfigurator - Physical memory 7800M, minimum memory size 128M, -Xmx adjusted from 750M to 975M 
+2022-02-21 09:06:28,423 [  50311]   INFO - m.codeWithMe.CodeWithMeCleanup - running activity to cleanup old thin clients... Root path is '/home/abdiweli/.cache/JetBrains' 
+2022-02-21 09:06:28,423 [  50311]   INFO - m.codeWithMe.CodeWithMeCleanup - found 0 Code With Me client system folders to check 
+2022-02-21 09:06:28,423 [  50311]   INFO - m.codeWithMe.CodeWithMeCleanup - found 0 Code With Me client config folders to check 
+2022-02-21 09:06:28,425 [  50313]   INFO - m.codeWithMe.CodeWithMeCleanup - keep only [] major versions 
+2022-02-21 09:06:28,436 [  50324]   INFO - letons.PySkeletonGenerator$Run - _multibytecodec ('/usr/lib/python3.8/lib-dynload/_multibytecodec.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,436 [  50324]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _multibytecodec at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/79eddbf1ee58a4f27cca28e0c09a3fa7c9444d1d9c17208af79d125f51ffda68' 
+2022-02-21 09:06:28,449 [  50337]   INFO - thon.packaging.PyPIPackageUtil - Fetching index of all packages available on https://pypi.python.org/simple 
+2022-02-21 09:06:28,478 [  50366]   INFO - letons.PySkeletonGenerator$Run - _multiprocessing ('/usr/lib/python3.8/lib-dynload/_multiprocessing.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,484 [  50372]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _multiprocessing at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/88a0e4f96eab20efcefb9219b19eb10bd7e222f28d7781bc21309a125d3f6994' 
+2022-02-21 09:06:28,521 [  50409]   INFO - letons.PySkeletonGenerator$Run - _opcode ('/usr/lib/python3.8/lib-dynload/_opcode.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,528 [  50416]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _opcode at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/928bddc6aff7215059d86e0702891cb0a3d9b60542ee1718e65b33f19c22b27c' 
+2022-02-21 09:06:28,565 [  50453]   INFO - letons.PySkeletonGenerator$Run - _posixshmem ('/usr/lib/python3.8/lib-dynload/_posixshmem.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,565 [  50453]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _posixshmem at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/30f1fc71796c28c6008661ac1c1bccdee74b1c9714c6da8373425d9897315172' 
+2022-02-21 09:06:28,612 [  50500]   INFO - letons.PySkeletonGenerator$Run - _queue ('/usr/lib/python3.8/lib-dynload/_queue.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,612 [  50500]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _queue at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/8ed31e4124393fea90c0b189f0ed5e9cb599cb8682cf1206edcdb6e990309e39' 
+2022-02-21 09:06:28,657 [  50545]   INFO - letons.PySkeletonGenerator$Run - _sqlite3 ('/usr/lib/python3.8/lib-dynload/_sqlite3.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,658 [  50546]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _sqlite3 at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/54976a810cd96d589602f158f54146264824d00ddffd706c4ee66121659395cf' 
+2022-02-21 09:06:28,691 [  50579]   INFO - indexing.UnindexedFilesUpdater - Finished for pythonProject. Unindexed files update took 499ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:28,691 [  50579]   INFO - ij.psi.search.LogFileTypeIndex - File type index snapshot dropped 
+2022-02-21 09:06:28,698 [  50586]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files of pythonProject : 81 to update, calculated in 0ms 
+2022-02-21 09:06:28,699 [  50587]   INFO - ij.psi.search.LogFileTypeIndex - Loading file type index snapshot 
+2022-02-21 09:06:28,702 [  50590]   INFO - g.FileBasedIndexProjectHandler - Using 4 threads for indexing 
+2022-02-21 09:06:28,726 [  50614]   INFO - letons.PySkeletonGenerator$Run - _ssl ('/usr/lib/python3.8/lib-dynload/_ssl.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,732 [  50620]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _ssl at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/464938ea3abd081c1a0fa3f19a81a50db00f6cbe43cd600659dfa77b9da8b088' 
+2022-02-21 09:06:28,810 [  50698]   INFO - ij.psi.search.LogFileTypeIndex - File type index snapshot dropped 
+2022-02-21 09:06:28,811 [  50699]   INFO - gnostic.PerformanceWatcherImpl - Reindexing refreshed files of pythonProject took 113ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:28,823 [  50711]   INFO - .services.SpaceKtsFileDetector - SpaceKtsFileDetector 
+2022-02-21 09:06:28,867 [  50755]   INFO - letons.PySkeletonGenerator$Run - _testbuffer ('/usr/lib/python3.8/lib-dynload/_testbuffer.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,867 [  50755]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _testbuffer at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/20ae36dc326b07ea3a67afb211340089e8b974f6bdfe11fbef8bf251a8850e5e' 
+2022-02-21 09:06:28,909 [  50797]   INFO - letons.PySkeletonGenerator$Run - _testcapi ('/usr/lib/python3.8/lib-dynload/_testcapi.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,910 [  50798]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _testcapi at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/89acfecd7d369531f18edf23c638a03bdc7b3bf8e7bc7501812fa1b5a708246d' 
+2022-02-21 09:06:28,968 [  50856]   INFO - letons.PySkeletonGenerator$Run - _testimportmultiple ('/usr/lib/python3.8/lib-dynload/_testimportmultiple.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:28,968 [  50856]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _testimportmultiple at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/d1949b11605b883f8f6b7125e607f0d9eff28e5d6b7a15806bcdfd3578cb36a2' 
+2022-02-21 09:06:29,005 [  50893]   INFO - letons.PySkeletonGenerator$Run - _testinternalcapi ('/usr/lib/python3.8/lib-dynload/_testinternalcapi.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,005 [  50893]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _testinternalcapi at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/c446b39e5381293fc8a21b0792fe827b18302813e17b3e7b17c8168afce06dfe' 
+2022-02-21 09:06:29,042 [  50930]   INFO - letons.PySkeletonGenerator$Run - _testmultiphase ('/usr/lib/python3.8/lib-dynload/_testmultiphase.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,043 [  50931]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _testmultiphase at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/a5a112aedc4d7c9506fc6e26aa5050f60b8ff15cd4e89ba6c9f5a687a831a486' 
+2022-02-21 09:06:29,085 [  50973]   INFO - letons.PySkeletonGenerator$Run - _uuid ('/usr/lib/python3.8/lib-dynload/_uuid.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,086 [  50974]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _uuid at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/088b9ce1e5bed544ffd23316ed1ace7796f0be4e63618645d7d099823f8973c9' 
+2022-02-21 09:06:29,153 [  51041]   INFO - letons.PySkeletonGenerator$Run - _xxsubinterpreters ('/usr/lib/python3.8/lib-dynload/_xxsubinterpreters.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,159 [  51047]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _xxsubinterpreters at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/32743e2e88355b8f84a80f53ff47568f4dc51e4c1d2a88380f90c252c4c371a6' 
+2022-02-21 09:06:29,177 [  51065]   INFO - letons.PySkeletonGenerator$Run - _xxtestfuzz ('/usr/lib/python3.8/lib-dynload/_xxtestfuzz.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,181 [  51069]   INFO - letons.PySkeletonGenerator$Run - Updating cache for _xxtestfuzz at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/9dd47f032f592898e868ee3e0d630d896250739c3704bb6949ddb3852811adaf' 
+2022-02-21 09:06:29,235 [  51123]   INFO - letons.PySkeletonGenerator$Run - audioop ('/usr/lib/python3.8/lib-dynload/audioop.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,235 [  51123]   INFO - letons.PySkeletonGenerator$Run - Updating cache for audioop at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/6bf6ef04c5649ca3df6f8b7fd2e77bf4f4f782366030c44a002524b8d24e54c0' 
+2022-02-21 09:06:29,273 [  51161]   INFO - letons.PySkeletonGenerator$Run - mmap ('/usr/lib/python3.8/lib-dynload/mmap.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,273 [  51161]   INFO - letons.PySkeletonGenerator$Run - Updating cache for mmap at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/c330afcc6f4c4ebf682104b9aaa8146d6b01335d3dc21b8625140d2d7ad51c0e' 
+2022-02-21 09:06:29,321 [  51209]   INFO - letons.PySkeletonGenerator$Run - nis ('/usr/lib/python3.8/lib-dynload/nis.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,321 [  51209]   INFO - letons.PySkeletonGenerator$Run - Updating cache for nis at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/2f1e599e99955f62663b208e7deb19845493b5232d93e50659d4f43befec6e8c' 
+2022-02-21 09:06:29,369 [  51257]   INFO - letons.PySkeletonGenerator$Run - ossaudiodev ('/usr/lib/python3.8/lib-dynload/ossaudiodev.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,369 [  51257]   INFO - letons.PySkeletonGenerator$Run - Updating cache for ossaudiodev at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/71d5870463d576a0d1bf9a1c8abd4526992d39c05298e33f98ec38b6b4515f16' 
+2022-02-21 09:06:29,412 [  51300]   INFO - letons.PySkeletonGenerator$Run - parser ('/usr/lib/python3.8/lib-dynload/parser.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,412 [  51300]   INFO - letons.PySkeletonGenerator$Run - Updating cache for parser at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/62a631e75c115ad4cf15de6f30ae26439ce6d8c1750df37e9834bccd1aaab58f' 
+2022-02-21 09:06:29,464 [  51352]   INFO - letons.PySkeletonGenerator$Run - readline ('/usr/lib/python3.8/lib-dynload/readline.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,466 [  51354]   INFO - letons.PySkeletonGenerator$Run - Updating cache for readline at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/3bdc117e407f8c4058ece9e89a1edc30461e9c7bae190223f350733c20c25397' 
+2022-02-21 09:06:29,535 [  51423]   INFO - letons.PySkeletonGenerator$Run - resource ('/usr/lib/python3.8/lib-dynload/resource.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,541 [  51429]   INFO - letons.PySkeletonGenerator$Run - Updating cache for resource at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/c85c8f59a36b575afb1608d65fce5ef21750bbece6c160a0179a7ca88f57d44d' 
+2022-02-21 09:06:29,542 [  51430]   INFO - System.impl.PopupMenuPreloader - Popup menu 'File' preloaded at 'MainMenu' in 59 ms 
+2022-02-21 09:06:29,564 [  51452]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Edit' preloaded at 'MainMenu' in 83 ms 
+2022-02-21 09:06:29,579 [  51467]   INFO - System.impl.PopupMenuPreloader - Popup menu 'View' preloaded at 'MainMenu' in 98 ms 
+2022-02-21 09:06:29,590 [  51478]   INFO - letons.PySkeletonGenerator$Run - termios ('/usr/lib/python3.8/lib-dynload/termios.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,590 [  51478]   INFO - letons.PySkeletonGenerator$Run - Updating cache for termios at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/ee69d29948b160b18c90d2340737c092f764654f9d51370721b5abc87c60bd6f' 
+2022-02-21 09:06:29,610 [  51498]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Navigate' preloaded at 'MainMenu' in 129 ms 
+2022-02-21 09:06:29,657 [  51545]   INFO - letons.PySkeletonGenerator$Run - xxlimited ('/usr/lib/python3.8/lib-dynload/xxlimited.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:29,657 [  51545]   INFO - letons.PySkeletonGenerator$Run - Updating cache for xxlimited at '/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/cache/ee48a2a2127e930ae7fd016974873dcf2ead400193104bb034bbff08a4dc1fee' 
+2022-02-21 09:06:29,661 [  51549]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Code' preloaded at 'MainMenu' in 180 ms 
+2022-02-21 09:06:29,667 [  51555]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Refactor' preloaded at 'MainMenu' in 186 ms 
+2022-02-21 09:06:29,719 [  51607]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 6725 ms 
+2022-02-21 09:06:29,765 [  51653]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python) 
+2022-02-21 09:06:29,766 [  51654]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python /snap/pycharm-community/267/plugins/python-ce/helpers/packaging_tool.py list 
+2022-02-21 09:06:29,774 [  51662]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files of pythonProject : 29 to update, calculated in 1ms 
+2022-02-21 09:06:29,775 [  51663]   INFO - ij.psi.search.LogFileTypeIndex - Loading file type index snapshot 
+2022-02-21 09:06:29,777 [  51665]   INFO - g.FileBasedIndexProjectHandler - Using 4 threads for indexing 
+2022-02-21 09:06:29,909 [  51797]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 184 ms 
+2022-02-21 09:06:29,966 [  51854]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 16 ms 
+2022-02-21 09:06:29,966 [  51854]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python38.zip 
+2022-02-21 09:06:29,967 [  51855]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python)): /home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/2119702566 
+2022-02-21 09:06:29,967 [  51855]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python)): /snap/pycharm-community/267/plugins/python-ce/helpers/python-skeletons 
+2022-02-21 09:06:29,967 [  51855]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python) 
+2022-02-21 09:06:29,967 [  51855]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python 
+2022-02-21 09:06:29,967 [  51855]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/267 
+2022-02-21 09:06:29,970 [  51858]   INFO - letons.PySkeletonGenerator$Run - /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python /snap/pycharm-community/267/plugins/python-ce/helpers/generator3/__main__.py -d /home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/2119702566/ -s /usr/lib/python3.8:/usr/lib/python3.8/lib-dynload:/home/abdiweli/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stdlib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/six:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/boto:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/mock:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pytz:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/toml:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/annoy:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/babel:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/click:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/emoji:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/first:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/polib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/redis:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/retry:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/ujson:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Pillow:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/PyYAML:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/bleach:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/caldav:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/docopt:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/enum34:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/orjson:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/psutil:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pycurl:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pysftp:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/stripe:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/xxhash:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/PyMySQL:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/appdirs:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/certifi:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/chardet:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/futures:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyaudio:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyvmomi:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/slumber:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/tzlocal:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/vobject:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Markdown:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Pygments:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Werkzeug:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/aiofiles:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/colorama:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/croniter:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/docutils:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/filelock:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/html5lib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/httplib2:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/jmespath:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/oauthlib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/paramiko:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/psycopg2:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/requests:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/selenium:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/tabulate:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/toposort:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/waitress:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/braintree:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/decorator:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/freezegun:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/ipaddress:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/termcolor:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/ttkthemes:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/typed-ast:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Deprecated:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/MarkupSafe:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Send2Trash:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/cachetools:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/commonmark:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/dateparser:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/frozendict:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/jsonschema:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyfarmhash:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/setuptools:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/simplejson:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/JACK-Client:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/contextvars:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/dataclasses:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/entrypoints:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/mysqlclient:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/prettytable:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-nmap:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/atomicwrites:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/aws-xray-sdk:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/cryptography:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/editdistance:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/itsdangerous:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/backports_abc:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/click-spinner:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/humanfriendly:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-gflags:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/characteristic:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-slugify:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/singledispatch:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-dateutil:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/backports.ssl_match_hostname 
+2022-02-21 09:06:29,977 [  51865]   INFO - ij.psi.search.LogFileTypeIndex - File type index snapshot dropped 
+2022-02-21 09:06:29,978 [  51866]   INFO - gnostic.PerformanceWatcherImpl - Reindexing refreshed files of pythonProject took 204ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:06:29,979 [  51867]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files of pythonProject : 0 to update, calculated in 0ms 
+2022-02-21 09:06:30,063 [  51951]   INFO - letons.PySkeletonGenerator$Run - _abc ('built-in') 
+2022-02-21 09:06:30,063 [  51951]   INFO - letons.PySkeletonGenerator$Run - _ast ('built-in') 
+2022-02-21 09:06:30,063 [  51951]   INFO - letons.PySkeletonGenerator$Run - _bisect ('built-in') 
+2022-02-21 09:06:30,063 [  51951]   INFO - letons.PySkeletonGenerator$Run - _blake2 ('built-in') 
+2022-02-21 09:06:30,063 [  51951]   INFO - letons.PySkeletonGenerator$Run - _codecs ('built-in') 
+2022-02-21 09:06:30,063 [  51951]   INFO - letons.PySkeletonGenerator$Run - _collections ('built-in') 
+2022-02-21 09:06:30,063 [  51951]   INFO - letons.PySkeletonGenerator$Run - _csv ('built-in') 
+2022-02-21 09:06:30,063 [  51951]   INFO - letons.PySkeletonGenerator$Run - _datetime ('built-in') 
+2022-02-21 09:06:30,064 [  51952]   INFO - letons.PySkeletonGenerator$Run - _elementtree ('built-in') 
+2022-02-21 09:06:30,064 [  51952]   INFO - letons.PySkeletonGenerator$Run - _functools ('built-in') 
+2022-02-21 09:06:30,065 [  51953]   INFO - letons.PySkeletonGenerator$Run - _heapq ('built-in') 
+2022-02-21 09:06:30,065 [  51953]   INFO - letons.PySkeletonGenerator$Run - _imp ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _io ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _locale ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _md5 ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _operator ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _pickle ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _posixsubprocess ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _random ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _sha1 ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _sha256 ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _sha3 ('built-in') 
+2022-02-21 09:06:30,067 [  51955]   INFO - letons.PySkeletonGenerator$Run - _sha512 ('built-in') 
+2022-02-21 09:06:30,068 [  51956]   INFO - letons.PySkeletonGenerator$Run - _signal ('built-in') 
+2022-02-21 09:06:30,068 [  51956]   INFO - letons.PySkeletonGenerator$Run - _socket ('built-in') 
+2022-02-21 09:06:30,068 [  51956]   INFO - letons.PySkeletonGenerator$Run - _sre ('built-in') 
+2022-02-21 09:06:30,069 [  51957]   INFO - letons.PySkeletonGenerator$Run - _stat ('built-in') 
+2022-02-21 09:06:30,069 [  51957]   INFO - letons.PySkeletonGenerator$Run - _statistics ('built-in') 
+2022-02-21 09:06:30,069 [  51957]   INFO - letons.PySkeletonGenerator$Run - _string ('built-in') 
+2022-02-21 09:06:30,069 [  51957]   INFO - letons.PySkeletonGenerator$Run - _struct ('built-in') 
+2022-02-21 09:06:30,069 [  51957]   INFO - letons.PySkeletonGenerator$Run - _symtable ('built-in') 
+2022-02-21 09:06:30,069 [  51957]   INFO - letons.PySkeletonGenerator$Run - _thread ('built-in') 
+2022-02-21 09:06:30,069 [  51957]   INFO - letons.PySkeletonGenerator$Run - _tracemalloc ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - _warnings ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - _weakref ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - array ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - atexit ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - binascii ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - builtins ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - cmath ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - errno ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - faulthandler ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - fcntl ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - gc ('built-in') 
+2022-02-21 09:06:30,071 [  51959]   INFO - letons.PySkeletonGenerator$Run - grp ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - itertools ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - marshal ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - math ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - posix ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - pwd ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - pyexpat ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - select ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - spwd ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - sys ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - syslog ('built-in') 
+2022-02-21 09:06:30,073 [  51961]   INFO - letons.PySkeletonGenerator$Run - time ('built-in') 
+2022-02-21 09:06:30,075 [  51963]   INFO - letons.PySkeletonGenerator$Run - unicodedata ('built-in') 
+2022-02-21 09:06:30,075 [  51963]   INFO - letons.PySkeletonGenerator$Run - xxsubtype ('built-in') 
+2022-02-21 09:06:30,075 [  51963]   INFO - letons.PySkeletonGenerator$Run - zlib ('built-in') 
+2022-02-21 09:06:30,075 [  51963]   INFO - letons.PySkeletonGenerator$Run - _asyncio ('/usr/lib/python3.8/lib-dynload/_asyncio.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,075 [  51963]   INFO - letons.PySkeletonGenerator$Run - _bz2 ('/usr/lib/python3.8/lib-dynload/_bz2.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,075 [  51963]   INFO - letons.PySkeletonGenerator$Run - _codecs_cn ('/usr/lib/python3.8/lib-dynload/_codecs_cn.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,075 [  51963]   INFO - letons.PySkeletonGenerator$Run - _codecs_hk ('/usr/lib/python3.8/lib-dynload/_codecs_hk.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,075 [  51963]   INFO - letons.PySkeletonGenerator$Run - _codecs_iso2022 ('/usr/lib/python3.8/lib-dynload/_codecs_iso2022.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,075 [  51963]   INFO - letons.PySkeletonGenerator$Run - _codecs_jp ('/usr/lib/python3.8/lib-dynload/_codecs_jp.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,075 [  51963]   INFO - letons.PySkeletonGenerator$Run - _codecs_kr ('/usr/lib/python3.8/lib-dynload/_codecs_kr.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,076 [  51964]   INFO - letons.PySkeletonGenerator$Run - _codecs_tw ('/usr/lib/python3.8/lib-dynload/_codecs_tw.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,076 [  51964]   INFO - letons.PySkeletonGenerator$Run - _contextvars ('/usr/lib/python3.8/lib-dynload/_contextvars.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,077 [  51965]   INFO - letons.PySkeletonGenerator$Run - _crypt ('/usr/lib/python3.8/lib-dynload/_crypt.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,077 [  51965]   INFO - letons.PySkeletonGenerator$Run - _ctypes ('/usr/lib/python3.8/lib-dynload/_ctypes.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,077 [  51965]   INFO - letons.PySkeletonGenerator$Run - _ctypes_test ('/usr/lib/python3.8/lib-dynload/_ctypes_test.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,077 [  51965]   INFO - letons.PySkeletonGenerator$Run - _curses ('/usr/lib/python3.8/lib-dynload/_curses.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,077 [  51965]   INFO - letons.PySkeletonGenerator$Run - _curses_panel ('/usr/lib/python3.8/lib-dynload/_curses_panel.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,077 [  51965]   INFO - letons.PySkeletonGenerator$Run - _dbm ('/usr/lib/python3.8/lib-dynload/_dbm.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,077 [  51965]   INFO - letons.PySkeletonGenerator$Run - _decimal ('/usr/lib/python3.8/lib-dynload/_decimal.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,077 [  51965]   INFO - letons.PySkeletonGenerator$Run - _gdbm ('/usr/lib/python3.8/lib-dynload/_gdbm.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,078 [  51966]   INFO - letons.PySkeletonGenerator$Run - _hashlib ('/usr/lib/python3.8/lib-dynload/_hashlib.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,078 [  51966]   INFO - letons.PySkeletonGenerator$Run - _json ('/usr/lib/python3.8/lib-dynload/_json.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,078 [  51966]   INFO - letons.PySkeletonGenerator$Run - _lsprof ('/usr/lib/python3.8/lib-dynload/_lsprof.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,079 [  51967]   INFO - letons.PySkeletonGenerator$Run - _lzma ('/usr/lib/python3.8/lib-dynload/_lzma.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,079 [  51967]   INFO - letons.PySkeletonGenerator$Run - _multibytecodec ('/usr/lib/python3.8/lib-dynload/_multibytecodec.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,079 [  51967]   INFO - letons.PySkeletonGenerator$Run - _multiprocessing ('/usr/lib/python3.8/lib-dynload/_multiprocessing.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,079 [  51967]   INFO - letons.PySkeletonGenerator$Run - _opcode ('/usr/lib/python3.8/lib-dynload/_opcode.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,079 [  51967]   INFO - letons.PySkeletonGenerator$Run - _posixshmem ('/usr/lib/python3.8/lib-dynload/_posixshmem.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,079 [  51967]   INFO - letons.PySkeletonGenerator$Run - _queue ('/usr/lib/python3.8/lib-dynload/_queue.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,080 [  51968]   INFO - letons.PySkeletonGenerator$Run - _sqlite3 ('/usr/lib/python3.8/lib-dynload/_sqlite3.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,080 [  51968]   INFO - letons.PySkeletonGenerator$Run - _ssl ('/usr/lib/python3.8/lib-dynload/_ssl.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,081 [  51969]   INFO - letons.PySkeletonGenerator$Run - _testbuffer ('/usr/lib/python3.8/lib-dynload/_testbuffer.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,081 [  51969]   INFO - letons.PySkeletonGenerator$Run - _testcapi ('/usr/lib/python3.8/lib-dynload/_testcapi.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,081 [  51969]   INFO - letons.PySkeletonGenerator$Run - _testimportmultiple ('/usr/lib/python3.8/lib-dynload/_testimportmultiple.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,081 [  51969]   INFO - letons.PySkeletonGenerator$Run - _testinternalcapi ('/usr/lib/python3.8/lib-dynload/_testinternalcapi.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,081 [  51969]   INFO - letons.PySkeletonGenerator$Run - _testmultiphase ('/usr/lib/python3.8/lib-dynload/_testmultiphase.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,082 [  51970]   INFO - letons.PySkeletonGenerator$Run - _uuid ('/usr/lib/python3.8/lib-dynload/_uuid.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,083 [  51971]   INFO - letons.PySkeletonGenerator$Run - _xxsubinterpreters ('/usr/lib/python3.8/lib-dynload/_xxsubinterpreters.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,083 [  51971]   INFO - letons.PySkeletonGenerator$Run - _xxtestfuzz ('/usr/lib/python3.8/lib-dynload/_xxtestfuzz.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,083 [  51971]   INFO - letons.PySkeletonGenerator$Run - audioop ('/usr/lib/python3.8/lib-dynload/audioop.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,083 [  51971]   INFO - letons.PySkeletonGenerator$Run - mmap ('/usr/lib/python3.8/lib-dynload/mmap.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,083 [  51971]   INFO - letons.PySkeletonGenerator$Run - nis ('/usr/lib/python3.8/lib-dynload/nis.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,083 [  51971]   INFO - letons.PySkeletonGenerator$Run - ossaudiodev ('/usr/lib/python3.8/lib-dynload/ossaudiodev.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,083 [  51971]   INFO - letons.PySkeletonGenerator$Run - parser ('/usr/lib/python3.8/lib-dynload/parser.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,083 [  51971]   INFO - letons.PySkeletonGenerator$Run - readline ('/usr/lib/python3.8/lib-dynload/readline.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,083 [  51971]   INFO - letons.PySkeletonGenerator$Run - resource ('/usr/lib/python3.8/lib-dynload/resource.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,083 [  51971]   INFO - letons.PySkeletonGenerator$Run - termios ('/usr/lib/python3.8/lib-dynload/termios.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,085 [  51973]   INFO - letons.PySkeletonGenerator$Run - xxlimited ('/usr/lib/python3.8/lib-dynload/xxlimited.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 09:06:30,090 [  51978]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 123 ms 
+2022-02-21 09:06:30,097 [  51985]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python) 
+2022-02-21 09:06:30,097 [  51985]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python /snap/pycharm-community/267/plugins/python-ce/helpers/packaging_tool.py list 
+2022-02-21 09:06:38,119 [  60007]   INFO - red.download.SharedIndexLookup - Selected pre-built shared index SharedIndexResult(request='PyPackageIndexLookupRequest(wheel, 0.36.2)', url='https://index-cdn.jetbrains.com/v2/data/py_pkg/wheel/0.36.2/wheel-linux-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c.ijx.xz', weakHash=5c845835d8ea, weakBaseVersionHash=e2a8ec1057a5, sha256='d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c') from https://index-cdn.jetbrains.com/v2/py_pkg/wheel/0.36.2 for PyPackageIndexLookupRequest(wheel, 0.36.2) 
+2022-02-21 09:06:39,100 [  60988]   INFO - redIndexChunkConfigurationImpl - Fetching shared index (wheel-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c-5c845835d8ea) ... 
+2022-02-21 09:06:39,740 [  61628]   INFO - redIndexChunkConfigurationImpl - Chunk wheel-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c-5c845835d8ea is downloaded in 639 ms 
+2022-02-21 09:06:39,756 [  61644]   INFO - impl.SharedIndexMainZipStorage - Shared Indexes Storage is updated with wheel-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c-5c845835d8ea. Total: 1 chunk(s), 569.66 kB 
+2022-02-21 09:06:39,756 [  61644]   INFO - redIndexChunkConfigurationImpl - Chunk wheel-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c-5c845835d8ea is appended into the store in 16 ms 
+2022-02-21 09:06:39,756 [  61644]   INFO - redIndexChunkConfigurationImpl - Shared index (wheel-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c-5c845835d8ea) has been fetched 
+2022-02-21 09:06:39,772 [  61660]   INFO - redIndexChunkConfigurationImpl - Chunk wheel-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c-5c845835d8ea is registered for project 'pythonProject: matching: (fb=17, stub=12), incompatible: (fb=0, stub=0), unknown: (fb=9, stub=7),  
+2022-02-21 09:06:58,179 [  80067]   INFO - ent.TerminalArrangementManager - Old terminal/ directory does not exist or not a directory: /home/abdiweli/.config/JetBrains/PyCharmCE2021.3/terminal 
+2022-02-21 09:06:58,187 [  80075]   INFO - .plugins.terminal.TerminalView - Activating Terminal tool window 
+2022-02-21 09:07:00,203 [  82091]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Run' preloaded at 'MainMenu' in 14 ms 
+2022-02-21 09:07:00,206 [  82094]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Tools' preloaded at 'MainMenu' in 16 ms 
+2022-02-21 09:07:00,212 [  82100]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Window' preloaded at 'MainMenu' in 22 ms 
+2022-02-21 09:07:00,337 [  82225]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Help' preloaded at 'MainMenu' in 148 ms 
+2022-02-21 09:07:00,622 [  82510]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Project View Popup Menu' preloaded at 'ProjectViewPopup' in 431 ms 
+2022-02-21 09:07:00,623 [  82511]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Project View Popup Menu' preloaded at 'ProjectViewPopup' in 431 ms 
+2022-02-21 09:07:00,670 [  82558]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Editor Popup Menu' preloaded at 'EditorPopup' in 478 ms 
+2022-02-21 09:07:00,671 [  82559]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Editor Popup Menu' preloaded at 'EditorPopup' in 479 ms 
+2022-02-21 09:07:02,699 [  84587]   INFO - down.settings.MarkdownSettings - Migrating Markdown settings 
+2022-02-21 09:07:07,512 [  89400]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)RunManager took 16 ms 
+2022-02-21 09:09:01,572 [ 203460]   INFO - al.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: true 
+2022-02-21 09:09:01,572 [ 203460]   INFO - al.NewToolbarRootPaneExtension - Show new main toolbar: false 
+2022-02-21 09:09:06,274 [ 208162]   INFO - al.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: true 
+2022-02-21 09:09:06,274 [ 208162]   INFO - al.NewToolbarRootPaneExtension - Show new main toolbar: false 
+2022-02-21 09:09:06,760 [ 208648]   WARN - ctionSystem.impl.ActionUpdater - 342 ms to grab EDT for #update (com.intellij.openapi.wm.impl.ToolWindowHeader$1) 
+2022-02-21 09:09:06,760 [ 208648]   WARN - ctionSystem.impl.ActionUpdater - 342 ms to grab EDT for CWMTelephonyGroup#update (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup) 
+2022-02-21 09:09:08,938 [ 210826]   WARN - arketplace.MarketplaceRequests - Error reading Marketplace file: com.fasterxml.jackson.databind.JsonMappingException: Unexpected end-of-input: was expecting closing quote for a string value
+ at [Source: (BufferedReader); line: 1, column: 81207] (through reference chain: java.util.HashSet[3095]) (file=/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/plugins/pluginsXMLIds.json URL=https://plugins.jetbrains.com/files/pluginsXMLIds.json) 
+2022-02-21 09:09:08,939 [ 210827]   WARN - arketplace.MarketplaceRequests - Cannot get plugins from Marketplace: Unexpected end-of-input: was expecting closing quote for a string value
+ at [Source: (BufferedReader); line: 1, column: 81207] (through reference chain: java.util.HashSet[3095]) 
+2022-02-21 09:09:55,909 [ 257797]   INFO - rnal.statistic.DeviceIdManager - Generating new Device ID for 'MarketplaceDownloads' 
+2022-02-21 09:10:20,865 [ 282753]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2022-02-21 09:10:21,386 [ 283274]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)RunManager took 161 ms 
+2022-02-21 09:10:37,723 [ 299611]   INFO - al.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: true 
+2022-02-21 09:10:37,723 [ 299611]   INFO - al.NewToolbarRootPaneExtension - Show new main toolbar: false 
+2022-02-21 09:10:41,976 [ 303864]   INFO - al.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: true 
+2022-02-21 09:10:41,976 [ 303864]   INFO - al.NewToolbarRootPaneExtension - Show new main toolbar: false 
+2022-02-21 09:10:46,167 [ 308055]   INFO - al.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: true 
+2022-02-21 09:10:46,167 [ 308055]   INFO - al.NewToolbarRootPaneExtension - Show new main toolbar: false 
+2022-02-21 09:10:47,287 [ 309175]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 09:11:22,689 [ 344577]   INFO - llij.ide.plugins.PluginManager - Module intellij.space.java is not enabled because dependency com.intellij.java is not available
+Module intellij.space.index is not enabled because dependency intellij.indexing.shared is not available
+Module intellij.space.kotlin is not enabled because dependency org.jetbrains.kotlin is not available
+Module intellij.cwm.plugin.android is not enabled because dependency org.jetbrains.android is not available
+Module intellij.grazie.java is not enabled because dependency com.intellij.java is not available 
+2022-02-21 09:11:22,692 [ 344580]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2022-02-21 09:11:22,704 [ 344592]   INFO - tellij.psi.stubs.StubIndexImpl - StubIndexExtension-s were unloaded 
+2022-02-21 09:11:22,721 [ 344609]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2022-02-21 09:11:23,031 [ 344919]   INFO - lij.ide.plugins.DynamicPlugins - Plugin com.markskelton.one-dark-theme loaded without restart in 342 ms 
+2022-02-21 09:11:23,035 [ 344923]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Monokai - old: Monokai, new Monokai 
+2022-02-21 09:11:23,036 [ 344924]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Twilight - old: Twilight, new Twilight 
+2022-02-21 09:11:23,037 [ 344925]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme WarmNeon - old: WarmNeon, new WarmNeon 
+2022-02-21 09:11:23,039 [ 344927]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Github - old: Github, new Github 
+2022-02-21 09:11:23,039 [ 344927]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme IntelliJ Light - old: IntelliJ Light, new IntelliJ Light 
+2022-02-21 09:11:23,040 [ 344928]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme High contrast - old: High contrast, new High contrast 
+2022-02-21 09:11:23,042 [ 344930]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark - old: One Dark, new One Dark 
+2022-02-21 09:11:23,044 [ 344932]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark Italic - old: One Dark Italic, new One Dark Italic 
+2022-02-21 09:11:23,046 [ 344934]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark Vivid - old: One Dark Vivid, new One Dark Vivid 
+2022-02-21 09:11:23,047 [ 344935]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark Vivid Italic - old: One Dark Vivid Italic, new One Dark Vivid Italic 
+2022-02-21 09:11:23,052 [ 344940]   INFO - impl.SharedIndexMainZipStorage - Shared Indexes Storage is opened: 1 chunk(s), 569.66 kB, chunks: [wheel-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c-5c845835d8ea] 
+2022-02-21 09:11:23,053 [ 344941]   INFO - indexing.FileBasedIndexTumbler - Index rescanning has been started after plugin load/unload 
+2022-02-21 09:11:23,106 [ 344994]   INFO - leBasedIndexDataInitialization - Index data initialization done: 56 ms. Initialized indexes: [FilenameIndex, FrameworkDetectionIndex, TodoIndex, IdIndex, filetypes, Stubs, Trigram.Index, fileIncludes, DomFileIndex, RelaxSymbolIndex, XmlTagNames, XmlNamespaces, html5.custom.attributes.index, SchemaTypeInheritance, json.file.root.values, yaml.keys.name, editorconfig.index.name, xmlProperties, Py.module.name, Py.setuptools.namespace]. 
+2022-02-21 09:11:23,106 [ 344994]   INFO - ij.psi.search.LogFileTypeIndex - Loading file type index snapshot 
+2022-02-21 09:11:23,107 [ 344995]   INFO - indexing.UnindexedFilesUpdater - Started indexing of pythonProject. Reason: Plugin loaded/unloaded 
+2022-02-21 09:11:23,108 [ 344996]   INFO - indexing.UnindexedFilesUpdater - Performing delayed pushing properties tasks for pythonProject took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:11:23,115 [ 345003]   INFO - exImpl$StubIndexInitialization - Index data initialization done: 8 ms. Initialized stub indexes: {Python.Decorator, Py.module.attribute, Py.class.shortNameInsensitive, dom.elementClass, markdown.header, Py.class.super, Py.variable.shortName, Py.function.shortName, Py.class.shortName, Py.class.attributes, dom.namespaceKey, properties.index}. 
+2022-02-21 09:11:27,743 [ 349631]   INFO - indexing.UnindexedFilesUpdater - Scanning of pythonProject uses 11 scanning threads 
+2022-02-21 09:11:27,769 [ 349657]   INFO - redIndexChunkConfigurationImpl - Chunk bundled-python-sdk-8628e36dc4f1-eb8d386cac10-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-213.6777.50 is registered for project 'pythonProject: matching: (fb=16, stub=12), incompatible: (fb=0, stub=0), unknown: (fb=9, stub=9),  
+2022-02-21 09:11:27,911 [ 349799]   INFO - indexing.UnindexedFilesUpdater - Scanning completed for pythonProject. Number of scanned files: 4117; Number of files for indexing: 0 took 4798ms; general responsiveness: ok; EDT responsiveness: 1/6 sluggish, 4/6 very slow 
+2022-02-21 09:11:27,914 [ 349802]   INFO - indexing.UnindexedFilesUpdater - Finished for pythonProject. No files to index with loading content. 
+2022-02-21 09:11:27,914 [ 349802]   INFO - ij.psi.search.LogFileTypeIndex - File type index snapshot dropped 
+2022-02-21 09:12:04,038 [ 385926]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2022-02-21 09:12:04,366 [ 386254]   INFO - ication.options.PathMacrosImpl - Saved path macros: {} 
+2022-02-21 09:12:04,405 [ 386293]   INFO - rationStore.ComponentStoreImpl - Saving appPluginFeatureCacheService took 26 ms 
+2022-02-21 09:12:04,630 [ 386518]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)ChangesViewManager took 34 ms, RunManager took 108 ms 
+2022-02-21 09:12:16,350 [ 398238]   INFO - al.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: true 
+2022-02-21 09:12:16,350 [ 398238]   INFO - al.NewToolbarRootPaneExtension - Show new main toolbar: false 
+2022-02-21 09:12:52,712 [ 434600]   INFO - llij.ide.plugins.PluginManager - Module intellij.grazie.java is not enabled because dependency com.intellij.java is not available
+Module intellij.cwm.plugin.android is not enabled because dependency org.jetbrains.android is not available
+Module intellij.space.java is not enabled because dependency com.intellij.java is not available
+Module intellij.space.index is not enabled because dependency intellij.indexing.shared is not available
+Module intellij.space.kotlin is not enabled because dependency org.jetbrains.kotlin is not available 
+2022-02-21 09:12:52,712 [ 434600]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2022-02-21 09:12:52,720 [ 434608]   INFO - tellij.psi.stubs.StubIndexImpl - StubIndexExtension-s were unloaded 
+2022-02-21 09:12:52,727 [ 434615]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2022-02-21 09:12:52,832 [ 434720]   INFO - lij.ide.plugins.DynamicPlugins - Plugin com.vecheslav.darculaDarkerTheme loaded without restart in 121 ms 
+2022-02-21 09:12:52,834 [ 434722]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Monokai - old: Monokai, new Monokai 
+2022-02-21 09:12:52,835 [ 434723]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Twilight - old: Twilight, new Twilight 
+2022-02-21 09:12:52,836 [ 434724]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme WarmNeon - old: WarmNeon, new WarmNeon 
+2022-02-21 09:12:52,837 [ 434725]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Github - old: Github, new Github 
+2022-02-21 09:12:52,837 [ 434725]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme IntelliJ Light - old: IntelliJ Light, new IntelliJ Light 
+2022-02-21 09:12:52,838 [ 434726]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme High contrast - old: High contrast, new High contrast 
+2022-02-21 09:12:52,838 [ 434726]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Darcula Darker - old: Darcula Darker, new Darcula Darker 
+2022-02-21 09:12:52,840 [ 434728]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark - old: One Dark, new One Dark 
+2022-02-21 09:12:52,841 [ 434729]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark Italic - old: One Dark Italic, new One Dark Italic 
+2022-02-21 09:12:52,842 [ 434730]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark Vivid - old: One Dark Vivid, new One Dark Vivid 
+2022-02-21 09:12:52,844 [ 434732]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark Vivid Italic - old: One Dark Vivid Italic, new One Dark Vivid Italic 
+2022-02-21 09:12:52,846 [ 434734]   INFO - impl.SharedIndexMainZipStorage - Shared Indexes Storage is opened: 1 chunk(s), 569.66 kB, chunks: [wheel-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c-5c845835d8ea] 
+2022-02-21 09:12:52,847 [ 434735]   INFO - indexing.FileBasedIndexTumbler - Index rescanning has been started after plugin load/unload 
+2022-02-21 09:12:52,869 [ 434757]   INFO - leBasedIndexDataInitialization - Index data initialization done: 23 ms. Initialized indexes: [FilenameIndex, FrameworkDetectionIndex, TodoIndex, IdIndex, filetypes, Stubs, Trigram.Index, fileIncludes, DomFileIndex, RelaxSymbolIndex, XmlTagNames, XmlNamespaces, html5.custom.attributes.index, SchemaTypeInheritance, json.file.root.values, yaml.keys.name, editorconfig.index.name, xmlProperties, Py.module.name, Py.setuptools.namespace]. 
+2022-02-21 09:12:52,869 [ 434757]   INFO - ij.psi.search.LogFileTypeIndex - Loading file type index snapshot 
+2022-02-21 09:12:52,870 [ 434758]   INFO - indexing.UnindexedFilesUpdater - Started indexing of pythonProject. Reason: Plugin loaded/unloaded 
+2022-02-21 09:12:52,871 [ 434759]   INFO - indexing.UnindexedFilesUpdater - Performing delayed pushing properties tasks for pythonProject took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:12:52,873 [ 434761]   INFO - exImpl$StubIndexInitialization - Index data initialization done: 3 ms. Initialized stub indexes: {Python.Decorator, Py.module.attribute, Py.class.shortNameInsensitive, dom.elementClass, markdown.header, Py.class.super, Py.variable.shortName, Py.function.shortName, Py.class.shortName, Py.class.attributes, dom.namespaceKey, properties.index}. 
+2022-02-21 09:12:52,891 [ 434779]   INFO - indexing.UnindexedFilesUpdater - Scanning of pythonProject uses 11 scanning threads 
+2022-02-21 09:12:52,916 [ 434804]   INFO - redIndexChunkConfigurationImpl - Chunk bundled-python-sdk-8628e36dc4f1-eb8d386cac10-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-213.6777.50 is registered for project 'pythonProject: matching: (fb=16, stub=12), incompatible: (fb=0, stub=0), unknown: (fb=9, stub=9),  
+2022-02-21 09:12:53,043 [ 434931]   INFO - indexing.UnindexedFilesUpdater - Scanning completed for pythonProject. Number of scanned files: 4117; Number of files for indexing: 0 took 172ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:12:53,044 [ 434932]   INFO - indexing.UnindexedFilesUpdater - Finished for pythonProject. No files to index with loading content. 
+2022-02-21 09:12:53,044 [ 434932]   INFO - ij.psi.search.LogFileTypeIndex - File type index snapshot dropped 
+2022-02-21 09:12:58,146 [ 440034]   WARN - gnostic.PerformanceWatcherImpl - UI was frozen for 5285ms, details saved to /home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/log/threadDumps-freeze-20220221-091257-PC-213.6777.50-5sec 
+2022-02-21 09:13:01,969 [ 443857]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2022-02-21 09:13:02,411 [ 444299]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)RunManager took 95 ms 
+2022-02-21 09:13:13,554 [ 455442]   INFO - al.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: true 
+2022-02-21 09:13:13,554 [ 455442]   INFO - al.NewToolbarRootPaneExtension - Show new main toolbar: false 
+2022-02-21 09:14:01,549 [ 503437]   INFO - llij.ide.plugins.PluginManager - Module intellij.space.java is not enabled because dependency com.intellij.java is not available
+Module intellij.space.index is not enabled because dependency intellij.indexing.shared is not available
+Module intellij.space.kotlin is not enabled because dependency org.jetbrains.kotlin is not available
+Module intellij.cwm.plugin.android is not enabled because dependency org.jetbrains.android is not available
+Module intellij.grazie.java is not enabled because dependency com.intellij.java is not available 
+2022-02-21 09:14:01,550 [ 503438]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2022-02-21 09:14:01,557 [ 503445]   INFO - tellij.psi.stubs.StubIndexImpl - StubIndexExtension-s were unloaded 
+2022-02-21 09:14:01,564 [ 503452]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2022-02-21 09:14:01,670 [ 503558]   INFO - lij.ide.plugins.DynamicPlugins - Plugin com.dt.theme.vs loaded without restart in 121 ms 
+2022-02-21 09:14:01,671 [ 503559]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Monokai - old: Monokai, new Monokai 
+2022-02-21 09:14:01,672 [ 503560]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Twilight - old: Twilight, new Twilight 
+2022-02-21 09:14:01,672 [ 503560]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme WarmNeon - old: WarmNeon, new WarmNeon 
+2022-02-21 09:14:01,673 [ 503561]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Github - old: Github, new Github 
+2022-02-21 09:14:01,674 [ 503562]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme VsCode Monokai HC - old: VsCode Monokai HC, new VsCode Monokai HC 
+2022-02-21 09:14:01,674 [ 503562]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme IntelliJ Light - old: IntelliJ Light, new IntelliJ Light 
+2022-02-21 09:14:01,675 [ 503563]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme High contrast - old: High contrast, new High contrast 
+2022-02-21 09:14:01,675 [ 503563]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme Darcula Darker - old: Darcula Darker, new Darcula Darker 
+2022-02-21 09:14:01,676 [ 503564]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark - old: One Dark, new One Dark 
+2022-02-21 09:14:01,677 [ 503565]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark Italic - old: One Dark Italic, new One Dark Italic 
+2022-02-21 09:14:01,679 [ 503567]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark Vivid - old: One Dark Vivid, new One Dark Vivid 
+2022-02-21 09:14:01,680 [ 503568]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme One Dark Vivid Italic - old: One Dark Vivid Italic, new One Dark Vivid Italic 
+2022-02-21 09:14:01,680 [ 503568]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme VsCode Monokai HC - old: VsCode Monokai HC, new VsCode Monokai HC 
+2022-02-21 09:14:01,683 [ 503571]   INFO - impl.SharedIndexMainZipStorage - Shared Indexes Storage is opened: 1 chunk(s), 569.66 kB, chunks: [wheel-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c-5c845835d8ea] 
+2022-02-21 09:14:01,684 [ 503572]   INFO - indexing.FileBasedIndexTumbler - Index rescanning has been started after plugin load/unload 
+2022-02-21 09:14:01,711 [ 503599]   INFO - leBasedIndexDataInitialization - Index data initialization done: 29 ms. Initialized indexes: [FilenameIndex, FrameworkDetectionIndex, TodoIndex, IdIndex, filetypes, Stubs, Trigram.Index, fileIncludes, DomFileIndex, RelaxSymbolIndex, XmlTagNames, XmlNamespaces, html5.custom.attributes.index, SchemaTypeInheritance, json.file.root.values, yaml.keys.name, editorconfig.index.name, xmlProperties, Py.module.name, Py.setuptools.namespace]. 
+2022-02-21 09:14:01,712 [ 503600]   INFO - ij.psi.search.LogFileTypeIndex - Loading file type index snapshot 
+2022-02-21 09:14:01,713 [ 503601]   INFO - indexing.UnindexedFilesUpdater - Started indexing of pythonProject. Reason: Plugin loaded/unloaded 
+2022-02-21 09:14:01,714 [ 503602]   INFO - indexing.UnindexedFilesUpdater - Performing delayed pushing properties tasks for pythonProject took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 09:14:01,715 [ 503603]   INFO - exImpl$StubIndexInitialization - Index data initialization done: 3 ms. Initialized stub indexes: {Python.Decorator, Py.module.attribute, Py.class.shortNameInsensitive, dom.elementClass, markdown.header, Py.class.super, Py.variable.shortName, Py.function.shortName, Py.class.shortName, Py.class.attributes, dom.namespaceKey, properties.index}. 
+2022-02-21 09:14:01,734 [ 503622]   INFO - indexing.UnindexedFilesUpdater - Scanning of pythonProject uses 11 scanning threads 
+2022-02-21 09:14:01,762 [ 503650]   INFO - redIndexChunkConfigurationImpl - Chunk bundled-python-sdk-8628e36dc4f1-eb8d386cac10-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-213.6777.50 is registered for project 'pythonProject: matching: (fb=16, stub=12), incompatible: (fb=0, stub=0), unknown: (fb=9, stub=9),  
+2022-02-21 09:14:02,076 [ 503964]   INFO - indexing.UnindexedFilesUpdater - Scanning completed for pythonProject. Number of scanned files: 4117; Number of files for indexing: 0 took 361ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2022-02-21 09:14:02,077 [ 503965]   INFO - indexing.UnindexedFilesUpdater - Finished for pythonProject. No files to index with loading content. 
+2022-02-21 09:14:02,077 [ 503965]   INFO - ij.psi.search.LogFileTypeIndex - File type index snapshot dropped 
+2022-02-21 09:14:10,705 [ 512593]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2022-02-21 09:14:11,202 [ 513090]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)RunManager took 83 ms 
+2022-02-21 09:19:01,719 [ 803607]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 09:24:01,721 [1103609]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 09:29:01,730 [1403618]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 09:29:24,069 [1425957]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)RunManager took 87 ms 
+2022-02-21 09:34:01,739 [1703627]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 09:39:01,747 [2003635]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 09:44:01,754 [2303642]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 09:49:01,761 [2603649]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 09:54:01,768 [2903656]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 09:59:01,774 [3203662]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:04:01,780 [3503668]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:09:01,786 [3803674]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:14:01,793 [4103681]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:19:01,799 [4403687]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:24:01,805 [4703693]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:29:01,811 [5003699]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:34:01,817 [5303705]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:39:01,823 [5603711]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:44:01,829 [5903717]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:49:01,836 [6203724]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:54:01,842 [6503730]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 10:57:45,160 [6727048]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)RunManager took 77 ms 
+2022-02-21 10:58:09,354 [6751242]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Editor Popup Menu' preloaded at 'EditorPopup' in 81 ms 
+2022-02-21 10:58:09,354 [6751242]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Editor Popup Menu' preloaded at 'EditorPopup' in 82 ms 
+2022-02-21 10:59:01,854 [6803742]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:03:17,488 [7059376]   WARN - ctionSystem.impl.ActionUpdater - 244 ms to grab EDT for #update (com.intellij.openapi.wm.impl.ToolWindowHeader$1) 
+2022-02-21 11:03:29,126 [7071014]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)RunManager took 86 ms 
+2022-02-21 11:04:01,863 [7103751]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:07:21,192 [7303080]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)ProjectView took 17 ms 
+2022-02-21 11:09:01,870 [7403758]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:13:00,741 [7642629]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)RunManager took 84 ms 
+2022-02-21 11:14:01,879 [7703767]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:18:09,723 [7951611]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)RunManager took 70 ms 
+2022-02-21 11:19:01,881 [8003769]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:23:56,204 [8298092]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=pythonProject, containerState=COMPONENT_CREATED, componentStore=/home/abdiweli/PycharmProjects/pythonProject)RunManager took 61 ms 
+2022-02-21 11:24:01,883 [8303771]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:29:01,891 [8603779]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:34:01,896 [8903784]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:39:01,906 [9203794]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:44:01,914 [9503802]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:49:01,920 [9803808]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:54:01,928 [10103816]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 11:59:01,937 [10403825]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:04:01,943 [10703831]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:09:01,951 [11003839]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:14:01,958 [11303846]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:19:01,965 [11603853]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:24:01,972 [11903860]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:29:01,979 [12203867]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:34:01,986 [12503874]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:39:01,989 [12803877]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:44:01,995 [13103883]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:49:02,001 [13403889]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:54:02,006 [13703894]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 12:59:02,014 [14003902]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 13:04:02,016 [14303904]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 13:09:02,023 [14603911]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 13:14:02,030 [14903918]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 13:19:02,038 [15203926]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 13:24:02,049 [15503937]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 13:29:02,054 [15803942]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 13:34:02,065 [16103953]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 13:39:02,121 [16404009]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 13:44:14,223 [16716111]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 
+2022-02-21 14:03:31,804 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2022-02-21 14:03:31,868 [     64]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-213.6777.50, 27 Jan 2022 19:06) 
+2022-02-21 14:03:31,869 [     65]   INFO -        #com.intellij.idea.Main - OS: Linux (5.13.0-30-generic, amd64) 
+2022-02-21 14:03:31,878 [     74]   INFO -        #com.intellij.idea.Main - JRE: 11.0.13+7-b1751.25 (JetBrains s.r.o.) 
+2022-02-21 14:03:31,879 [     75]   INFO -        #com.intellij.idea.Main - JVM: 11.0.13+7-b1751.25 (OpenJDK 64-Bit Server VM) 
+2022-02-21 14:03:31,881 [     77]   INFO -        #com.intellij.idea.Main - JVM options: [-Xms128m, -Xmx750m, -XX:ReservedCodeCacheSize=512m, -XX:+IgnoreUnrecognizedVMOptions, -XX:+UseG1GC, -XX:SoftRefLRUPolicyMSPerMB=50, -XX:CICompilerCount=2, -XX:+HeapDumpOnOutOfMemoryError, -XX:-OmitStackTraceInFastThrow, -ea, -Dsun.io.useCanonCaches=false, -Djdk.http.auth.tunneling.disabledSchemes="", -Djdk.attach.allowAttachSelf=true, -Djdk.module.illegalAccess.silent=true, -Dkotlinx.coroutines.debug=off, -Dsun.tools.attach.tmp.only=true, -Xmx975m, -XX:ErrorFile=/home/abdiweli/java_error_in_pycharm_%p.log, -XX:HeapDumpPath=/home/abdiweli/java_error_in_pycharm_.hprof, -Djb.vmOptionsFile=/home/abdiweli/.config/JetBrains/PyCharmCE2021.3/pycharm64.vmoptions, -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader, -Didea.vendor.name=JetBrains, -Didea.paths.selector=PyCharmCE2021.3, -Didea.platform.prefix=PyCharmCore, -Dsplash=true] 
+2022-02-21 14:03:31,881 [     77]   INFO -        #com.intellij.idea.Main - args: [] 
+2022-02-21 14:03:31,881 [     77]   INFO -        #com.intellij.idea.Main - library path: /usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib 
+2022-02-21 14:03:31,881 [     77]   INFO -        #com.intellij.idea.Main - boot library path: /snap/pycharm-community/267/jbr/lib 
+2022-02-21 14:03:31,905 [    101]   INFO -        #com.intellij.idea.Main - locale=en_US JNU=UTF-8 file.encoding=UTF-8
+  idea.config.path=/home/abdiweli/.config/JetBrains/PyCharmCE2021.3
+  idea.system.path=/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3
+  idea.plugins.path=/home/abdiweli/.local/share/JetBrains/PyCharmCE2021.3
+  idea.log.path=/home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/log 
+2022-02-21 14:03:31,916 [    112]   INFO -        #com.intellij.idea.Main - CPU cores: 12; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@602c51e2[Running, parallelism = 11, size = 8, active = 6, running = 6, steals = 1, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@e7fd820 
+2022-02-21 14:03:31,984 [    180]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 68 ms 
+2022-02-21 14:03:32,484 [    680]   INFO - llij.ide.plugins.PluginManager - Module intellij.grazie.java is not enabled because dependency com.intellij.java is not available
+Module intellij.cwm.plugin.android is not enabled because dependency org.jetbrains.android is not available
+Module intellij.space.java is not enabled because dependency com.intellij.java is not available
+Module intellij.space.index is not enabled because dependency intellij.indexing.shared is not available
+Module intellij.space.kotlin is not enabled because dependency org.jetbrains.kotlin is not available 
+2022-02-21 14:03:32,495 [    691]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: IDEA CORE (213.6777.50), IDE Features Trainer (213.6777.50), Grazie (213.6777.50), Toml (213.6777.50), Settings Repository (213.6777.50), YAML (213.6777.50), TextMate Bundles (213.6777.50), Terminal (213.6777.50), ReStructuredText (213.6777.50), Emoji Picker (213.6777.50), IntelliLang (213.6777.50), EditorConfig (213.6777.50), Mercurial (213.6777.50), Shell Script (213.6777.50), Projector Libraries for Code With Me and Remote Development (213.6777.50), Code With Me (213.6777.50), Task Management (213.6777.50), JetBrains Marketplace Licensing Support (213.6777.50), Copyright (213.6777.50), Properties (213.6777.50), Images (213.6777.50), Markdown (213.6777.50), Configuration Script (213.6777.50), Shared Indexes (213.6777.50), Shared Indexes for Python (213.6777.50), Machine Learning Code Completion (213.6777.50), Subversion (213.6777.50), Python Community Edition (213.6777.50), Shared Indexes for Python Packages (213.6777.50), PyCharm Community Customization (213.6777.50), GitHub (213.6777.50), Space (213.6777.50), Git (213.6777.50), IDE Features Trainer: Git Lessons (213.6777.50), ChangeReminder (213.6777.50), Machine Learning in Search Everywhere (213.6777.50) 
+2022-02-21 14:03:32,495 [    691]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Darcula Darker Theme (1.2.0), One Dark theme (5.5.0), Visual Studio Code Monokai HC (1.0) 
+2022-02-21 14:03:32,502 [    698]   INFO -        #com.intellij.idea.Main - notify that start-up thread is free 
+2022-02-21 14:03:33,034 [   1230]   INFO -        #com.intellij.idea.Main - WM detected: GNOME Shell, desktop: ubuntu:GNOME 
+2022-02-21 14:03:33,721 [   1917]   INFO - ication.options.PathMacrosImpl - Loaded path macros: {} 
+2022-02-21 14:03:33,755 [   1951]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2022-02-21 14:03:33,818 [   2014]   INFO - intellij.diagnostic.JitWatcher - JIT compilation state checking enabled 
+2022-02-21 14:03:33,819 [   2015]   INFO - intellij.util.io.FilePageCache - lower=100; upper=500; buffer=10; max=956 
+2022-02-21 14:03:33,841 [   2037]   INFO - lors.impl.AppEditorFontOptions - Font setting migration: JetBrains Mono -> [JetBrains Mono, Regular, Bold] 
+2022-02-21 14:03:33,870 [   2066]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2022-02-21 14:03:33,922 [   2118]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme VsCode Monokai HC - old: VsCode Monokai HC, new VsCode Monokai HC 
+2022-02-21 14:03:34,030 [   2226]   INFO - impl.SharedIndexMainZipStorage - Shared Indexes Storage is opened: 1 chunk(s), 569.66 kB, chunks: [wheel-d7b2e9f7cb1300554751eb04df369efe67f98342195bf5e6d4d992820d1cf84c-5c845835d8ea] 
+2022-02-21 14:03:34,050 [   2246]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/lib/pycharm.jar, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 14:03:34,053 [   2249]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/lib/pycharm.jar, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 14:03:34,054 [   2250]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/lib/pycharm.jar, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 14:03:34,054 [   2250]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/lib/pycharm.jar, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 14:03:34,091 [   2287]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/plugins/python-ce, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 14:03:34,091 [   2287]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/plugins/python-ce, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 14:03:34,105 [   2301]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/plugins/github, version=213.6777.50, package=org.jetbrains.plugins.github, isBundled=true) 
+2022-02-21 14:03:34,124 [   2320]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/plugins/space, version=213.6777.50, package=com.intellij.space, isBundled=true) 
+2022-02-21 14:03:34,198 [   2394]   INFO - penapi.application.Experiments - Experimental features enabled for user: wsl.p9.support, wsl.prefer.p9.support, wsl.p9.show.roots.in.file.chooser, wsl.execute.with.wsl.exe, linux.native.menu, recent.and.edited.files.together, show.create.new.element.in.popup, search.everywhere.mixed.results, editor.reader.mode, new.large.text.file.viewer 
+2022-02-21 14:03:34,204 [   2400]   INFO - penapi.wm.impl.GlobalMenuLinux - Start glib main loop in thread: GlobalMenuLinux loop 
+2022-02-21 14:03:34,205 [   2401]   INFO - penapi.wm.impl.GlobalMenuLinux - Closed dbus-service 'com.canonical.AppMenu.Registrar' 
+2022-02-21 14:03:34,213 [   2409]   INFO - penapi.application.Experiments - Experimental feature 'terminal.shell.command.handling' is now turned OFF 
+2022-02-21 14:03:34,425 [   2621]   INFO -                         STDOUT - Info  | RdCoroutineScope          | 16:JobScheduler FJ pool 4/11 | RdCoroutineHost overridden  
+2022-02-21 14:03:34,430 [   2626]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/267/bin/fsnotifier 
+2022-02-21 14:03:34,468 [   2664]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2022-02-21 14:03:34,490 [   2686]   INFO - tests.impl.DistributedTestHost - Host address=localhost/127.0.0.1 
+2022-02-21 14:03:34,583 [   2779]   WARN - l.NotificationGroupManagerImpl - Notification group CodeWithMe is already registered (group=com.intellij.notification.NotificationGroup@5fa9f2ee). Plugin descriptor: PluginDescriptor(name=Code With Me, id=com.jetbrains.codeWithMe, descriptorPath=plugin.xml, path=/snap/pycharm-community/267/plugins/cwm-plugin, version=213.6777.50, package=null, isBundled=true) 
+2022-02-21 14:03:34,584 [   2780]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2022-02-21 14:03:34,712 [   2908]   INFO - el.ide.impl.WorkspaceModelImpl - Load workspace model from cache in 358 ms 
+2022-02-21 14:03:34,801 [   2997]   INFO - ins.rd.platform.codeWithMe.w.x - sessionStatus: null 
+2022-02-21 14:03:34,801 [   2997]   INFO - ins.rd.platform.codeWithMe.w.x - freeSessionRemainingTimeMs: null null 
+2022-02-21 14:03:34,809 [   3005]   INFO - penapi.wm.impl.GlobalMenuLinux - created instance of GlobalMenuLinux for xid=0x4400047 
+2022-02-21 14:03:34,966 [   3162]   INFO - leBasedIndexDataInitialization - Index data initialization done: 1036 ms. Initialized indexes: [FilenameIndex, FrameworkDetectionIndex, TodoIndex, IdIndex, filetypes, Stubs, Trigram.Index, fileIncludes, DomFileIndex, RelaxSymbolIndex, XmlTagNames, XmlNamespaces, html5.custom.attributes.index, SchemaTypeInheritance, json.file.root.values, yaml.keys.name, editorconfig.index.name, xmlProperties, Py.module.name, Py.setuptools.namespace]. 
+2022-02-21 14:03:34,993 [   3189]   INFO - exImpl$StubIndexInitialization - Index data initialization done: 27 ms. Initialized stub indexes: {Python.Decorator, Py.module.attribute, Py.class.shortNameInsensitive, dom.elementClass, markdown.header, Py.class.super, Py.variable.shortName, Py.function.shortName, Py.class.shortName, Py.class.attributes, dom.namespaceKey, properties.index}. 
+2022-02-21 14:03:35,196 [   3392]   INFO - al.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: true 
+2022-02-21 14:03:35,196 [   3392]   INFO - al.NewToolbarRootPaneExtension - Show new main toolbar: false 
+2022-02-21 14:03:38,678 [   6874]   INFO - erver.followMe.FollowMeManager - Register new user 0:'abdiweli' with ClientId=ClientId(value=Host) 
+2022-02-21 14:03:38,812 [   7008]   INFO - ings.impl.UpdateCheckerService - channel: release 
+2022-02-21 14:03:38,876 [   7072]   INFO - ion.DelayedProjectSynchronizer - Workspace model loaded from cache. Syncing real project state into workspace model in 197 ms. Thread[JobScheduler FJ pool 9/11,4,main] 
+2022-02-21 14:03:38,993 [   7189]   INFO - ge.ExternalProjectsDataStorage - Load external projects data in 1 millis (read time: 1) 
+2022-02-21 14:03:38,994 [   7190]   INFO - ij.psi.search.LogFileTypeIndex - Loading file type index snapshot 
+2022-02-21 14:03:39,009 [   7205]   INFO - indexing.UnindexedFilesUpdater - Started indexing of pythonProject. Reason: On project open 
+2022-02-21 14:03:39,015 [   7211]   INFO - indexing.UnindexedFilesUpdater - Performing delayed pushing properties tasks for pythonProject took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 14:03:39,052 [   7248]   INFO - indexing.UnindexedFilesUpdater - Scanning of pythonProject uses 11 scanning threads 
+2022-02-21 14:03:39,132 [   7328]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python /snap/pycharm-community/267/plugins/python-ce/helpers/packaging_tool.py list 
+2022-02-21 14:03:39,139 [   7335]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -c . '/home/abdiweli/PycharmProjects/pythonProject/venv/bin/activate';'/snap/pycharm-community/267/bin/printenv.py' '/tmp/intellij-shell-env.16404640664822556016.tmp' 
+2022-02-21 14:03:39,163 [   7359]   INFO - redIndexChunkConfigurationImpl - Chunk bundled-python-sdk-8628e36dc4f1-eb8d386cac10-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-213.6777.50 is registered for project 'pythonProject: matching: (fb=16, stub=12), incompatible: (fb=0, stub=0), unknown: (fb=9, stub=9),  
+2022-02-21 14:03:39,168 [   7364]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (71 vars) 
+2022-02-21 14:03:39,326 [   7522]   INFO - oad.SharedIndexDownloadService - There is no need to download shared indexes for PyPackageIndexSuggestion(wheel, 0.36.2). Similar compatible shared indexes are available locally. 
+2022-02-21 14:03:39,339 [   7535]   INFO - SharedIndexPostStartupActivity - Attached 1 pre-built shared indexes: bundled-python-sdk-8628e36dc4f1-eb8d386cac10-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-213.6777.50 
+2022-02-21 14:03:39,404 [   7600]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2022-02-21 14:03:39,419 [   7615]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 5144 ms 
+2022-02-21 14:03:39,503 [   7699]   INFO - gnostic.PerformanceWatcherImpl - Post-startup activities under progress took 831ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 14:03:39,713 [   7909]   INFO - indexing.UnindexedFilesUpdater - Scanning completed for pythonProject. Number of scanned files: 4122; Number of files for indexing: 2 took 698ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 14:03:39,724 [   7920]   INFO - indexing.UnindexedFilesUpdater - Use 4 indexing threads for indexing of pythonProject 
+2022-02-21 14:03:39,759 [   7955]   INFO - indexing.UnindexedFilesUpdater - Finished for pythonProject. Unindexed files update took 40ms; general responsiveness: ok; EDT responsiveness: ok 
+2022-02-21 14:03:39,759 [   7955]   INFO - ij.psi.search.LogFileTypeIndex - File type index snapshot dropped 
+2022-02-21 14:03:39,836 [   8032]   INFO - .services.SpaceKtsFileDetector - SpaceKtsFileDetector 
+2022-02-21 14:03:40,723 [   8919]   INFO - oad.SharedIndexDownloadService - There is no need to download shared indexes for PyPackageIndexSuggestion(wheel, 0.36.2). Similar compatible shared indexes are available locally. 
+2022-02-21 14:03:42,310 [  10506]   INFO - System.impl.PopupMenuPreloader - Popup menu 'File' preloaded at 'MainMenu' in 54 ms 
+2022-02-21 14:03:42,320 [  10516]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Edit' preloaded at 'MainMenu' in 67 ms 
+2022-02-21 14:03:42,334 [  10530]   INFO - System.impl.PopupMenuPreloader - Popup menu 'View' preloaded at 'MainMenu' in 80 ms 
+2022-02-21 14:03:42,341 [  10537]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Navigate' preloaded at 'MainMenu' in 87 ms 
+2022-02-21 14:03:42,372 [  10568]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Code' preloaded at 'MainMenu' in 118 ms 
+2022-02-21 14:03:42,376 [  10572]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Refactor' preloaded at 'MainMenu' in 123 ms 
+2022-02-21 14:03:42,408 [  10604]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Run' preloaded at 'MainMenu' in 154 ms 
+2022-02-21 14:03:42,411 [  10607]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Tools' preloaded at 'MainMenu' in 157 ms 
+2022-02-21 14:03:42,417 [  10613]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Window' preloaded at 'MainMenu' in 163 ms 
+2022-02-21 14:03:42,509 [  10705]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 115 ms 
+2022-02-21 14:03:43,137 [  11333]   INFO - hon.packaging.PyPIPackageCache - Loaded 358197 packages from /home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_packages/pypi-cache.json 
+2022-02-21 14:03:44,337 [  12533]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Help' preloaded at 'MainMenu' in 81 ms 
+2022-02-21 14:03:44,369 [  12565]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Project View Popup Menu' preloaded at 'ProjectViewPopup' in 109 ms 
+2022-02-21 14:03:44,563 [  12759]   INFO - m.codeWithMe.CodeWithMeCleanup - running activity to cleanup old thin clients... Root path is '/home/abdiweli/.cache/JetBrains' 
+2022-02-21 14:03:44,564 [  12760]   INFO - m.codeWithMe.CodeWithMeCleanup - found 0 Code With Me client system folders to check 
+2022-02-21 14:03:44,565 [  12761]   INFO - m.codeWithMe.CodeWithMeCleanup - found 0 Code With Me client config folders to check 
+2022-02-21 14:03:44,569 [  12765]   INFO - m.codeWithMe.CodeWithMeCleanup - keep only [] major versions 
+2022-02-21 14:03:44,675 [  12871]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 63 ms 
+2022-02-21 14:03:44,679 [  12875]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python38.zip 
+2022-02-21 14:03:44,694 [  12890]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python)): /home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/2119702566 
+2022-02-21 14:03:44,694 [  12890]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python)): /snap/pycharm-community/267/plugins/python-ce/helpers/python-skeletons 
+2022-02-21 14:03:44,697 [  12893]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python) 
+2022-02-21 14:03:44,699 [  12895]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python 
+2022-02-21 14:03:44,704 [  12900]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/267 
+2022-02-21 14:03:44,713 [  12909]   INFO - letons.PySkeletonGenerator$Run - /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python /snap/pycharm-community/267/plugins/python-ce/helpers/generator3/__main__.py -d /home/abdiweli/.cache/JetBrains/PyCharmCE2021.3/python_stubs/2119702566/ -s /usr/lib/python3.8:/usr/lib/python3.8/lib-dynload:/home/abdiweli/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stdlib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/six:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/boto:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/mock:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pytz:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/toml:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/annoy:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/babel:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/click:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/emoji:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/first:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/polib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/redis:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/retry:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/ujson:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Pillow:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/PyYAML:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/bleach:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/caldav:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/docopt:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/enum34:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/orjson:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/psutil:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pycurl:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pysftp:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/stripe:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/xxhash:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/PyMySQL:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/appdirs:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/certifi:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/chardet:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/futures:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyaudio:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyvmomi:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/slumber:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/tzlocal:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/vobject:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Markdown:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Pygments:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Werkzeug:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/aiofiles:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/colorama:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/croniter:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/docutils:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/filelock:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/html5lib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/httplib2:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/jmespath:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/oauthlib:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/paramiko:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/psycopg2:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/requests:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/selenium:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/tabulate:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/toposort:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/waitress:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/braintree:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/decorator:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/freezegun:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/ipaddress:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/termcolor:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/ttkthemes:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/typed-ast:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Deprecated:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/MarkupSafe:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/Send2Trash:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/cachetools:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/commonmark:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/dateparser:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/frozendict:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/jsonschema:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pyfarmhash:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/setuptools:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/simplejson:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/JACK-Client:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/contextvars:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/dataclasses:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/entrypoints:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/mysqlclient:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/prettytable:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-nmap:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/atomicwrites:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/aws-xray-sdk:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/cryptography:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/editdistance:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/itsdangerous:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/backports_abc:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/click-spinner:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/humanfriendly:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-gflags:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/characteristic:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-slugify:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/singledispatch:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/python-dateutil:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture:/snap/pycharm-community/267/plugins/python-ce/helpers/typeshed/stubs/backports.ssl_match_hostname 
+2022-02-21 14:03:44,868 [  13064]   INFO - letons.PySkeletonGenerator$Run - _abc ('built-in') 
+2022-02-21 14:03:44,870 [  13066]   INFO - letons.PySkeletonGenerator$Run - _ast ('built-in') 
+2022-02-21 14:03:44,871 [  13067]   INFO - letons.PySkeletonGenerator$Run - _bisect ('built-in') 
+2022-02-21 14:03:44,871 [  13067]   INFO - letons.PySkeletonGenerator$Run - _blake2 ('built-in') 
+2022-02-21 14:03:44,871 [  13067]   INFO - letons.PySkeletonGenerator$Run - _codecs ('built-in') 
+2022-02-21 14:03:44,871 [  13067]   INFO - letons.PySkeletonGenerator$Run - _collections ('built-in') 
+2022-02-21 14:03:44,871 [  13067]   INFO - letons.PySkeletonGenerator$Run - _csv ('built-in') 
+2022-02-21 14:03:44,872 [  13068]   INFO - letons.PySkeletonGenerator$Run - _datetime ('built-in') 
+2022-02-21 14:03:44,872 [  13068]   INFO - letons.PySkeletonGenerator$Run - _elementtree ('built-in') 
+2022-02-21 14:03:44,872 [  13068]   INFO - letons.PySkeletonGenerator$Run - _functools ('built-in') 
+2022-02-21 14:03:44,872 [  13068]   INFO - letons.PySkeletonGenerator$Run - _heapq ('built-in') 
+2022-02-21 14:03:44,872 [  13068]   INFO - letons.PySkeletonGenerator$Run - _imp ('built-in') 
+2022-02-21 14:03:44,872 [  13068]   INFO - letons.PySkeletonGenerator$Run - _io ('built-in') 
+2022-02-21 14:03:44,872 [  13068]   INFO - letons.PySkeletonGenerator$Run - _locale ('built-in') 
+2022-02-21 14:03:44,874 [  13070]   INFO - letons.PySkeletonGenerator$Run - _md5 ('built-in') 
+2022-02-21 14:03:44,874 [  13070]   INFO - letons.PySkeletonGenerator$Run - _operator ('built-in') 
+2022-02-21 14:03:44,874 [  13070]   INFO - letons.PySkeletonGenerator$Run - _pickle ('built-in') 
+2022-02-21 14:03:44,875 [  13071]   INFO - letons.PySkeletonGenerator$Run - _posixsubprocess ('built-in') 
+2022-02-21 14:03:44,875 [  13071]   INFO - letons.PySkeletonGenerator$Run - _random ('built-in') 
+2022-02-21 14:03:44,876 [  13072]   INFO - letons.PySkeletonGenerator$Run - _sha1 ('built-in') 
+2022-02-21 14:03:44,876 [  13072]   INFO - letons.PySkeletonGenerator$Run - _sha256 ('built-in') 
+2022-02-21 14:03:44,876 [  13072]   INFO - letons.PySkeletonGenerator$Run - _sha3 ('built-in') 
+2022-02-21 14:03:44,878 [  13074]   INFO - letons.PySkeletonGenerator$Run - _sha512 ('built-in') 
+2022-02-21 14:03:44,878 [  13074]   INFO - letons.PySkeletonGenerator$Run - _signal ('built-in') 
+2022-02-21 14:03:44,878 [  13074]   INFO - letons.PySkeletonGenerator$Run - _socket ('built-in') 
+2022-02-21 14:03:44,878 [  13074]   INFO - letons.PySkeletonGenerator$Run - _sre ('built-in') 
+2022-02-21 14:03:44,879 [  13075]   INFO - letons.PySkeletonGenerator$Run - _stat ('built-in') 
+2022-02-21 14:03:44,880 [  13076]   INFO - letons.PySkeletonGenerator$Run - _statistics ('built-in') 
+2022-02-21 14:03:44,880 [  13076]   INFO - letons.PySkeletonGenerator$Run - _string ('built-in') 
+2022-02-21 14:03:44,880 [  13076]   INFO - letons.PySkeletonGenerator$Run - _struct ('built-in') 
+2022-02-21 14:03:44,880 [  13076]   INFO - letons.PySkeletonGenerator$Run - _symtable ('built-in') 
+2022-02-21 14:03:44,881 [  13077]   INFO - letons.PySkeletonGenerator$Run - _thread ('built-in') 
+2022-02-21 14:03:44,883 [  13079]   INFO - letons.PySkeletonGenerator$Run - _tracemalloc ('built-in') 
+2022-02-21 14:03:44,883 [  13079]   INFO - letons.PySkeletonGenerator$Run - _warnings ('built-in') 
+2022-02-21 14:03:44,883 [  13079]   INFO - letons.PySkeletonGenerator$Run - _weakref ('built-in') 
+2022-02-21 14:03:44,885 [  13081]   INFO - letons.PySkeletonGenerator$Run - array ('built-in') 
+2022-02-21 14:03:44,885 [  13081]   INFO - letons.PySkeletonGenerator$Run - atexit ('built-in') 
+2022-02-21 14:03:44,885 [  13081]   INFO - letons.PySkeletonGenerator$Run - binascii ('built-in') 
+2022-02-21 14:03:44,886 [  13082]   INFO - letons.PySkeletonGenerator$Run - builtins ('built-in') 
+2022-02-21 14:03:44,887 [  13083]   INFO - letons.PySkeletonGenerator$Run - cmath ('built-in') 
+2022-02-21 14:03:44,887 [  13083]   INFO - letons.PySkeletonGenerator$Run - errno ('built-in') 
+2022-02-21 14:03:44,887 [  13083]   INFO - letons.PySkeletonGenerator$Run - faulthandler ('built-in') 
+2022-02-21 14:03:44,888 [  13084]   INFO - letons.PySkeletonGenerator$Run - fcntl ('built-in') 
+2022-02-21 14:03:44,889 [  13085]   INFO - letons.PySkeletonGenerator$Run - gc ('built-in') 
+2022-02-21 14:03:44,889 [  13085]   INFO - letons.PySkeletonGenerator$Run - grp ('built-in') 
+2022-02-21 14:03:44,889 [  13085]   INFO - letons.PySkeletonGenerator$Run - itertools ('built-in') 
+2022-02-21 14:03:44,891 [  13087]   INFO - letons.PySkeletonGenerator$Run - marshal ('built-in') 
+2022-02-21 14:03:44,891 [  13087]   INFO - letons.PySkeletonGenerator$Run - math ('built-in') 
+2022-02-21 14:03:44,892 [  13088]   INFO - letons.PySkeletonGenerator$Run - posix ('built-in') 
+2022-02-21 14:03:44,892 [  13088]   INFO - letons.PySkeletonGenerator$Run - pwd ('built-in') 
+2022-02-21 14:03:44,892 [  13088]   INFO - letons.PySkeletonGenerator$Run - pyexpat ('built-in') 
+2022-02-21 14:03:44,894 [  13090]   INFO - letons.PySkeletonGenerator$Run - select ('built-in') 
+2022-02-21 14:03:44,894 [  13090]   INFO - letons.PySkeletonGenerator$Run - spwd ('built-in') 
+2022-02-21 14:03:44,895 [  13091]   INFO - letons.PySkeletonGenerator$Run - sys ('built-in') 
+2022-02-21 14:03:44,895 [  13091]   INFO - letons.PySkeletonGenerator$Run - syslog ('built-in') 
+2022-02-21 14:03:44,895 [  13091]   INFO - letons.PySkeletonGenerator$Run - time ('built-in') 
+2022-02-21 14:03:44,897 [  13093]   INFO - letons.PySkeletonGenerator$Run - unicodedata ('built-in') 
+2022-02-21 14:03:44,897 [  13093]   INFO - letons.PySkeletonGenerator$Run - xxsubtype ('built-in') 
+2022-02-21 14:03:44,898 [  13094]   INFO - letons.PySkeletonGenerator$Run - zlib ('built-in') 
+2022-02-21 14:03:44,899 [  13095]   INFO - letons.PySkeletonGenerator$Run - _asyncio ('/usr/lib/python3.8/lib-dynload/_asyncio.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,899 [  13095]   INFO - letons.PySkeletonGenerator$Run - _bz2 ('/usr/lib/python3.8/lib-dynload/_bz2.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,899 [  13095]   INFO - letons.PySkeletonGenerator$Run - _codecs_cn ('/usr/lib/python3.8/lib-dynload/_codecs_cn.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,901 [  13097]   INFO - letons.PySkeletonGenerator$Run - _codecs_hk ('/usr/lib/python3.8/lib-dynload/_codecs_hk.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,901 [  13097]   INFO - letons.PySkeletonGenerator$Run - _codecs_iso2022 ('/usr/lib/python3.8/lib-dynload/_codecs_iso2022.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,901 [  13097]   INFO - letons.PySkeletonGenerator$Run - _codecs_jp ('/usr/lib/python3.8/lib-dynload/_codecs_jp.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,903 [  13099]   INFO - letons.PySkeletonGenerator$Run - _codecs_kr ('/usr/lib/python3.8/lib-dynload/_codecs_kr.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,903 [  13099]   INFO - letons.PySkeletonGenerator$Run - _codecs_tw ('/usr/lib/python3.8/lib-dynload/_codecs_tw.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,903 [  13099]   INFO - letons.PySkeletonGenerator$Run - _contextvars ('/usr/lib/python3.8/lib-dynload/_contextvars.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,904 [  13100]   INFO - letons.PySkeletonGenerator$Run - _crypt ('/usr/lib/python3.8/lib-dynload/_crypt.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,904 [  13100]   INFO - letons.PySkeletonGenerator$Run - _ctypes ('/usr/lib/python3.8/lib-dynload/_ctypes.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,905 [  13101]   INFO - letons.PySkeletonGenerator$Run - _ctypes_test ('/usr/lib/python3.8/lib-dynload/_ctypes_test.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,906 [  13102]   INFO - letons.PySkeletonGenerator$Run - _curses ('/usr/lib/python3.8/lib-dynload/_curses.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,906 [  13102]   INFO - letons.PySkeletonGenerator$Run - _curses_panel ('/usr/lib/python3.8/lib-dynload/_curses_panel.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,906 [  13102]   INFO - letons.PySkeletonGenerator$Run - _dbm ('/usr/lib/python3.8/lib-dynload/_dbm.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,907 [  13103]   INFO - letons.PySkeletonGenerator$Run - _decimal ('/usr/lib/python3.8/lib-dynload/_decimal.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,908 [  13104]   INFO - letons.PySkeletonGenerator$Run - _gdbm ('/usr/lib/python3.8/lib-dynload/_gdbm.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,908 [  13104]   INFO - letons.PySkeletonGenerator$Run - _hashlib ('/usr/lib/python3.8/lib-dynload/_hashlib.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,909 [  13105]   INFO - letons.PySkeletonGenerator$Run - _json ('/usr/lib/python3.8/lib-dynload/_json.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,909 [  13105]   INFO - letons.PySkeletonGenerator$Run - _lsprof ('/usr/lib/python3.8/lib-dynload/_lsprof.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,909 [  13105]   INFO - letons.PySkeletonGenerator$Run - _lzma ('/usr/lib/python3.8/lib-dynload/_lzma.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,911 [  13107]   INFO - letons.PySkeletonGenerator$Run - _multibytecodec ('/usr/lib/python3.8/lib-dynload/_multibytecodec.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,911 [  13107]   INFO - letons.PySkeletonGenerator$Run - _multiprocessing ('/usr/lib/python3.8/lib-dynload/_multiprocessing.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,911 [  13107]   INFO - letons.PySkeletonGenerator$Run - _opcode ('/usr/lib/python3.8/lib-dynload/_opcode.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,912 [  13108]   INFO - letons.PySkeletonGenerator$Run - _posixshmem ('/usr/lib/python3.8/lib-dynload/_posixshmem.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,913 [  13109]   INFO - letons.PySkeletonGenerator$Run - _queue ('/usr/lib/python3.8/lib-dynload/_queue.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,913 [  13109]   INFO - letons.PySkeletonGenerator$Run - _sqlite3 ('/usr/lib/python3.8/lib-dynload/_sqlite3.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,913 [  13109]   INFO - letons.PySkeletonGenerator$Run - _ssl ('/usr/lib/python3.8/lib-dynload/_ssl.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,914 [  13110]   INFO - letons.PySkeletonGenerator$Run - _testbuffer ('/usr/lib/python3.8/lib-dynload/_testbuffer.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,916 [  13112]   INFO - letons.PySkeletonGenerator$Run - _testcapi ('/usr/lib/python3.8/lib-dynload/_testcapi.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,916 [  13112]   INFO - letons.PySkeletonGenerator$Run - _testimportmultiple ('/usr/lib/python3.8/lib-dynload/_testimportmultiple.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,916 [  13112]   INFO - letons.PySkeletonGenerator$Run - _testinternalcapi ('/usr/lib/python3.8/lib-dynload/_testinternalcapi.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,918 [  13114]   INFO - letons.PySkeletonGenerator$Run - _testmultiphase ('/usr/lib/python3.8/lib-dynload/_testmultiphase.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,918 [  13114]   INFO - letons.PySkeletonGenerator$Run - _uuid ('/usr/lib/python3.8/lib-dynload/_uuid.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,918 [  13114]   INFO - letons.PySkeletonGenerator$Run - _xxsubinterpreters ('/usr/lib/python3.8/lib-dynload/_xxsubinterpreters.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,919 [  13115]   INFO - letons.PySkeletonGenerator$Run - _xxtestfuzz ('/usr/lib/python3.8/lib-dynload/_xxtestfuzz.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,920 [  13116]   INFO - letons.PySkeletonGenerator$Run - audioop ('/usr/lib/python3.8/lib-dynload/audioop.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,920 [  13116]   INFO - letons.PySkeletonGenerator$Run - mmap ('/usr/lib/python3.8/lib-dynload/mmap.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,921 [  13117]   INFO - letons.PySkeletonGenerator$Run - nis ('/usr/lib/python3.8/lib-dynload/nis.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,922 [  13118]   INFO - letons.PySkeletonGenerator$Run - ossaudiodev ('/usr/lib/python3.8/lib-dynload/ossaudiodev.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,923 [  13119]   INFO - letons.PySkeletonGenerator$Run - parser ('/usr/lib/python3.8/lib-dynload/parser.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,925 [  13121]   INFO - letons.PySkeletonGenerator$Run - readline ('/usr/lib/python3.8/lib-dynload/readline.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,925 [  13121]   INFO - letons.PySkeletonGenerator$Run - resource ('/usr/lib/python3.8/lib-dynload/resource.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,925 [  13121]   INFO - letons.PySkeletonGenerator$Run - termios ('/usr/lib/python3.8/lib-dynload/termios.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,925 [  13121]   INFO - letons.PySkeletonGenerator$Run - xxlimited ('/usr/lib/python3.8/lib-dynload/xxlimited.cpython-38-x86_64-linux-gnu.so') 
+2022-02-21 14:03:44,935 [  13131]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 230 ms 
+2022-02-21 14:03:44,950 [  13146]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.8 (pythonProject) (/home/abdiweli/PycharmProjects/pythonProject/venv/bin/python) 
+2022-02-21 14:03:44,951 [  13147]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/abdiweli/PycharmProjects/pythonProject/venv/bin/python /snap/pycharm-community/267/plugins/python-ce/helpers/packaging_tool.py list 
+2022-02-21 14:03:44,975 [  13171]   INFO - System.impl.PopupMenuPreloader - Popup menu 'Editor Popup Menu' preloaded at 'EditorPopup' in 717 ms 
+2022-02-21 14:03:45,051 [  13247]   INFO - oad.SharedIndexDownloadService - There is no need to download shared indexes for PyPackageIndexSuggestion(wheel, 0.36.2). Similar compatible shared indexes are available locally. 
+2022-02-21 14:08:34,972 [ 303168]   INFO - il.indexing.FileBasedIndexImpl - Health check heartbeat 

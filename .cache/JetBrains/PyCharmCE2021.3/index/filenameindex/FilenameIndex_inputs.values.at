@@ -1,0 +1,88 @@
+der.pyiencoder.pyiscanner.pyi__init__.pyiraw_json.pyiMETADATA.tomlJACK-Clientjack__init__.pyi	@testsstubtest_allowlist.txtMETADATA.tomlcontextvars	@testsstubtest_allowlist.txtMETADATA.tomlcontextvars.pyidataclasses	@testsstubtest_allowlist.txtMETADATA.tomldataclasses.pyientrypointsMETADATA.tomlentrypoints.pyimysqlclient	@testsstubtest_allowlist.txt
+MySQLdb	constants	CR.pyi	ER.pyiFLAG.pyi
+CLIENT.pyi__init__.pyiFIELD_TYPE.pyi	times.pyi
+_mysql.pyicursors.pyirelease.pyi__init__.pyiconverters.pyi_exceptions.pyiconnections.pyiMETADATA.tomlprettytableprettytable__init__.pyiprettytable.pyiMETADATA.tomlpython-nmapnmapnmap.pyi__init__.pyiMETADATA.tomlatomicwrites	@testsstubtest_allowlist.txtatomicwrites__init__.pyiMETADATA.tomlaws-xray-sdk	@testsstubtest_allowlist.txtaws_xray_sdkcoreutils
+compat.pyi__init__.pyiconversion.pyistacktrace.pyiatomic_counter.pyisearch_pattern.pyi	modelshttp.pyi
+entity.pyisegment.pyitraceid.pyi__init__.pyithrowable.pyisubsegment.pyinoop_traceid.pyitrace_header.pyidummy_entities.pyifacade_segment.pyidefault_dynamic_naming.pyi
+plugins	utils.pyi__init__.pyiec2_plugin.pyiecs_plugin.pyielasticbeanstalk_plugin.pyiemitters__init__.pyiudp_emitter.pyisamplinglocalsampler.pyi__init__.pyireservoir.pyisampling_rule.pyisampler.pyi__init__.pyiconnector.pyireservoir.pyirule_cache.pyirule_poller.pyisampling_rule.pyitarget_poller.pyi	streaming__init__.pyidefault_streaming.pyi
+exceptions__init__.pyiexceptions.pyicontext.pyipatcher.pyi__init__.pyirecorder.pyiasync_context.pyidaemon_config.pyiasync_recorder.pyilambda_launcher.pyiversion.pyi__init__.pyisdk_config.pyiMETADATA.tomlcryptography	@testsstubtest_allowlist.txtcryptographyx509
+oid.pyi__init__.pyiextensions.pyi	hazmatbackends__init__.pyiinterfaces.pyibindings
+opensslbinding.pyi__init__.pyi__init__.pyi
+primitiveskdfhkdf.pyi	kbkdf.pyi
+pbkdf2.pyi
+scrypt.pyix963kdf.pyi__init__.pyiconcatkdf.pyi
+ciphersaead.pyi	modes.pyi__init__.pyialgorithms.pyicmac.pyihmac.pyi	twofactorhotp.pyitotp.pyi__init__.pyi
+asymmetric	dh.pyi	ec.pyi
+dsa.pyi
+rsa.pyix448.pyi	ed448.pyi	utils.pyi
+x25519.pyied25519.pyipadding.pyi__init__.pyi
+hashes.pyikeywrap.pyipadding.pyi__init__.pyipoly1305.pyiserialization	pkcs7.pyi
+pkcs12.pyi__init__.pyiconstant_time.pyi__init__.pyi
+fernet.pyi__init__.pyiexceptions.pyiMETADATA.tomleditdistanceMETADATA.tomleditdistance.pyiitsdangerous	@testsstubtest_allowlist.txtMETADATA.tomlitsdangerous.pyiDateTimeRangeMETADATA.tomldatetimerange__init__.pyibackports_abc	@testsstubtest_allowlist.txtMETADATA.tomlbackports_abc.pyiclick-spinner	@testsstubtest_allowlist.txtMETADATA.tomlclick_spinner__init__.pyihumanfriendly	@testsstubtest_allowlist.txtrequirements-stubtest.txtMETADATA.tomlhumanfriendly
+cli.pyicase.pyiterminalhtml.pyi__init__.pyispinners.pyitext.pyi	usage.pyi
+compat.pyi
+sphinx.pyi
+tables.pyiprompts.pyitesting.pyi__init__.pyidecorators.pyideprecation.pyipython-gflags	@testsstubtest_allowlist.txt
+gflags.pyiMETADATA.tomlbeautifulsoup4bs4
+builder	_lxml.pyi__init__.pyi_html5lib.pyi_htmlparser.pyi
+dammit.pyielement.pyi__init__.pyidiagnose.pyiformatter.pyi	@testsstubtest_allowlist.txtrequirements-stubtest.txtMETADATA.tomlcharacteristicMETADATA.tomlcharacteristic__init__.pyipython-slugify
+slugifyslugify.pyispecial.pyi__init__.pyiMETADATA.tomlsingledispatchMETADATA.tomlsingledispatch.pyimypy-extensions	@testsstubtest_allowlist.txtMETADATA.tomlmypy_extensions.pyipython-dateutil	@testsstubtest_allowlist.txtdateutiltz	tz.pyi_common.pyi__init__.pyi	parser__init__.pyiisoparser.pyi	rrule.pyi	utils.pyi
+easter.pyi_common.pyi__init__.pyirelativedelta.pyiMETADATA.tomlpytest-lazy-fixtureMETADATA.tomlpytest_lazyfixture.pyibackports.ssl_match_hostname	backports__init__.pyissl_match_hostname__init__.pyiMETADATA.toml_functools.py_datetime.py_collections.py	_io.py_operator.py	_heapq.py
+_locale.py_elementtree.py
+_codecs.py_sha1.py
+_pickle.py_sha3.py
+_md5.py_posixsubprocess.py
+_random.py
+_imp.py
+_csv.py
+_sha256.py
+_blake2.py
+pyexpat
+_signal.py
+_sha512.pymodel.py	errors.py__init__.pygc.py	pwd.pyfcntl.py	select.py_warnings.py_weakref.py	grp.py
+_sre.py_symtable.py
+_struct.pyfaulthandler.py	syslog.py
+math.pyerrno.py
+marshal.pyposix.py	atexit.pyitertools.py
+spwd.py
+_thread.py_statistics.py	sys.pyarray.pycmath.py_stat.py
+_socket.py_tracemalloc.py
+time.pybinascii.pybuiltins.py
+_string.py
+schemasproperties.dtd	resourcespythonProject
+main.py
+patchesmeta-ext.rncembed-ext.rnccommon-ext.rnc0004_ping.patch0001_html5.patch0002_xhtml5.patch0007_legacy.patchpatch_build.patchcore-scripting-ext.rnc0008_svg_gradient.patch0005_html5_namespace.patch0006_xhtml5_namespace.patchrelaxng.rnghtml5-schemardf
+rdf.rncits2its20-html5.rncits20-html5-types.rncmml3Makefile	patch-vnumathml3.rncmathml3-inc.rncmathml3-common.rncmathml3-content.rncmathml3-presentation.rncmathml3-strict-content.rnchtml5aria.rncdata.rncmeta.rncrdfa.rncruby.rnc	block.rnc	embed.rnc	html5.rnc	media.rnc
+common.rnc
+legacy.rnc
+phrase.rnc
+tables.rnc
+xhtml5.rncmeta-ext.rncrevision.rncembed-ext.rnchtml5core.rnchtml5full.rncmicrodata.rncsectional.rncweb-forms.rnccommon-ext.rncstructural.rncweb-forms2.rncxhtml5core.rncits20-html5.rncapplications.rnccore-scripting.rncform-datatypes.rnchtml5full-rdfa.rncweb-components.rnchtml5exclusions.rncxhtml5full-html.rncxhtml5full-xhtml.rncits20-html5-types.rnccore-scripting-ext.rnchtml5full-rdfalite.rncweb-forms-scripting.rncweb-forms2-scripting.rncxhtml5full-xhtml-rdfa.rnchtml5full-no-microdata.rncxhtml5full-html-rdfalite.rnc xhtml5full-xhtml-rdfalite.rnc!xhtml5core-plus-web-forms2.rnc# xhtml5full-html-no-microdata.rnc$!xhtml5full-xhtml-no-microdata.rncsvg11	svg11.rncinkscape.rncsvg-clip.rncsvg-font.rncsvg-mask.rncsvg-text.rncsvg-view.rncsvg-image.rncsvg-qname.rncsvg-shape.rncsvg-style.rncsvg11-inc.rncsvg-cursor.rncsvg-filter.rncsvg-marker.rncsvg-script.rncsvg11-tiny.rncsvg-pattern.rncsvg-profile.rncsvg11-basic.rncsvg-gradient.rncsvg-animation.rncsvg-datatypes.rncsvg-hyperlink.rncsvg-structure.rncinkscape-draft.rncsvg-basic-clip.rncsvg-basic-font.rncsvg-basic-text.rncsvg11-tiny-inc.rncsvg-conditional.rncsvg-core-attrib.rncsvg11-basic-inc.rncsvg-basic-filter.rncsvg-paint-attrib.rncsvg-xlink-attrib.rncsvg-extensibility.rncsvg-opacity-attrib.rncsvg-basic-structure.rncsvg-graphics-attrib.rncsvg-viewport-attrib.rncsvg-container-attrib.rncsvg-docevents-attrib.rncsvg-animevents-attrib.rncsvg-graphevents-attrib.rncsvg-extresources-attrib.rnc svg-basic-graphics-attrib.rncsvg20	svg20.rncsvg20-inc.rnc
+LICENSE	html5.rnc
+xhtml5.rnchtml5-all.rnchtml5-its.rnchtml5chars.entxhtml5-all.rnchtml5-rdfalite.rncxhtml5-rdfalite.rnchtml5-svg-mathml.rncxhtml5-svg-mathml.rnchtml5-no-microdata.rnchtml5-rdfalite-w3c.rncxhtml5-no-microdata.rncxhtml5-rdfalite-w3c.rncsvg-xhtml5-rdf-mathml.rnc!xhtml1-ruby-rdf-svg-mathml.rnchtml5charref.rbevent-log-metadataFUSevents-scheme.jsonupdate_html5_schema.shextResourcesstandardSchemashtml5
+xhtml5.xsd
+xhtml11xhtml11.dtdxhtml-lat1.entxhtml-base-1.modxhtml-edit-1.modxhtml-form-1.modxhtml-link-1.modxhtml-list-1.modxhtml-meta-1.modxhtml-pres-1.modxhtml-ruby-1.modxhtml-symbol.entxhtml-text-1.modxhtml-image-1.modxhtml-param-1.modxhtml-qname-1.modxhtml-special.entxhtml-style-1.modxhtml-table-1.modxhtml-events-1.modxhtml-object-1.modxhtml-script-1.modxhtml-struct-1.modxhtml-target-1.modxhtml-attribs-1.modxhtml-blkpres-1.modxhtml-charent-1.modxhtml-csismap-1.modxhtml-inlpres-1.modxhtml-ssismap-1.modxhtml11-model-1.modxhtml-blkphras-1.modxhtml-inlphras-1.modxhtml-inlstyle-1.modxhtml-blkstruct-1.modxhtml-datatypes-1.modxhtml-framework-1.modxhtml-hypertext-1.modxhtml-inlstruct-1.modxhtml-basic-form-1.modxhtml-basic-table-1.mod
+xml.xsd	xhtml.dtd	xlink.dtd
+xhtml1.dtdcatalog.xsdxhtml-mobilexhtml-mobile10.dtdxhtml-mobile12.dtdxhtmlmp12-form-1.modxhtml-mobile10-flat.dtdxhtml-mobile12-form.modxhtml-mobile10-model-1.modxhtml-mobile12-model-1.modxinclude.xsdxslt-1_0.xsdxslt-2_0.xsdXMLSchema-1_1XMLSchema.xsd$!XMLSchema-hasFacetAndProperty.xsdXMLSchema.dtdXMLSchema.xsddatatypes.dtdxhtml-lat1.entxhtml-symbol.entxhtml-special.entxhtml1-strict.dtdxhtml1-strict.xsdxhtml1-frameset.dtdxhtml1-frameset.xsdplugin-repository.dtdXMLSchema-instance.xsdxhtml1-transitional.dtdxhtml1-transitional.xsdXMLSchema-versioning.xsd_curses_panel.py_codecs_hk.py_ctypes_test.py	_crypt.py_contextvars.pyunicodedata.py	typing_codecs_jp.py_asyncio.py
+_bz2.py_codecs_cn.py_codecs_kr.py
+_curses.pyxxsubtype.py
+_dbm.py_codecs_iso2022.py_codecs_tw.py
+zlib.py
+_ctypes.py_decimal.pyre.pyio.py__init__.pyossaudiodev.py
+_lsprof.py
+audioop.py
+mmap.py_testimportmultiple.py	nis.py_multiprocessing.py_testbuffer.py_sqlite3.pyxxlimited.py_testmultiphase.py
+_ssl.pyresource.py_xxtestfuzz.py_lzma.py	_queue.py_testinternalcapi.py_hashlib.py_uuid.py
+_opcode.py_multibytecodec.py_xxsubinterpreters.py_posixshmem.py_testcapi.py_json.py
+termios.py	parser.py_gdbm.pyreadline.py.ideapythonProject.imlmodules.xmlworkspace.xmlmisc.xmlinspectionProfilesprofiles_settings.xml
+.gitignore
+t32.exe
+t64.exe
+w32.exe
+w64.exe
+cli.exe
+gui.exe
+cli-32.exe
+cli-64.exe
+gui-32.exe
+gui-64.exepip-21.1.2.virtualenvwheel-0.36.2.virtualenvsetuptools-57.0.0.virtualenvhellow mogadisho.pyhi__init__.pyforms.pyviews.py	models.py

@@ -1,0 +1,10 @@
+[2022-02-08 11:19:28.708] [renderer2] [info] IExtensionHostStarter.start() took 328 ms.
+[2022-02-08 11:19:28.920] [renderer2] [error] [Extension Host] (node:6551) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-08 11:19:40.913] [renderer2] [info] IExtensionHostStarter.start() took 136 ms.
+[2022-02-08 11:19:41.025] [renderer2] [error] [Extension Host] (node:6837) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-08 11:20:09.542] [renderer2] [info] IExtensionHostStarter.start() took 20 ms.
+[2022-02-08 11:20:09.729] [renderer2] [error] [Extension Host] (node:6945) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-08 11:54:35.080] [renderer2] [error] Failed to execute git

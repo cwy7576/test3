@@ -1,0 +1,18 @@
+[2022-02-06 10:01:36.322] [exthost] [info] Extension host with pid 14541 started
+[2022-02-06 10:01:36.349] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-06 10:01:36.362] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-06 10:01:36.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-06 10:01:36.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-06 10:01:36.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-06 10:01:36.548] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2022-02-06 10:01:36.552] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2022-02-06 10:01:36.569] [exthost] [info] ExtensionService#_doActivateExtension mcright.auto-save, startup: true, activationEvent: '*'
+[2022-02-06 10:01:36.645] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-02-06 10:01:36.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2022-02-06 10:01:36.688] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-06 10:01:36.706] [exthost] [info] Eager extensions activated
+[2022-02-06 10:01:36.731] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-06 10:01:36.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-06 10:01:36.736] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-06 15:15:45.206] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-06 15:15:45.236] [exthost] [info] Extension host with pid 14541 exiting with code 0

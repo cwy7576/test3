@@ -1,0 +1,93 @@
+[2022-02-21 13:45:53.095] [exthost] [info] Extension host with pid 3124 started
+[2022-02-21 13:45:53.095] [exthost] [info] Skipping acquiring lock for /home/abdiweli/.config/Code/User/workspaceStorage/d90e80f9576cf9437bd36a357acc5357.
+[2022-02-21 13:45:53.153] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-21 13:45:53.170] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-21 13:45:53.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-21 13:45:53.394] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-21 13:45:53.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-21 13:45:53.400] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-02-21 13:45:53.431] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2022-02-21 13:45:53.442] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2022-02-21 13:45:53.487] [exthost] [info] ExtensionService#_doActivateExtension mcright.auto-save, startup: true, activationEvent: '*'
+[2022-02-21 13:45:53.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-02-21 13:45:53.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2022-02-21 13:45:53.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-21 13:45:53.663] [exthost] [info] Eager extensions activated
+[2022-02-21 13:45:53.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 13:45:53.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 13:45:53.696] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 13:45:57.832] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-21 13:45:59.015] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-21 13:46:08.440] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:08.440] [exthost] [error] undefined
+[2022-02-21 13:46:46.876] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:46.876] [exthost] [error] undefined
+[2022-02-21 13:46:50.416] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:50.416] [exthost] [error] undefined
+[2022-02-21 13:46:51.487] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:51.487] [exthost] [error] undefined
+[2022-02-21 13:46:51.918] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:51.918] [exthost] [error] undefined
+[2022-02-21 13:46:52.936] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:52.936] [exthost] [error] undefined
+[2022-02-21 13:46:54.041] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:54.041] [exthost] [error] undefined
+[2022-02-21 13:46:55.343] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:55.343] [exthost] [error] undefined
+[2022-02-21 13:46:55.562] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:55.562] [exthost] [error] undefined
+[2022-02-21 13:46:56.006] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:56.006] [exthost] [error] undefined
+[2022-02-21 13:46:56.964] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:46:56.964] [exthost] [error] undefined
+[2022-02-21 13:47:00.090] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:47:00.090] [exthost] [error] undefined
+[2022-02-21 13:47:00.367] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:47:00.367] [exthost] [error] undefined
+[2022-02-21 13:47:00.868] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:47:00.868] [exthost] [error] undefined
+[2022-02-21 13:47:01.075] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:47:01.075] [exthost] [error] undefined
+[2022-02-21 13:47:11.826] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:47:11.826] [exthost] [error] undefined
+[2022-02-21 13:47:28.547] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:47:28.547] [exthost] [error] undefined
+[2022-02-21 13:47:29.289] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:47:29.289] [exthost] [error] undefined
+[2022-02-21 13:47:30.901] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:47:30.901] [exthost] [error] undefined
+[2022-02-21 13:47:32.050] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:47:32.050] [exthost] [error] undefined
+[2022-02-21 13:47:38.738] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-02-21 13:50:02.133] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10030
+[2022-02-21 13:51:08.751] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:51:08.751] [exthost] [error] undefined
+[2022-02-21 13:51:17.599] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:51:17.599] [exthost] [error] undefined
+[2022-02-21 13:51:35.472] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:51:35.472] [exthost] [error] undefined
+[2022-02-21 13:51:37.548] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:51:37.548] [exthost] [error] undefined
+[2022-02-21 13:51:39.141] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:51:39.142] [exthost] [error] undefined
+[2022-02-21 13:51:39.545] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:51:39.545] [exthost] [error] undefined
+[2022-02-21 13:51:55.595] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:51:55.595] [exthost] [error] undefined
+[2022-02-21 13:52:07.339] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:52:07.339] [exthost] [error] undefined
+[2022-02-21 13:52:10.212] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:52:10.212] [exthost] [error] undefined
+[2022-02-21 13:52:10.694] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:52:10.694] [exthost] [error] undefined
+[2022-02-21 13:52:10.926] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:52:10.926] [exthost] [error] undefined
+[2022-02-21 13:52:11.849] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 13:52:11.849] [exthost] [error] undefined
+[2022-02-21 13:53:47.712] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10013
+[2022-02-21 13:56:56.197] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10006
+[2022-02-21 14:01:02.684] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10052
+[2022-02-21 14:02:37.537] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:02:37.537] [exthost] [error] undefined
+[2022-02-21 14:02:39.402] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:02:39.402] [exthost] [error] undefined

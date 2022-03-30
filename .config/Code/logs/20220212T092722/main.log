@@ -1,0 +1,22 @@
+[2022-02-12 09:27:22.467] [main] [info] update#setState idle
+[2022-02-12 09:27:22.662] [main] [info] ExtensionHostStarterWorker created
+[2022-02-12 09:27:23.586] [main] [info] Starting extension host with pid 3557 (fork() took 9 ms).
+[2022-02-12 09:27:23.586] [main] [info] ExtensionHostStarterWorker.start() took 15 ms.
+[2022-02-12 09:27:23.680] [main] [info] Starting extension host with pid 3568 (fork() took 6 ms).
+[2022-02-12 09:27:23.681] [main] [info] ExtensionHostStarterWorker.start() took 7 ms.
+[2022-02-12 09:27:23.712] [main] [info] Starting extension host with pid 3573 (fork() took 5 ms).
+[2022-02-12 09:27:23.712] [main] [info] ExtensionHostStarterWorker.start() took 6 ms.
+[2022-02-12 09:27:52.469] [main] [info] update#setState checking for updates
+[2022-02-12 09:27:52.472] [main] [info] update#setState idle
+[2022-02-12 10:27:52.555] [main] [info] update#setState checking for updates
+[2022-02-12 10:27:52.558] [main] [info] update#setState idle
+[2022-02-12 11:27:52.657] [main] [info] update#setState checking for updates
+[2022-02-12 11:27:52.660] [main] [info] update#setState idle
+[2022-02-12 12:27:52.756] [main] [info] update#setState checking for updates
+[2022-02-12 12:27:52.759] [main] [info] update#setState idle
+[2022-02-12 13:27:52.807] [main] [info] update#setState checking for updates
+[2022-02-12 13:27:52.811] [main] [info] update#setState idle
+[2022-02-12 14:27:52.908] [main] [info] update#setState checking for updates
+[2022-02-12 14:27:52.911] [main] [info] update#setState idle
+[2022-02-12 15:27:53.026] [main] [info] update#setState checking for updates
+[2022-02-12 15:27:53.030] [main] [info] update#setState idle

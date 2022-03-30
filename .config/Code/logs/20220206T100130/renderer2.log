@@ -1,0 +1,6 @@
+[2022-02-06 10:01:31.675] [renderer2] [info] IExtensionHostStarter.start() took 250 ms.
+[2022-02-06 10:01:31.865] [renderer2] [error] [Extension Host] (node:14561) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-06 14:11:54.575] [renderer2] [info] IExtensionHostStarter.start() took 238 ms.
+[2022-02-06 14:11:54.642] [renderer2] [error] [Extension Host] (node:23095) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)

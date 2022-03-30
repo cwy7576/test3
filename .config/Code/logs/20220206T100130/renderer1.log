@@ -1,0 +1,7 @@
+[2022-02-06 10:01:31.794] [renderer1] [info] IExtensionHostStarter.start() took 280 ms.
+[2022-02-06 10:01:31.920] [renderer1] [error] [Extension Host] (node:14583) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-06 14:18:29.072] [renderer1] [error] Failed to execute git
+[2022-02-06 14:18:34.631] [renderer1] [error] Failed to execute git
+[2022-02-06 14:18:37.634] [renderer1] [error] Failed to execute git
+[2022-02-06 14:18:39.109] [renderer1] [error] Failed to execute git

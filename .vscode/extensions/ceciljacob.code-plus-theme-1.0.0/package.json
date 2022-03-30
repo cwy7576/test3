@@ -1,0 +1,59 @@
+{
+	"name": "code-plus-theme",
+	"displayName": "Theme",
+	"publisher": "ceciljacob",
+	"version": "1.0.0",
+	"license": "CC-BY-4.0",
+	"description": "This is a code editor theme with extensive syntax highlight and workbench color customization implemented.",
+	"icon": "Icon.png",
+	"engines": {
+		"vscode": "^1.56.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ceciljacob/code-plus-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/ceciljacob/code-plus-theme/issues"
+	},
+	"qna": "https://github.com/ceciljacob/code-plus-theme/issues",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Theme + Dark Blue Theme",
+				"uiTheme": "vs-dark",
+				"path": "./theme/theme-dark-blue-color-theme.json"
+			},
+			{
+				"label": "Theme + Dark Brown Theme",
+				"uiTheme": "vs-dark",
+				"path": "./theme/theme-dark-brown-color-theme.json"
+			}
+		]
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Customize",
+		"Professional"
+	],
+	"galleryBanner": {
+		"color": "#081620",
+		"theme": "dark"
+	},
+	"author": {
+		"name": "Cecil Jacob"
+	},
+	"__metadata": {
+		"id": "07686a8a-d107-4f78-a14d-8add9e951c44",
+		"publisherId": "6c7c1068-844b-4f32-88f6-501c72d7e4ed",
+		"publisherDisplayName": "Cecil Jacob",
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1644145955488
+	}
+}

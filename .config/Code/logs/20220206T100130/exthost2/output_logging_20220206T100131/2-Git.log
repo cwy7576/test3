@@ -1,0 +1,5 @@
+[2022-02-06T07:01:32.543Z] Validating found git in: git
+[2022-02-06T07:01:32.615Z] Using git 2.25.1 from git
+[2022-02-06T07:01:32.665Z] > git rev-parse --git-dir [21ms]
+[2022-02-06T07:01:32.667Z] Open repository: /home/abdiweli
+[2022-02-06T07:01:32.991Z] > git ls-files --stage -- /home/abdiweli/java script/readme.md [3ms]

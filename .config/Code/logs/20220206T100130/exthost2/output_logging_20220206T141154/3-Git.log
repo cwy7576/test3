@@ -1,0 +1,15 @@
+[2022-02-06T11:11:56.170Z] Validating found git in: git
+[2022-02-06T11:11:56.188Z] Using git 2.25.1 from git
+[2022-02-06T11:11:56.201Z] > git rev-parse --git-dir [1ms]
+[2022-02-06T11:11:56.203Z] Open repository: /home/abdiweli
+[2022-02-06T11:12:00.314Z] > git fetch [4107ms]
+[2022-02-06T11:12:00.314Z] Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[2022-02-06T11:12:08.688Z] > git ls-files --stage -- /home/abdiweli/Desktop/side bar/index.html [20ms]
+[2022-02-06T11:12:12.016Z] > git ls-files --stage -- /home/abdiweli/Desktop/side bar/index.html [3ms]
+[2022-02-06T11:12:20.035Z] > git ls-files --stage -- /home/abdiweli/Desktop/side bar/style.css [1ms]
+[2022-02-06T11:12:43.799Z] > git ls-files --stage -- /home/abdiweli/Desktop/side bar/index.html [4ms]
+[2022-02-06T11:13:42.852Z] > git ls-files --stage -- /home/abdiweli/Desktop/side bar/script.js [1ms]
+[2022-02-06T11:13:45.833Z] > git ls-files --stage -- /home/abdiweli/Desktop/side bar/index.html [3ms]
+[2022-02-06T11:14:27.367Z] > git ls-files --stage -- /home/abdiweli/Desktop/side bar/img [3ms]
+[2022-02-06T11:14:38.717Z] > git ls-files --stage -- /home/abdiweli/Desktop/side bar/index.html [2ms]

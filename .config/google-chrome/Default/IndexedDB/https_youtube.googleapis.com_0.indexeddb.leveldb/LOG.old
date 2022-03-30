@@ -1,0 +1,15 @@
+2022/01/01-15:23:42.394 60fd Reusing MANIFEST /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/01-15:23:42.394 60fd Recovering log #7
+2022/01/01-15:23:42.395 60fd Reusing old log /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb/000007.log 
+2022/01/01-15:25:12.557 8fe4 Level-0 table #12: started
+2022/01/01-15:25:12.560 8fe4 Level-0 table #12: 22178 bytes OK
+2022/01/01-15:25:12.563 8fe4 Delete type=0 #7
+2022/01/01-15:25:12.563 8fe4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/01-15:25:12.563 8fe4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x18b\x88Y\xe1wB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1113 : 1
+2022/01/01-15:25:12.563 8fe4 Compacting 1@1 + 1@2 files
+2022/01/01-15:25:12.568 8fe4 Generated table #13@1: 251 keys, 37111 bytes
+2022/01/01-15:25:12.568 8fe4 Compacted 1@1 + 1@2 files => 37111 bytes
+2022/01/01-15:25:12.570 8fe4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/01-15:25:12.571 8fe4 Delete type=2 #12
+2022/01/01-15:25:12.571 8fe4 Delete type=2 #9
+2022/01/01-15:25:12.571 8fe4 Manual compaction at level-1 from '\x00\x08\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x18b\x88Y\xe1wB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1113 : 1 .. (end); will stop at (end)

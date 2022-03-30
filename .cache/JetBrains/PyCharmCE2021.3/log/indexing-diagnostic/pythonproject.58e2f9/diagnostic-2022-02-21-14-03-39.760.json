@@ -1,0 +1,175 @@
+{
+  "appInfo" : {
+    "build" : "213.6777.50",
+    "buildDate" : "2022-01-27T16:06:31.793Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2022-02-21T11:03:39.761748Z",
+    "os" : "Linux 5.13.0-30-generic",
+    "runtime" : "JetBrains s.r.o. 11.0.13 11.0.13+7-b1751.25"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1023410176,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "pythonProject",
+    "times" : {
+      "indexingReason" : "On project open",
+      "wasFullIndexing" : true,
+      "totalUpdatingTime" : 766491147,
+      "indexingTime" : 38458000,
+      "contentLoadingTime" : 824933,
+      "scanFilesTime" : 697234000,
+      "pushPropertiesTime" : 1088000,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2022-02-21T11:03:38.993341Z",
+      "updatingEnd" : "2022-02-21T11:03:39.759854Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 6,
+      "numberOfScannedFiles" : 4122,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 2,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 2
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 49746598,
+        "total" : 49746598
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1437658,
+        "total" : 1437658
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 10089,
+      "indexingSpeed" : {
+        "totalBytes" : 10089,
+        "totalTime" : 49746598
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.8 (pythonProject)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 10089,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 49746598,
+          "total" : 49746598
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 17907158,
+        "total" : 22654264
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 10089,
+      "indexingSpeed" : {
+        "totalBytes" : 10089,
+        "totalTime" : 17907158
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 4747106,
+        "total" : 22654264
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 10089,
+      "indexingSpeed" : {
+        "totalBytes" : 10089,
+        "totalTime" : 4747106
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Python SDK Python 3.8 (pythonProject)",
+      "numberOfScannedFiles" : 3896,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 2,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 504809283,
+      "timeProcessingUpToDateFiles" : 180679177,
+      "timeUpdatingContentLessIndexes" : 36397124,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@4c01697a' (non-project)",
+      "numberOfScannedFiles" : 214,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 392215884,
+      "timeProcessingUpToDateFiles" : 11491073,
+      "timeUpdatingContentLessIndexes" : 886726,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Module 'pythonProject' (pythonProject)",
+      "numberOfScannedFiles" : 12,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 93443331,
+      "timeProcessingUpToDateFiles" : 53501627,
+      "timeUpdatingContentLessIndexes" : 281811,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@4c01697a' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.8 (pythonProject)",
+      "totalNumberOfIndexedFiles" : 2,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 28544794,
+      "contentLoadingTime" : 824933,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    } ]
+  }
+}

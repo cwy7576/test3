@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="thunderbird.desktop" score="0" last-seen="1645439734"/>
+    <application id="org.gnome.eog.desktop" score="5" last-seen="1645439719"/>
+    <application id="org.gnome.Nautilus.desktop" score="24" last-seen="1645441593"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1645277351"/>
+    <application id="org.gnome.Terminal.desktop" score="12" last-seen="1645426455"/>
+    <application id="pycharm-community_pycharm-community.desktop" score="153" last-seen="1645441420"/>
+    <application id="code_code.desktop" score="4109.625" last-seen="1645441585"/>
+    <application id="pgadmin4.desktop" score="51" last-seen="1645431689"/>
+    <application id="gnome-control-center.desktop" score="7" last-seen="1645431254"/>
+    <application id="google-chrome.desktop" score="15539.625" last-seen="1645439736"/>
+    <application id="update-manager.desktop" score="0" last-seen="1644993245"/>
+    <application id="org.gnome.FileRoller.desktop" score="1" last-seen="1645441569"/>
+    <application id="firefox.desktop" score="0" last-seen="1645430535"/>
+  </context>
+</application-state>

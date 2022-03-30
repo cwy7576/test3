@@ -1,0 +1,18 @@
+[2022-02-06 10:01:33.128] [sharedprocess] [info] Starting worker process with pid 14772 (type: fileWatcher, window: 3).
+[2022-02-06 10:01:33.130] [sharedprocess] [info] Starting worker process with pid 14774 (type: fileWatcher, window: 1).
+[2022-02-06 10:01:33.135] [sharedprocess] [info] Starting worker process with pid 14776 (type: fileWatcher, window: 2).
+[2022-02-06 10:01:34.976] [sharedprocess] [info] Starting worker process with pid 15070 (type: fileWatcher, window: 5).
+[2022-02-06 14:11:53.449] [sharedprocess] [info] Worker process with pid 14776 terminated normally (type: fileWatcher, window: 2).
+[2022-02-06 14:11:54.359] [sharedprocess] [info] Starting worker process with pid 23096 (type: fileWatcher, window: 2).
+[2022-02-06 14:12:31.853] [sharedprocess] [info] Getting Manifest... ceciljacob.code-plus-theme
+[2022-02-06 14:12:31.864] [sharedprocess] [info] Installing extension: ceciljacob.code-plus-theme
+[2022-02-06 14:12:35.442] [sharedprocess] [info] Downloaded extension: ceciljacob.code-plus-theme /home/abdiweli/.config/Code/CachedExtensionVSIXs/ceciljacob.code-plus-theme-1.0.0
+[2022-02-06 14:12:35.487] [sharedprocess] [info] Extracted extension to /home/abdiweli/.vscode/extensions/.6441254c-f738-42c9-8b79-565a2fce5c98: ceciljacob.code-plus-theme
+[2022-02-06 14:12:35.490] [sharedprocess] [info] Renamed to /home/abdiweli/.vscode/extensions/ceciljacob.code-plus-theme-1.0.0
+[2022-02-06 14:12:35.491] [sharedprocess] [info] Extracting completed. ceciljacob.code-plus-theme
+[2022-02-06 14:12:35.492] [sharedprocess] [info] Extension installed successfully: ceciljacob.code-plus-theme
+[2022-02-06 14:17:11.423] [sharedprocess] [info] Worker process with pid 23096 terminated normally (type: fileWatcher, window: 2).
+[2022-02-06 14:20:07.811] [sharedprocess] [info] Worker process with pid 15070 terminated normally (type: fileWatcher, window: 5).
+[2022-02-06 14:20:08.486] [sharedprocess] [info] Starting worker process with pid 24147 (type: fileWatcher, window: 5).
+[2022-02-06 15:06:28.392] [sharedprocess] [info] Starting worker process with pid 31534 (type: fileWatcher, window: 6).
+[2022-02-06 15:15:45.208] [sharedprocess] [info] Worker process with pid 14772 terminated normally (type: fileWatcher, window: 3).

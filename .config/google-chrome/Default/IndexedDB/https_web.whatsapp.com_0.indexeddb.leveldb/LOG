@@ -1,0 +1,41 @@
+2022/02/12-13:37:38.427 2f6e Creating DB /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/02/12-13:37:38.431 2f6e Reusing MANIFEST /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/12-13:47:44.305 3143 Level-0 table #5: started
+2022/02/12-13:47:44.341 3143 Level-0 table #5: 1195990 bytes OK
+2022/02/12-13:47:44.345 3143 Delete type=0 #3
+2022/02/12-14:31:31.481 375a Level-0 table #7: started
+2022/02/12-14:31:31.498 375a Level-0 table #7: 1307125 bytes OK
+2022/02/12-14:31:31.501 375a Delete type=0 #4
+2022/02/12-14:31:38.325 375a Compacting 1@1 + 1@2 files
+2022/02/12-14:31:38.382 375a Generated table #8@1: 19600 keys, 896402 bytes
+2022/02/12-14:31:38.382 375a Compacted 1@1 + 1@2 files => 896402 bytes
+2022/02/12-14:31:38.384 375a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/12-14:31:38.384 375a Delete type=2 #7
+2022/02/12-14:31:38.384 375a Delete type=2 #5
+2022/02/12-14:34:43.313 36c0 Level-0 table #10: started
+2022/02/12-14:34:43.381 36c0 Level-0 table #10: 1139810 bytes OK
+2022/02/12-14:34:43.384 36c0 Delete type=0 #6
+2022/02/12-14:34:48.326 36c0 Compacting 1@1 + 1@2 files
+2022/02/12-14:34:48.351 36c0 Generated table #11@1: 25588 keys, 1136556 bytes
+2022/02/12-14:34:48.351 36c0 Compacted 1@1 + 1@2 files => 1136556 bytes
+2022/02/12-14:34:48.353 36c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/12-14:34:48.353 36c0 Delete type=2 #8
+2022/02/12-14:34:48.353 36c0 Delete type=2 #10
+2022/02/12-15:11:08.337 3c24 Level-0 table #13: started
+2022/02/12-15:11:08.378 3c24 Level-0 table #13: 1500102 bytes OK
+2022/02/12-15:11:08.381 3c24 Delete type=0 #9
+2022/02/12-15:11:14.855 3cac Compacting 1@1 + 1@2 files
+2022/02/12-15:11:14.920 3cac Generated table #14@1: 29785 keys, 1435817 bytes
+2022/02/12-15:11:14.920 3cac Compacted 1@1 + 1@2 files => 1435817 bytes
+2022/02/12-15:11:14.922 3cac compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/12-15:11:14.922 3cac Delete type=2 #11
+2022/02/12-15:11:14.922 3cac Delete type=2 #13
+2022/02/12-15:27:25.164 3fd6 Level-0 table #16: started
+2022/02/12-15:27:25.218 3fd6 Level-0 table #16: 1441627 bytes OK
+2022/02/12-15:27:25.221 3fd6 Delete type=0 #12
+2022/02/12-15:27:46.942 3c24 Compacting 1@1 + 1@2 files
+2022/02/12-15:27:47.011 3c24 Generated table #17@1: 34100 keys, 1683515 bytes
+2022/02/12-15:27:47.011 3c24 Compacted 1@1 + 1@2 files => 1683515 bytes
+2022/02/12-15:27:47.013 3c24 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/12-15:27:47.013 3c24 Delete type=2 #16
+2022/02/12-15:27:47.013 3c24 Delete type=2 #14

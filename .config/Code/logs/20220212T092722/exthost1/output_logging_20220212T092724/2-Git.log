@@ -1,0 +1,5 @@
+[2022-02-12T06:27:24.494Z] Validating found git in: git
+[2022-02-12T06:27:24.528Z] Using git 2.25.1 from git
+[2022-02-12T06:27:24.582Z] > git rev-parse --git-dir [2ms]
+[2022-02-12T06:27:24.584Z] Open repository: /home/abdiweli
+[2022-02-12T06:27:24.899Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/index.html [1ms]

@@ -1,0 +1,14 @@
+[2022-02-06 15:06:28.718] [exthost] [info] Extension host with pid 31531 started
+[2022-02-06 15:06:28.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-06 15:06:28.761] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-06 15:06:28.763] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-06 15:06:28.765] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2022-02-06 15:06:28.778] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2022-02-06 15:06:28.835] [exthost] [info] ExtensionService#_doActivateExtension mcright.auto-save, startup: true, activationEvent: '*'
+[2022-02-06 15:06:28.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-02-06 15:06:28.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2022-02-06 15:06:28.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-06 15:06:28.919] [exthost] [info] Eager extensions activated
+[2022-02-06 15:06:28.934] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-06 15:06:28.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-06 15:06:28.943] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'

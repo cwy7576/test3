@@ -1,0 +1,46 @@
+2022/02/21-09:45:19.082 2d7e Reusing MANIFEST /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/21-09:45:19.083 2d7e Recovering log #6554
+2022/02/21-09:45:19.085 2d7e Reusing old log /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/006554.log 
+2022/02/21-09:45:19.750 2b56 Compacting 1@1 + 2@2 files
+2022/02/21-09:45:19.767 2b56 Generated table #6557@1: 529 keys, 2118584 bytes
+2022/02/21-09:45:19.779 2b56 Generated table #6558@1: 1738 keys, 936616 bytes
+2022/02/21-09:45:19.779 2b56 Compacted 1@1 + 2@2 files => 3055200 bytes
+2022/02/21-09:45:19.781 2b56 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/02/21-09:56:20.397 2b56 Level-0 table #6560: started
+2022/02/21-09:56:20.413 2b56 Level-0 table #6560: 1946550 bytes OK
+2022/02/21-09:56:20.415 2b56 Delete type=0 #6554
+2022/02/21-09:56:20.415 2b56 Delete type=2 #6553
+2022/02/21-09:56:20.415 2b56 Delete type=2 #6552
+2022/02/21-09:56:20.415 2b56 Delete type=2 #6555
+2022/02/21-09:56:21.185 2e57 Compacting 1@1 + 2@2 files
+2022/02/21-09:56:21.207 2e57 Generated table #6561@1: 632 keys, 2113191 bytes
+2022/02/21-09:56:21.218 2e57 Generated table #6562@1: 1729 keys, 730340 bytes
+2022/02/21-09:56:21.218 2e57 Compacted 1@1 + 2@2 files => 2843531 bytes
+2022/02/21-09:56:21.219 2e57 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/02/21-09:56:21.219 2e57 Delete type=2 #6560
+2022/02/21-09:56:21.219 2e57 Delete type=2 #6558
+2022/02/21-09:56:21.219 2e57 Delete type=2 #6557
+2022/02/21-09:56:21.256 2d57 Level-0 table #6564: started
+2022/02/21-09:56:21.270 2d57 Level-0 table #6564: 2266699 bytes OK
+2022/02/21-09:56:21.272 2d57 Delete type=0 #6559
+2022/02/21-09:56:21.284 2e57 Compacting 1@1 + 2@2 files
+2022/02/21-09:56:21.304 2e57 Generated table #6565@1: 1249 keys, 2110529 bytes
+2022/02/21-09:56:21.314 2e57 Generated table #6566@1: 2319 keys, 632889 bytes
+2022/02/21-09:56:21.314 2e57 Compacted 1@1 + 2@2 files => 2743418 bytes
+2022/02/21-09:56:21.315 2e57 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/02/21-09:56:21.315 2e57 Delete type=2 #6561
+2022/02/21-09:56:21.315 2e57 Delete type=2 #6564
+2022/02/21-09:56:21.315 2e57 Delete type=2 #6562
+2022/02/21-11:53:04.839 40d0 Level-0 table #6568: started
+2022/02/21-11:53:04.890 40d0 Level-0 table #6568: 1552859 bytes OK
+2022/02/21-11:53:04.894 40d0 Delete type=0 #6563
+2022/02/21-11:58:40.841 4aa1 Compacting 1@1 + 2@2 files
+2022/02/21-11:58:40.879 4aa1 Generated table #6569@1: 3711 keys, 611542 bytes
+2022/02/21-11:58:40.879 4aa1 Compacted 1@1 + 2@2 files => 611542 bytes
+2022/02/21-11:58:40.881 4aa1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/21-13:42:40.854 550f Level-0 table #6571: started
+2022/02/21-13:42:40.919 550f Level-0 table #6571: 1673273 bytes OK
+2022/02/21-13:42:40.950 550f Delete type=2 #6566
+2022/02/21-13:42:40.950 550f Delete type=2 #6565
+2022/02/21-13:42:40.950 550f Delete type=2 #6568
+2022/02/21-13:42:40.950 550f Delete type=0 #6567

@@ -1,0 +1,16 @@
+[2022-02-19 16:29:24.999] [main] [info] update#setState idle
+[2022-02-19 16:29:25.211] [main] [info] ExtensionHostStarterWorker created
+[2022-02-19 16:29:26.077] [main] [info] Starting extension host with pid 18503 (fork() took 11 ms).
+[2022-02-19 16:29:26.077] [main] [info] ExtensionHostStarterWorker.start() took 31 ms.
+[2022-02-19 16:29:26.211] [main] [info] Starting extension host with pid 18526 (fork() took 9 ms).
+[2022-02-19 16:29:26.211] [main] [info] ExtensionHostStarterWorker.start() took 11 ms.
+[2022-02-19 16:29:26.234] [main] [info] Starting extension host with pid 18527 (fork() took 5 ms).
+[2022-02-19 16:29:26.234] [main] [info] ExtensionHostStarterWorker.start() took 6 ms.
+[2022-02-19 16:29:55.018] [main] [info] update#setState checking for updates
+[2022-02-19 16:29:55.022] [main] [info] update#setState idle
+[2022-02-19 16:30:28.065] [main] [info] Extension host with pid 18526 exited with code: 0, signal: null.
+[2022-02-19 16:30:28.662] [main] [info] Starting extension host with pid 18837 (fork() took 6 ms).
+[2022-02-19 16:30:28.662] [main] [info] ExtensionHostStarterWorker.start() took 24 ms.
+[2022-02-19 16:30:37.162] [main] [info] Extension host with pid 18837 exited with code: 0, signal: null.
+[2022-02-19 16:30:37.828] [main] [info] Starting extension host with pid 18916 (fork() took 7 ms).
+[2022-02-19 16:30:37.828] [main] [info] ExtensionHostStarterWorker.start() took 8 ms.

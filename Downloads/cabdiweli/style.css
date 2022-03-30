@@ -1,0 +1,61 @@
+HTML{
+   margin: 0;
+   padding:20%;
+   padding-top: 30%;
+   padding-bottom: 10%;
+   box-sizing: border-box;
+   
+    
+}
+.hero{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    text-align: center;
+    
+    border: 1px solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    
+}
+.hero password{
+    
+    text-shadow: darkviolet;
+}
+.form{
+     
+    max-width: 800px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: rgb(47, 1, 214);
+    border: 1px solid rgb(255, 255, 255);
+    border-bottom-style: solid ;
+    border-color: white;
+    border-radius: 20px;
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(79, 234, 255);
+    background-image: url(sawir.jpg);
+    background-position: center;
+    position: absolute;
+}
+.form input{
+    border-radius: 10px;
+    border-color: rgb(1, 69, 255);
+}
+.form lebel{
+    font-size: 30rem;
+}
+.form button{
+    margin: 1rem;
+    padding: 0;
+    background-color: lightskyblue;
+    color: rgb(0, 44, 167);
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border-radius: 10px;
+
+
+
+}

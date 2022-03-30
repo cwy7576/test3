@@ -1,0 +1,20 @@
+[2022-02-08 11:19:29.106] [exthost] [info] Extension host with pid 6560 started
+[2022-02-08 11:19:29.107] [exthost] [info] Skipping acquiring lock for /home/abdiweli/.config/Code/User/workspaceStorage/296d9e824c23fce4876ba8e56ad2b0d0.
+[2022-02-08 11:19:29.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-08 11:19:29.262] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-08 11:19:29.535] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-08 11:19:29.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-08 11:19:29.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-08 11:19:29.546] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2022-02-08 11:19:29.550] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2022-02-08 11:19:29.570] [exthost] [info] ExtensionService#_doActivateExtension mcright.auto-save, startup: true, activationEvent: '*'
+[2022-02-08 11:19:29.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-02-08 11:19:29.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2022-02-08 11:19:29.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-08 11:19:29.705] [exthost] [info] Eager extensions activated
+[2022-02-08 11:19:29.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 11:19:29.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 11:19:29.745] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 11:23:22.888] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-08 11:23:24.156] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2022-02-08 14:03:11.875] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 11582

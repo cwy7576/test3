@@ -1,0 +1,24 @@
+[2022-02-06T07:01:32.245Z] Validating found git in: git
+[2022-02-06T07:01:32.294Z] Using git 2.25.1 from git
+[2022-02-06T07:01:32.342Z] > git rev-parse --git-dir [1ms]
+[2022-02-06T07:01:32.344Z] Open repository: /home/abdiweli
+[2022-02-06T07:01:33.296Z] > git fetch [943ms]
+[2022-02-06T07:01:33.296Z] Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+[2022-02-06T11:18:29.057Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n39 -- /home/abdiweli/Desktop/app/index.html [1ms]
+[2022-02-06T11:18:29.057Z] fatal: your current branch 'master' does not have any commits yet
+[2022-02-06T11:18:29.137Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/index.html [1ms]
+[2022-02-06T11:18:34.628Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n39 -- /home/abdiweli/Desktop/app/index.html [2ms]
+[2022-02-06T11:18:34.628Z] fatal: your current branch 'master' does not have any commits yet
+[2022-02-06T11:18:37.599Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n39 -- /home/abdiweli/Desktop/app/app.js [1ms]
+[2022-02-06T11:18:37.599Z] fatal: your current branch 'master' does not have any commits yet
+[2022-02-06T11:18:37.795Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/app.js [0ms]
+[2022-02-06T11:18:39.107Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n39 -- /home/abdiweli/Desktop/app/index.html [2ms]
+[2022-02-06T11:18:39.107Z] fatal: your current branch 'master' does not have any commits yet
+[2022-02-06T11:18:39.310Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/index.html [1ms]
+[2022-02-06T13:41:38.702Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/index.html [1ms]

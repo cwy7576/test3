@@ -1,0 +1,833 @@
+   info 2021-12-12 07:44:11.369         ad   main   4036   4036                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-12 07:44:11.369         ad   main   4036   4036                                  main - * AnyDesk Linux Startup *
+   info 2021-12-12 07:44:11.369         ad   main   4036   4036                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-12 07:44:11.369         ad   main   4036   4036                                  main - * Build 20210125094543
+   info 2021-12-12 07:44:11.369         ad   main   4036   4036                                  main - * Prefix ad
+   info 2021-12-12 07:44:11.369         ad   main   4036   4036                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-12 07:44:11.369         ad   main   4036   4036                                  main - 
+   info 2021-12-12 07:44:11.369         ad   main   4036   4036                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-12 07:44:11.369         ad   main   4036   4036                                  main - Found GLib Version: 2.64.
+   info 2021-12-12 07:44:11.426         ad   main   4036   4036                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-12 07:44:11.426         ad   main   4036   4036                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-12 07:44:11.427       tray   main   4036   4036                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-12 07:44:11.427       tray   main   4036   4036                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-12 07:44:11.438       tray   main   4036   4036                       base.signal.hub - 1 threads.
+   info 2021-12-12 07:44:11.438       tray   main   4036   4036                    app.tunnel_ft_comp - Ready.
+   info 2021-12-12 07:44:11.451       tray   ctrl   4036   4153                      unix_app.control - Control startup.
+  error 2021-12-12 07:44:11.452       tray   ctrl   4036   4153              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-12 07:44:11.460       tray   wrk0   4036   4154              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-12 07:44:11.460       tray   wrk0   4036   4154                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-12 07:44:11.460       tray   wrk0   4036   4154        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-12 07:44:11.460       tray   wrk0   4036   4154                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+  error 2021-12-12 13:45:48.766       tray   wrk0   4036   4154                      unix_app.control - Service connection lost.
+   info 2021-12-12 13:45:48.766       tray   ctrl   4036   4153                    app.tunnel_ft_comp - Stopping file component.
+   info 2021-12-13 05:49:14.196         ad   main   2244   2244                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-13 05:49:14.196         ad   main   2244   2244                                  main - * AnyDesk Linux Startup *
+   info 2021-12-13 05:49:14.196         ad   main   2244   2244                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-13 05:49:14.196         ad   main   2244   2244                                  main - * Build 20210125094543
+   info 2021-12-13 05:49:14.196         ad   main   2244   2244                                  main - * Prefix ad
+   info 2021-12-13 05:49:14.196         ad   main   2244   2244                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-13 05:49:14.196         ad   main   2244   2244                                  main - 
+   info 2021-12-13 05:49:14.196         ad   main   2244   2244                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-13 05:49:14.196         ad   main   2244   2244                                  main - Found GLib Version: 2.64.
+   info 2021-12-13 05:49:14.249         ad   main   2244   2244                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-13 05:49:14.249         ad   main   2244   2244                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-13 05:49:14.251       tray   main   2244   2244                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-13 05:49:14.251       tray   main   2244   2244                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-13 05:49:14.271       tray   main   2244   2244                       base.signal.hub - 1 threads.
+   info 2021-12-13 05:49:14.271       tray   main   2244   2244                    app.tunnel_ft_comp - Ready.
+   info 2021-12-13 05:49:14.311       tray   ctrl   2244   2332                      unix_app.control - Control startup.
+  error 2021-12-13 05:49:14.311       tray   ctrl   2244   2332              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-13 05:49:14.319       tray   wrk0   2244   2333              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-13 05:49:14.319       tray   wrk0   2244   2333                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-13 05:49:14.319       tray   wrk0   2244   2333        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-13 05:49:14.322       tray   wrk0   2244   2333                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2021-12-14 06:06:43.300         ad   main   2210   2210                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-14 06:06:43.303         ad   main   2210   2210                                  main - * AnyDesk Linux Startup *
+   info 2021-12-14 06:06:43.303         ad   main   2210   2210                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-14 06:06:43.303         ad   main   2210   2210                                  main - * Build 20210125094543
+   info 2021-12-14 06:06:43.303         ad   main   2210   2210                                  main - * Prefix ad
+   info 2021-12-14 06:06:43.303         ad   main   2210   2210                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-14 06:06:43.303         ad   main   2210   2210                                  main - 
+   info 2021-12-14 06:06:43.303         ad   main   2210   2210                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-14 06:06:43.303         ad   main   2210   2210                                  main - Found GLib Version: 2.64.
+   info 2021-12-14 06:06:43.330         ad   main   2210   2210                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-14 06:06:43.330         ad   main   2210   2210                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-14 06:06:43.331       tray   main   2210   2210                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-14 06:06:43.331       tray   main   2210   2210                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-14 06:06:43.349       tray   main   2210   2210                       base.signal.hub - 1 threads.
+   info 2021-12-14 06:06:43.349       tray   main   2210   2210                    app.tunnel_ft_comp - Ready.
+   info 2021-12-14 06:06:43.384       tray   ctrl   2210   2277                      unix_app.control - Control startup.
+  error 2021-12-14 06:06:43.385       tray   ctrl   2210   2277              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-14 06:06:43.390       tray   wrk0   2210   2278              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-14 06:06:43.390       tray   wrk0   2210   2278                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-14 06:06:43.390       tray   wrk0   2210   2278        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-14 06:06:43.393       tray   wrk0   2210   2278                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2021-12-15 06:48:55.233         ad   main   2189   2189                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-15 06:48:55.234         ad   main   2189   2189                                  main - * AnyDesk Linux Startup *
+   info 2021-12-15 06:48:55.234         ad   main   2189   2189                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-15 06:48:55.234         ad   main   2189   2189                                  main - * Build 20210125094543
+   info 2021-12-15 06:48:55.234         ad   main   2189   2189                                  main - * Prefix ad
+   info 2021-12-15 06:48:55.234         ad   main   2189   2189                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-15 06:48:55.234         ad   main   2189   2189                                  main - 
+   info 2021-12-15 06:48:55.234         ad   main   2189   2189                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-15 06:48:55.234         ad   main   2189   2189                                  main - Found GLib Version: 2.64.
+   info 2021-12-15 06:48:55.269         ad   main   2189   2189                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-15 06:48:55.269         ad   main   2189   2189                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-15 06:48:55.274       tray   main   2189   2189                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-15 06:48:55.274       tray   main   2189   2189                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-15 06:48:55.293       tray   main   2189   2189                       base.signal.hub - 1 threads.
+   info 2021-12-15 06:48:55.293       tray   main   2189   2189                    app.tunnel_ft_comp - Ready.
+   info 2021-12-15 06:48:55.341       tray   ctrl   2189   2285                      unix_app.control - Control startup.
+  error 2021-12-15 06:48:55.342       tray   ctrl   2189   2285              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-15 06:48:55.348       tray   wrk0   2189   2286              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-15 06:48:55.348       tray   wrk0   2189   2286                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-15 06:48:55.348       tray   wrk0   2189   2286        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-15 06:48:55.350       tray   wrk0   2189   2286                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2021-12-15 07:46:23.139       tray   main   2189   2189                      unix_app.control - User changed. Hiding tray.
+   info 2021-12-15 07:47:52.551       tray   main   2189   2189                      unix_app.control - User changed. Hiding tray.
+   info 2021-12-15 07:59:44.489       tray   main   2189   2189                      unix_app.control - User changed. Hiding tray.
+   info 2021-12-15 07:59:56.310       tray   main   2189   2189                      unix_app.control - User changed. Showing tray.
+   info 2021-12-15 08:28:03.493         ad   main  15005  15005                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-15 08:28:03.493         ad   main  15005  15005                                  main - * AnyDesk Linux Startup *
+   info 2021-12-15 08:28:03.493         ad   main  15005  15005                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-15 08:28:03.493         ad   main  15005  15005                                  main - * Build 20210125094543
+   info 2021-12-15 08:28:03.493         ad   main  15005  15005                                  main - * Prefix ad
+   info 2021-12-15 08:28:03.493         ad   main  15005  15005                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-15 08:28:03.493         ad   main  15005  15005                                  main - 
+   info 2021-12-15 08:28:03.493         ad   main  15005  15005                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-15 08:28:03.493         ad   main  15005  15005                                  main - Found GLib Version: 2.64.
+   info 2021-12-15 08:28:03.519         ad   main  15005  15005                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-15 08:28:03.519         ad   main  15005  15005                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-15 08:28:03.521       tray   main  15005  15005                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-15 08:28:03.521       tray   main  15005  15005                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-15 08:28:03.533       tray   main  15005  15005                       base.signal.hub - 1 threads.
+   info 2021-12-15 08:28:03.533       tray   main  15005  15005                    app.tunnel_ft_comp - Ready.
+   info 2021-12-15 08:28:03.548       tray   ctrl  15005  15071                      unix_app.control - Control startup.
+  error 2021-12-15 08:28:03.548       tray   ctrl  15005  15071              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-15 08:28:03.555       tray   wrk0  15005  15072              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-15 08:28:03.555       tray   wrk0  15005  15072                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-15 08:28:03.555       tray   wrk0  15005  15072        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-15 08:28:03.555       tray   wrk0  15005  15072                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2021-12-15 10:35:24.828         ad   main  26777  26777                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-15 10:35:24.828         ad   main  26777  26777                                  main - * AnyDesk Linux Startup *
+   info 2021-12-15 10:35:24.828         ad   main  26777  26777                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-15 10:35:24.828         ad   main  26777  26777                                  main - * Build 20210125094543
+   info 2021-12-15 10:35:24.828         ad   main  26777  26777                                  main - * Prefix ad
+   info 2021-12-15 10:35:24.828         ad   main  26777  26777                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-15 10:35:24.828         ad   main  26777  26777                                  main - 
+   info 2021-12-15 10:35:24.828         ad   main  26777  26777                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-15 10:35:24.828         ad   main  26777  26777                                  main - Found GLib Version: 2.64.
+   info 2021-12-15 10:35:24.866         ad   main  26777  26777                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-15 10:35:24.866         ad   main  26777  26777                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-15 10:35:24.867       tray   main  26777  26777                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-15 10:35:24.867       tray   main  26777  26777                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-15 10:35:24.878       tray   main  26777  26777                       base.signal.hub - 1 threads.
+   info 2021-12-15 10:35:24.878       tray   main  26777  26777                    app.tunnel_ft_comp - Ready.
+   info 2021-12-15 10:35:24.893       tray   ctrl  26777  26860                      unix_app.control - Control startup.
+  error 2021-12-15 10:35:24.894       tray   ctrl  26777  26860              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-15 10:35:24.901       tray   wrk0  26777  26861              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-15 10:35:24.901       tray   wrk0  26777  26861                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-15 10:35:24.901       tray   wrk0  26777  26861        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-15 10:35:24.901       tray   wrk0  26777  26861                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2021-12-15 13:32:09.550         ad   main  37985  37985                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-15 13:32:09.550         ad   main  37985  37985                                  main - * AnyDesk Linux Startup *
+   info 2021-12-15 13:32:09.550         ad   main  37985  37985                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-15 13:32:09.550         ad   main  37985  37985                                  main - * Build 20210125094543
+   info 2021-12-15 13:32:09.550         ad   main  37985  37985                                  main - * Prefix ad
+   info 2021-12-15 13:32:09.550         ad   main  37985  37985                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-15 13:32:09.550         ad   main  37985  37985                                  main - 
+   info 2021-12-15 13:32:09.550         ad   main  37985  37985                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-15 13:32:09.550         ad   main  37985  37985                                  main - Found GLib Version: 2.64.
+   info 2021-12-15 13:32:09.594         ad   main  37985  37985                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-15 13:32:09.595         ad   main  37985  37985                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-15 13:32:09.597       tray   main  37985  37985                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-15 13:32:09.597       tray   main  37985  37985                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-15 13:32:09.607       tray   main  37985  37985                       base.signal.hub - 1 threads.
+   info 2021-12-15 13:32:09.608       tray   main  37985  37985                    app.tunnel_ft_comp - Ready.
+   info 2021-12-15 13:32:09.619       tray   ctrl  37985  38074                      unix_app.control - Control startup.
+  error 2021-12-15 13:32:09.620       tray   ctrl  37985  38074              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-15 13:32:09.627       tray   wrk0  37985  38075              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-15 13:32:09.627       tray   wrk0  37985  38075                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-15 13:32:09.627       tray   wrk0  37985  38075        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-15 13:32:09.627       tray   wrk0  37985  38075                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2021-12-18 06:45:51.435         ad   main   2218   2218                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-18 06:45:51.437         ad   main   2218   2218                                  main - * AnyDesk Linux Startup *
+   info 2021-12-18 06:45:51.437         ad   main   2218   2218                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-18 06:45:51.437         ad   main   2218   2218                                  main - * Build 20210125094543
+   info 2021-12-18 06:45:51.437         ad   main   2218   2218                                  main - * Prefix ad
+   info 2021-12-18 06:45:51.437         ad   main   2218   2218                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-18 06:45:51.437         ad   main   2218   2218                                  main - 
+   info 2021-12-18 06:45:51.437         ad   main   2218   2218                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-18 06:45:51.437         ad   main   2218   2218                                  main - Found GLib Version: 2.64.
+   info 2021-12-18 06:45:51.493         ad   main   2218   2218                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-18 06:45:51.493         ad   main   2218   2218                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-18 06:45:51.495       tray   main   2218   2218                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-18 06:45:51.495       tray   main   2218   2218                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-18 06:45:51.514       tray   main   2218   2218                       base.signal.hub - 1 threads.
+   info 2021-12-18 06:45:51.514       tray   main   2218   2218                    app.tunnel_ft_comp - Ready.
+   info 2021-12-18 06:45:51.577       tray   ctrl   2218   2353                      unix_app.control - Control startup.
+  error 2021-12-18 06:45:51.580       tray   ctrl   2218   2353              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-18 06:45:51.602       tray   wrk0   2218   2354              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-18 06:45:51.602       tray   wrk0   2218   2354                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-18 06:45:51.602       tray   wrk0   2218   2354        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-18 06:45:51.607       tray   wrk0   2218   2354                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2021-12-19 06:45:38.049         ad   main   2284   2284                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-19 06:45:38.052         ad   main   2284   2284                                  main - * AnyDesk Linux Startup *
+   info 2021-12-19 06:45:38.052         ad   main   2284   2284                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-19 06:45:38.052         ad   main   2284   2284                                  main - * Build 20210125094543
+   info 2021-12-19 06:45:38.052         ad   main   2284   2284                                  main - * Prefix ad
+   info 2021-12-19 06:45:38.053         ad   main   2284   2284                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-19 06:45:38.053         ad   main   2284   2284                                  main - 
+   info 2021-12-19 06:45:38.053         ad   main   2284   2284                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-19 06:45:38.053         ad   main   2284   2284                                  main - Found GLib Version: 2.64.
+   info 2021-12-19 06:45:38.094         ad   main   2284   2284                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-19 06:45:38.094         ad   main   2284   2284                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-19 06:45:38.097       tray   main   2284   2284                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-19 06:45:38.097       tray   main   2284   2284                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-19 06:45:38.116       tray   main   2284   2284                       base.signal.hub - 1 threads.
+   info 2021-12-19 06:45:38.116       tray   main   2284   2284                    app.tunnel_ft_comp - Ready.
+   info 2021-12-19 06:45:38.190       tray   ctrl   2284   2406                      unix_app.control - Control startup.
+  error 2021-12-19 06:45:38.191       tray   ctrl   2284   2406              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-19 06:45:38.210       tray   wrk0   2284   2407              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-19 06:45:38.210       tray   wrk0   2284   2407                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-19 06:45:38.210       tray   wrk0   2284   2407        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-19 06:45:38.213       tray   wrk0   2284   2407                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2021-12-19 10:46:30.262         ad   main   2183   2183                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-19 10:46:30.263         ad   main   2183   2183                                  main - * AnyDesk Linux Startup *
+   info 2021-12-19 10:46:30.263         ad   main   2183   2183                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-19 10:46:30.263         ad   main   2183   2183                                  main - * Build 20210125094543
+   info 2021-12-19 10:46:30.263         ad   main   2183   2183                                  main - * Prefix ad
+   info 2021-12-19 10:46:30.263         ad   main   2183   2183                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-19 10:46:30.263         ad   main   2183   2183                                  main - 
+   info 2021-12-19 10:46:30.263         ad   main   2183   2183                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-19 10:46:30.263         ad   main   2183   2183                                  main - Found GLib Version: 2.64.
+   info 2021-12-19 10:46:30.303         ad   main   2183   2183                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-19 10:46:30.304         ad   main   2183   2183                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-19 10:46:30.306       tray   main   2183   2183                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-19 10:46:30.306       tray   main   2183   2183                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-19 10:46:30.323       tray   main   2183   2183                       base.signal.hub - 1 threads.
+   info 2021-12-19 10:46:30.324       tray   main   2183   2183                    app.tunnel_ft_comp - Ready.
+   info 2021-12-19 10:46:30.394       tray   ctrl   2183   2306                      unix_app.control - Control startup.
+  error 2021-12-19 10:46:30.395       tray   ctrl   2183   2306              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-19 10:46:30.406       tray   wrk0   2183   2307              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-19 10:46:30.406       tray   wrk0   2183   2307                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-19 10:46:30.406       tray   wrk0   2183   2307        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-19 10:46:30.410       tray   wrk0   2183   2307                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+  error 2021-12-19 13:38:47.499       tray   wrk0   2183   2307                      unix_app.control - Service connection lost.
+   info 2021-12-19 13:38:47.499       tray   ctrl   2183   2306                    app.tunnel_ft_comp - Stopping file component.
+   info 2021-12-20 06:42:00.818         ad   main   2218   2218                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-20 06:42:00.823         ad   main   2218   2218                                  main - * AnyDesk Linux Startup *
+   info 2021-12-20 06:42:00.823         ad   main   2218   2218                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-20 06:42:00.823         ad   main   2218   2218                                  main - * Build 20210125094543
+   info 2021-12-20 06:42:00.823         ad   main   2218   2218                                  main - * Prefix ad
+   info 2021-12-20 06:42:00.823         ad   main   2218   2218                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-20 06:42:00.823         ad   main   2218   2218                                  main - 
+   info 2021-12-20 06:42:00.823         ad   main   2218   2218                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-20 06:42:00.823         ad   main   2218   2218                                  main - Found GLib Version: 2.64.
+   info 2021-12-20 06:42:00.852         ad   main   2218   2218                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-20 06:42:00.852         ad   main   2218   2218                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-20 06:42:00.857       tray   main   2218   2218                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-20 06:42:00.857       tray   main   2218   2218                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-20 06:42:00.881       tray   main   2218   2218                       base.signal.hub - 1 threads.
+   info 2021-12-20 06:42:00.881       tray   main   2218   2218                    app.tunnel_ft_comp - Ready.
+   info 2021-12-20 06:42:00.930       tray   ctrl   2218   2328                      unix_app.control - Control startup.
+  error 2021-12-20 06:42:00.930       tray   ctrl   2218   2328              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-20 06:42:00.947       tray   wrk0   2218   2329              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-20 06:42:00.947       tray   wrk0   2218   2329                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-20 06:42:00.947       tray   wrk0   2218   2329        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-20 06:42:00.951       tray   wrk0   2218   2329                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+  error 2021-12-20 13:12:57.919       tray   wrk0   2218   2329                      unix_app.control - Service connection lost.
+   info 2021-12-20 13:12:57.919       tray   ctrl   2218   2328                    app.tunnel_ft_comp - Stopping file component.
+   info 2021-12-21 07:22:16.056         ad   main   2234   2234                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-21 07:22:16.057         ad   main   2234   2234                                  main - * AnyDesk Linux Startup *
+   info 2021-12-21 07:22:16.057         ad   main   2234   2234                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-21 07:22:16.057         ad   main   2234   2234                                  main - * Build 20210125094543
+   info 2021-12-21 07:22:16.057         ad   main   2234   2234                                  main - * Prefix ad
+   info 2021-12-21 07:22:16.057         ad   main   2234   2234                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-21 07:22:16.057         ad   main   2234   2234                                  main - 
+   info 2021-12-21 07:22:16.057         ad   main   2234   2234                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-21 07:22:16.057         ad   main   2234   2234                                  main - Found GLib Version: 2.64.
+   info 2021-12-21 07:22:16.099         ad   main   2234   2234                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-21 07:22:16.099         ad   main   2234   2234                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-21 07:22:16.101       tray   main   2234   2234                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-21 07:22:16.101       tray   main   2234   2234                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-21 07:22:16.117       tray   main   2234   2234                       base.signal.hub - 1 threads.
+   info 2021-12-21 07:22:16.117       tray   main   2234   2234                    app.tunnel_ft_comp - Ready.
+   info 2021-12-21 07:22:16.183       tray   ctrl   2234   2355                      unix_app.control - Control startup.
+  error 2021-12-21 07:22:16.183       tray   ctrl   2234   2355              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-21 07:22:16.203       tray   wrk0   2234   2356              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-21 07:22:16.203       tray   wrk0   2234   2356                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-21 07:22:16.203       tray   wrk0   2234   2356        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-21 07:22:16.216       tray   wrk0   2234   2356                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2021-12-21 11:22:44.326       tray   main   2234   2234                      unix_app.control - User changed. Hiding tray.
+   info 2021-12-21 11:22:52.133       tray   main   2234   2234                      unix_app.control - User changed. Hiding tray.
+   info 2021-12-21 11:27:22.795       tray   main   2234   2234                      unix_app.control - User changed. Hiding tray.
+   info 2021-12-21 11:27:58.962       tray   main   2234   2234                      unix_app.control - User changed. Showing tray.
+   info 2021-12-25 06:08:19.740         ad   main   2253   2253                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-25 06:08:19.742         ad   main   2253   2253                                  main - * AnyDesk Linux Startup *
+   info 2021-12-25 06:08:19.742         ad   main   2253   2253                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-25 06:08:19.742         ad   main   2253   2253                                  main - * Build 20210125094543
+   info 2021-12-25 06:08:19.742         ad   main   2253   2253                                  main - * Prefix ad
+   info 2021-12-25 06:08:19.742         ad   main   2253   2253                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-25 06:08:19.742         ad   main   2253   2253                                  main - 
+   info 2021-12-25 06:08:19.742         ad   main   2253   2253                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-25 06:08:19.743         ad   main   2253   2253                                  main - Found GLib Version: 2.64.
+   info 2021-12-25 06:08:19.780         ad   main   2253   2253                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-25 06:08:19.780         ad   main   2253   2253                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-25 06:08:19.782       tray   main   2253   2253                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-25 06:08:19.782       tray   main   2253   2253                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-25 06:08:19.800       tray   main   2253   2253                       base.signal.hub - 1 threads.
+   info 2021-12-25 06:08:19.800       tray   main   2253   2253                    app.tunnel_ft_comp - Ready.
+   info 2021-12-25 06:08:19.859       tray   ctrl   2253   2345                      unix_app.control - Control startup.
+  error 2021-12-25 06:08:19.859       tray   ctrl   2253   2345              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-25 06:08:19.867       tray   wrk0   2253   2346              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-25 06:08:19.867       tray   wrk0   2253   2346                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-25 06:08:19.867       tray   wrk0   2253   2346        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-25 06:08:19.870       tray   wrk0   2253   2346                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2021-12-26 06:30:40.146         ad   main   2216   2216                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-26 06:30:40.162         ad   main   2216   2216                                  main - * AnyDesk Linux Startup *
+   info 2021-12-26 06:30:40.162         ad   main   2216   2216                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-26 06:30:40.162         ad   main   2216   2216                                  main - * Build 20210125094543
+   info 2021-12-26 06:30:40.162         ad   main   2216   2216                                  main - * Prefix ad
+   info 2021-12-26 06:30:40.162         ad   main   2216   2216                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-26 06:30:40.162         ad   main   2216   2216                                  main - 
+   info 2021-12-26 06:30:40.163         ad   main   2216   2216                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-26 06:30:40.163         ad   main   2216   2216                                  main - Found GLib Version: 2.64.
+   info 2021-12-26 06:30:40.178         ad   main   2216   2216                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-26 06:30:40.179         ad   main   2216   2216                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-26 06:30:40.186       tray   main   2216   2216                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-26 06:30:40.186       tray   main   2216   2216                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-26 06:30:40.239       tray   main   2216   2216                       base.signal.hub - 1 threads.
+   info 2021-12-26 06:30:40.239       tray   main   2216   2216                    app.tunnel_ft_comp - Ready.
+   info 2021-12-26 06:30:40.287       tray   ctrl   2216   2355                      unix_app.control - Control startup.
+  error 2021-12-26 06:30:40.288       tray   ctrl   2216   2355              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-26 06:30:40.300       tray   wrk0   2216   2356              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-26 06:30:40.300       tray   wrk0   2216   2356                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-26 06:30:40.300       tray   wrk0   2216   2356        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-26 06:30:40.322       tray   wrk0   2216   2356                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+  error 2021-12-26 10:35:16.904       tray   wrk0   2216   2356                      unix_app.control - Service connection lost.
+   info 2021-12-26 10:35:16.904       tray   ctrl   2216   2355                    app.tunnel_ft_comp - Stopping file component.
+   info 2021-12-26 10:35:55.432         ad   main   2183   2183                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-26 10:35:55.434         ad   main   2183   2183                                  main - * AnyDesk Linux Startup *
+   info 2021-12-26 10:35:55.434         ad   main   2183   2183                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-26 10:35:55.434         ad   main   2183   2183                                  main - * Build 20210125094543
+   info 2021-12-26 10:35:55.434         ad   main   2183   2183                                  main - * Prefix ad
+   info 2021-12-26 10:35:55.434         ad   main   2183   2183                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-26 10:35:55.434         ad   main   2183   2183                                  main - 
+   info 2021-12-26 10:35:55.434         ad   main   2183   2183                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-26 10:35:55.434         ad   main   2183   2183                                  main - Found GLib Version: 2.64.
+   info 2021-12-26 10:35:55.476         ad   main   2183   2183                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-26 10:35:55.477         ad   main   2183   2183                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-26 10:35:55.481       tray   main   2183   2183                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-26 10:35:55.481       tray   main   2183   2183                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-26 10:35:55.503       tray   main   2183   2183                       base.signal.hub - 1 threads.
+   info 2021-12-26 10:35:55.503       tray   main   2183   2183                    app.tunnel_ft_comp - Ready.
+   info 2021-12-26 10:35:55.562       tray   ctrl   2183   2319                      unix_app.control - Control startup.
+  error 2021-12-26 10:35:55.563       tray   ctrl   2183   2319              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-26 10:35:55.580       tray   wrk0   2183   2320              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-26 10:35:55.580       tray   wrk0   2183   2320                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-26 10:35:55.580       tray   wrk0   2183   2320        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-26 10:35:55.584       tray   wrk0   2183   2320                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+  error 2021-12-26 13:40:33.411       tray   wrk0   2183   2320                      unix_app.control - Service connection lost.
+   info 2021-12-26 13:40:33.412       tray   ctrl   2183   2319                    app.tunnel_ft_comp - Stopping file component.
+   info 2021-12-28 06:38:05.161         ad   main   2219   2219                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-12-28 06:38:05.162         ad   main   2219   2219                                  main - * AnyDesk Linux Startup *
+   info 2021-12-28 06:38:05.162         ad   main   2219   2219                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-12-28 06:38:05.162         ad   main   2219   2219                                  main - * Build 20210125094543
+   info 2021-12-28 06:38:05.162         ad   main   2219   2219                                  main - * Prefix ad
+   info 2021-12-28 06:38:05.162         ad   main   2219   2219                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-12-28 06:38:05.162         ad   main   2219   2219                                  main - 
+   info 2021-12-28 06:38:05.162         ad   main   2219   2219                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2021-12-28 06:38:05.162         ad   main   2219   2219                                  main - Found GLib Version: 2.64.
+   info 2021-12-28 06:38:05.202         ad   main   2219   2219                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2021-12-28 06:38:05.202         ad   main   2219   2219                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2021-12-28 06:38:05.207       tray   main   2219   2219                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-12-28 06:38:05.207       tray   main   2219   2219                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-12-28 06:38:05.224       tray   main   2219   2219                       base.signal.hub - 1 threads.
+   info 2021-12-28 06:38:05.224       tray   main   2219   2219                    app.tunnel_ft_comp - Ready.
+   info 2021-12-28 06:38:05.283       tray   ctrl   2219   2346                      unix_app.control - Control startup.
+  error 2021-12-28 06:38:05.286       tray   ctrl   2219   2346              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-12-28 06:38:05.292       tray   wrk0   2219   2347              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-12-28 06:38:05.292       tray   wrk0   2219   2347                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-12-28 06:38:05.293       tray   wrk0   2219   2347        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2021-12-28 06:38:05.296       tray   wrk0   2219   2347                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+                                                                                                                                                                                                                                                                     info 2022-01-01 06:44:45.360         ad   main   2260   2260                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-01 06:44:45.364         ad   main   2260   2260                                  main - * AnyDesk Linux Startup *
+   info 2022-01-01 06:44:45.364         ad   main   2260   2260                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-01-01 06:44:45.364         ad   main   2260   2260                                  main - * Build 20210125094543
+   info 2022-01-01 06:44:45.364         ad   main   2260   2260                                  main - * Prefix ad
+   info 2022-01-01 06:44:45.364         ad   main   2260   2260                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-01-01 06:44:45.364         ad   main   2260   2260                                  main - 
+   info 2022-01-01 06:44:45.365         ad   main   2260   2260                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-01 06:44:45.365         ad   main   2260   2260                                  main - Found GLib Version: 2.64.
+   info 2022-01-01 06:44:45.384         ad   main   2260   2260                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-01-01 06:44:45.384         ad   main   2260   2260                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-01-01 06:44:45.387       tray   main   2260   2260                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-01 06:44:45.387       tray   main   2260   2260                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-01 06:44:45.408       tray   main   2260   2260                       base.signal.hub - 1 threads.
+   info 2022-01-01 06:44:45.408       tray   main   2260   2260                    app.tunnel_ft_comp - Ready.
+   info 2022-01-01 06:44:45.453       tray   ctrl   2260   2376                      unix_app.control - Control startup.
+  error 2022-01-01 06:44:45.454       tray   ctrl   2260   2376              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-01 06:44:45.468       tray   wrk0   2260   2377              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-01 06:44:45.468       tray   wrk0   2260   2377                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-01 06:44:45.468       tray   wrk0   2260   2377        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-01-01 06:44:45.472       tray   wrk0   2260   2377                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-01-22 07:21:32.828         ad   main   2845   2845                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-22 07:21:32.829         ad   main   2845   2845                                  main - * AnyDesk Linux Startup *
+   info 2022-01-22 07:21:32.829         ad   main   2845   2845                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-01-22 07:21:32.829         ad   main   2845   2845                                  main - * Build 20210125094543
+   info 2022-01-22 07:21:32.829         ad   main   2845   2845                                  main - * Prefix ad
+   info 2022-01-22 07:21:32.829         ad   main   2845   2845                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-01-22 07:21:32.829         ad   main   2845   2845                                  main - 
+   info 2022-01-22 07:21:32.829         ad   main   2845   2845                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-22 07:21:32.830         ad   main   2845   2845                                  main - Found GLib Version: 2.64.
+   info 2022-01-22 07:21:32.868         ad   main   2845   2845                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-01-22 07:21:32.868         ad   main   2845   2845                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-01-22 07:21:32.872       tray   main   2845   2845                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-22 07:21:32.872       tray   main   2845   2845                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-22 07:21:32.892       tray   main   2845   2845                       base.signal.hub - 1 threads.
+   info 2022-01-22 07:21:32.892       tray   main   2845   2845                    app.tunnel_ft_comp - Ready.
+   info 2022-01-22 07:21:32.963       tray   ctrl   2845   2972                      unix_app.control - Control startup.
+  error 2022-01-22 07:21:32.964       tray   ctrl   2845   2972              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-22 07:21:32.977       tray   wrk0   2845   2973              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-22 07:21:32.977       tray   wrk0   2845   2973                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-22 07:21:32.977       tray   wrk0   2845   2973        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-01-22 07:21:32.984       tray   wrk0   2845   2973                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-01-23 07:06:02.988         ad   main   2292   2292                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-23 07:06:02.988         ad   main   2292   2292                                  main - * AnyDesk Linux Startup *
+   info 2022-01-23 07:06:02.988         ad   main   2292   2292                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-01-23 07:06:02.988         ad   main   2292   2292                                  main - * Build 20210125094543
+   info 2022-01-23 07:06:02.988         ad   main   2292   2292                                  main - * Prefix ad
+   info 2022-01-23 07:06:02.988         ad   main   2292   2292                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-01-23 07:06:02.988         ad   main   2292   2292                                  main - 
+   info 2022-01-23 07:06:02.988         ad   main   2292   2292                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-23 07:06:02.988         ad   main   2292   2292                                  main - Found GLib Version: 2.64.
+   info 2022-01-23 07:06:03.026         ad   main   2292   2292                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-01-23 07:06:03.026         ad   main   2292   2292                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-01-23 07:06:03.030       tray   main   2292   2292                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-23 07:06:03.030       tray   main   2292   2292                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-23 07:06:03.050       tray   main   2292   2292                       base.signal.hub - 1 threads.
+   info 2022-01-23 07:06:03.050       tray   main   2292   2292                    app.tunnel_ft_comp - Ready.
+   info 2022-01-23 07:06:03.115       tray   ctrl   2292   2401                      unix_app.control - Control startup.
+  error 2022-01-23 07:06:03.118       tray   ctrl   2292   2401              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-23 07:06:03.122       tray   wrk0   2292   2402              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-23 07:06:03.122       tray   wrk0   2292   2402                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-23 07:06:03.122       tray   wrk0   2292   2402        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-01-23 07:06:03.124       tray   wrk0   2292   2402                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-01-24 06:58:32.740         ad   main  12428  12428                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-24 06:58:32.742         ad   main  12428  12428                                  main - * AnyDesk Linux Startup *
+   info 2022-01-24 06:58:32.742         ad   main  12428  12428                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-01-24 06:58:32.742         ad   main  12428  12428                                  main - * Build 20210125094543
+   info 2022-01-24 06:58:32.742         ad   main  12428  12428                                  main - * Prefix ad
+   info 2022-01-24 06:58:32.742         ad   main  12428  12428                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-01-24 06:58:32.742         ad   main  12428  12428                                  main - 
+   info 2022-01-24 06:58:32.742         ad   main  12428  12428                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-24 06:58:32.742         ad   main  12428  12428                                  main - Found GLib Version: 2.64.
+   info 2022-01-24 06:58:32.771         ad   main  12428  12428                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-01-24 06:58:32.771         ad   main  12428  12428                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-01-24 06:58:32.777       tray   main  12428  12428                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-24 06:58:32.777       tray   main  12428  12428                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-24 06:58:32.800       tray   main  12428  12428                       base.signal.hub - 1 threads.
+   info 2022-01-24 06:58:32.800       tray   main  12428  12428                    app.tunnel_ft_comp - Ready.
+   info 2022-01-24 06:58:32.861       tray   ctrl  12428  12549                      unix_app.control - Control startup.
+  error 2022-01-24 06:58:32.861       tray   ctrl  12428  12549              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-24 06:58:32.868       tray   wrk0  12428  12550              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-24 06:58:32.868       tray   wrk0  12428  12550                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-24 06:58:32.868       tray   wrk0  12428  12550        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-01-24 06:58:32.878       tray   wrk0  12428  12550                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+  error 2022-01-24 13:37:20.284       tray   wrk0  12428  12550                      unix_app.control - Service connection lost.
+   info 2022-01-24 13:37:20.289       tray   ctrl  12428  12549                    app.tunnel_ft_comp - Stopping file component.
+   info 2022-01-25 07:58:39.425         ad   main  13179  13179                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-25 07:58:39.426         ad   main  13179  13179                                  main - * AnyDesk Linux Startup *
+   info 2022-01-25 07:58:39.426         ad   main  13179  13179                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-01-25 07:58:39.426         ad   main  13179  13179                                  main - * Build 20210125094543
+   info 2022-01-25 07:58:39.426         ad   main  13179  13179                                  main - * Prefix ad
+   info 2022-01-25 07:58:39.426         ad   main  13179  13179                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-01-25 07:58:39.426         ad   main  13179  13179                                  main - 
+   info 2022-01-25 07:58:39.426         ad   main  13179  13179                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-25 07:58:39.426         ad   main  13179  13179                                  main - Found GLib Version: 2.64.
+   info 2022-01-25 07:58:39.456         ad   main  13179  13179                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-01-25 07:58:39.456         ad   main  13179  13179                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-01-25 07:58:39.459       tray   main  13179  13179                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-25 07:58:39.459       tray   main  13179  13179                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-25 07:58:39.477       tray   main  13179  13179                       base.signal.hub - 1 threads.
+   info 2022-01-25 07:58:39.477       tray   main  13179  13179                    app.tunnel_ft_comp - Ready.
+   info 2022-01-25 07:58:39.534       tray   ctrl  13179  13253                      unix_app.control - Control startup.
+  error 2022-01-25 07:58:39.534       tray   ctrl  13179  13253              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-25 07:58:39.542       tray   wrk0  13179  13254              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-25 07:58:39.542       tray   wrk0  13179  13254                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-25 07:58:39.542       tray   wrk0  13179  13254        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-01-25 07:58:39.548       tray   wrk0  13179  13254                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+  error 2022-01-25 13:49:13.322       tray   wrk0  13179  13254                      unix_app.control - Service connection lost.
+   info 2022-01-25 13:49:13.325       tray   ctrl  13179  13253                    app.tunnel_ft_comp - Stopping file component.
+   info 2022-01-26 07:11:08.358         ad   main   2276   2276                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-26 07:11:08.359         ad   main   2276   2276                                  main - * AnyDesk Linux Startup *
+   info 2022-01-26 07:11:08.359         ad   main   2276   2276                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-01-26 07:11:08.359         ad   main   2276   2276                                  main - * Build 20210125094543
+   info 2022-01-26 07:11:08.359         ad   main   2276   2276                                  main - * Prefix ad
+   info 2022-01-26 07:11:08.359         ad   main   2276   2276                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-01-26 07:11:08.359         ad   main   2276   2276                                  main - 
+   info 2022-01-26 07:11:08.359         ad   main   2276   2276                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-26 07:11:08.359         ad   main   2276   2276                                  main - Found GLib Version: 2.64.
+   info 2022-01-26 07:11:08.403         ad   main   2276   2276                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-01-26 07:11:08.403         ad   main   2276   2276                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-01-26 07:11:08.405       tray   main   2276   2276                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-26 07:11:08.405       tray   main   2276   2276                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-26 07:11:08.422       tray   main   2276   2276                       base.signal.hub - 1 threads.
+   info 2022-01-26 07:11:08.422       tray   main   2276   2276                    app.tunnel_ft_comp - Ready.
+   info 2022-01-26 07:11:08.469       tray   ctrl   2276   2403                      unix_app.control - Control startup.
+  error 2022-01-26 07:11:08.472       tray   ctrl   2276   2403              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-26 07:11:08.493       tray   wrk0   2276   2404              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-26 07:11:08.493       tray   wrk0   2276   2404                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-26 07:11:08.493       tray   wrk0   2276   2404        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-01-26 07:11:08.496       tray   wrk0   2276   2404                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+  error 2022-01-26 13:49:33.669       tray   wrk0   2276   2404                      unix_app.control - Service connection lost.
+   info 2022-01-26 13:49:33.670       tray   ctrl   2276   2403                    app.tunnel_ft_comp - Stopping file component.
+   info 2022-01-30 07:10:20.276         ad   main   4206   4206                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-30 07:10:20.289         ad   main   4206   4206                                  main - * AnyDesk Linux Startup *
+   info 2022-01-30 07:10:20.289         ad   main   4206   4206                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-01-30 07:10:20.289         ad   main   4206   4206                                  main - * Build 20210125094543
+   info 2022-01-30 07:10:20.289         ad   main   4206   4206                                  main - * Prefix ad
+   info 2022-01-30 07:10:20.289         ad   main   4206   4206                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-01-30 07:10:20.289         ad   main   4206   4206                                  main - 
+   info 2022-01-30 07:10:20.290         ad   main   4206   4206                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-30 07:10:20.290         ad   main   4206   4206                                  main - Found GLib Version: 2.64.
+   info 2022-01-30 07:10:20.320         ad   main   4206   4206                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-01-30 07:10:20.320         ad   main   4206   4206                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-01-30 07:10:20.331       tray   main   4206   4206                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-30 07:10:20.331       tray   main   4206   4206                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-30 07:10:20.349       tray   main   4206   4206                       base.signal.hub - 1 threads.
+   info 2022-01-30 07:10:20.350       tray   main   4206   4206                    app.tunnel_ft_comp - Ready.
+   info 2022-01-30 07:10:20.433       tray   ctrl   4206   4332                      unix_app.control - Control startup.
+  error 2022-01-30 07:10:20.439       tray   ctrl   4206   4332              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-30 07:10:20.452       tray   wrk0   4206   4333              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-30 07:10:20.452       tray   wrk0   4206   4333                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-30 07:10:20.452       tray   wrk0   4206   4333        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-01-30 07:10:20.463       tray   wrk0   4206   4333                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-01-31 07:45:30.439         ad   main   2355   2355                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-31 07:45:30.443         ad   main   2355   2355                                  main - * AnyDesk Linux Startup *
+   info 2022-01-31 07:45:30.443         ad   main   2355   2355                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-01-31 07:45:30.443         ad   main   2355   2355                                  main - * Build 20210125094543
+   info 2022-01-31 07:45:30.443         ad   main   2355   2355                                  main - * Prefix ad
+   info 2022-01-31 07:45:30.443         ad   main   2355   2355                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-01-31 07:45:30.443         ad   main   2355   2355                                  main - 
+   info 2022-01-31 07:45:30.443         ad   main   2355   2355                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-31 07:45:30.443         ad   main   2355   2355                                  main - Found GLib Version: 2.64.
+   info 2022-01-31 07:45:30.473         ad   main   2355   2355                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-01-31 07:45:30.473         ad   main   2355   2355                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-01-31 07:45:30.476       tray   main   2355   2355                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-31 07:45:30.476       tray   main   2355   2355                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-31 07:45:30.503       tray   main   2355   2355                       base.signal.hub - 1 threads.
+   info 2022-01-31 07:45:30.503       tray   main   2355   2355                    app.tunnel_ft_comp - Ready.
+   info 2022-01-31 07:45:30.573       tray   ctrl   2355   2474                      unix_app.control - Control startup.
+  error 2022-01-31 07:45:30.581       tray   ctrl   2355   2474              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-31 07:45:30.634       tray   wrk0   2355   2475              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-31 07:45:30.634       tray   wrk0   2355   2475                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-31 07:45:30.634       tray   wrk0   2355   2475        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-01-31 07:45:30.657       tray   wrk0   2355   2475                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-02-01 07:31:20.060         ad   main   2284   2284                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-01 07:31:20.064         ad   main   2284   2284                                  main - * AnyDesk Linux Startup *
+   info 2022-02-01 07:31:20.064         ad   main   2284   2284                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-01 07:31:20.064         ad   main   2284   2284                                  main - * Build 20210125094543
+   info 2022-02-01 07:31:20.064         ad   main   2284   2284                                  main - * Prefix ad
+   info 2022-02-01 07:31:20.064         ad   main   2284   2284                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-01 07:31:20.064         ad   main   2284   2284                                  main - 
+   info 2022-02-01 07:31:20.064         ad   main   2284   2284                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-01 07:31:20.064         ad   main   2284   2284                                  main - Found GLib Version: 2.64.
+   info 2022-02-01 07:31:20.102         ad   main   2284   2284                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-01 07:31:20.103         ad   main   2284   2284                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-01 07:31:20.106       tray   main   2284   2284                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-01 07:31:20.106       tray   main   2284   2284                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-01 07:31:20.131       tray   main   2284   2284                       base.signal.hub - 1 threads.
+   info 2022-02-01 07:31:20.131       tray   main   2284   2284                    app.tunnel_ft_comp - Ready.
+   info 2022-02-01 07:31:20.231       tray   ctrl   2284   2414                      unix_app.control - Control startup.
+  error 2022-02-01 07:31:20.232       tray   ctrl   2284   2414              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-01 07:31:20.258       tray   wrk0   2284   2415              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-01 07:31:20.258       tray   wrk0   2284   2415                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-01 07:31:20.258       tray   wrk0   2284   2415        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-01 07:31:20.261       tray   wrk0   2284   2415                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+  error 2022-02-01 13:44:02.274       tray   wrk0   2284   2415                      unix_app.control - Service connection lost.
+   info 2022-02-01 13:44:02.276       tray   ctrl   2284   2414                    app.tunnel_ft_comp - Stopping file component.
+   info 2022-02-05 06:11:48.892         ad   main   2270   2270                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-05 06:11:48.895         ad   main   2270   2270                                  main - * AnyDesk Linux Startup *
+   info 2022-02-05 06:11:48.895         ad   main   2270   2270                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-05 06:11:48.895         ad   main   2270   2270                                  main - * Build 20210125094543
+   info 2022-02-05 06:11:48.895         ad   main   2270   2270                                  main - * Prefix ad
+   info 2022-02-05 06:11:48.895         ad   main   2270   2270                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-05 06:11:48.895         ad   main   2270   2270                                  main - 
+   info 2022-02-05 06:11:48.895         ad   main   2270   2270                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-05 06:11:48.895         ad   main   2270   2270                                  main - Found GLib Version: 2.64.
+   info 2022-02-05 06:11:48.946         ad   main   2270   2270                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-05 06:11:48.946         ad   main   2270   2270                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-05 06:11:48.950       tray   main   2270   2270                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-05 06:11:48.950       tray   main   2270   2270                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-05 06:11:48.969       tray   main   2270   2270                       base.signal.hub - 1 threads.
+   info 2022-02-05 06:11:48.969       tray   main   2270   2270                    app.tunnel_ft_comp - Ready.
+   info 2022-02-05 06:11:49.022       tray   ctrl   2270   2411                      unix_app.control - Control startup.
+  error 2022-02-05 06:11:49.022       tray   ctrl   2270   2411              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-05 06:11:49.038       tray   wrk0   2270   2414              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-05 06:11:49.038       tray   wrk0   2270   2414                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-05 06:11:49.038       tray   wrk0   2270   2414        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-05 06:11:49.041       tray   wrk0   2270   2414                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+  error 2022-02-05 13:36:45.750       tray   wrk0   2270   2414                      unix_app.control - Service connection lost.
+   info 2022-02-06 07:00:42.730         ad   main  11768  11768                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-06 07:00:42.731         ad   main  11768  11768                                  main - * AnyDesk Linux Startup *
+   info 2022-02-06 07:00:42.731         ad   main  11768  11768                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-06 07:00:42.731         ad   main  11768  11768                                  main - * Build 20210125094543
+   info 2022-02-06 07:00:42.731         ad   main  11768  11768                                  main - * Prefix ad
+   info 2022-02-06 07:00:42.731         ad   main  11768  11768                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-06 07:00:42.731         ad   main  11768  11768                                  main - 
+   info 2022-02-06 07:00:42.731         ad   main  11768  11768                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-06 07:00:42.731         ad   main  11768  11768                                  main - Found GLib Version: 2.64.
+   info 2022-02-06 07:00:42.770         ad   main  11768  11768                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-06 07:00:42.770         ad   main  11768  11768                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-06 07:00:42.773       tray   main  11768  11768                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-06 07:00:42.773       tray   main  11768  11768                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-06 07:00:42.791       tray   main  11768  11768                       base.signal.hub - 1 threads.
+   info 2022-02-06 07:00:42.791       tray   main  11768  11768                    app.tunnel_ft_comp - Ready.
+   info 2022-02-06 07:00:42.850       tray   ctrl  11768  11891                      unix_app.control - Control startup.
+  error 2022-02-06 07:00:42.854       tray   ctrl  11768  11891              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-06 07:00:42.861       tray   wrk0  11768  11892              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-06 07:00:42.861       tray   wrk0  11768  11892                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-06 07:00:42.861       tray   wrk0  11768  11892        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-06 07:00:42.864       tray   wrk0  11768  11892                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-02-07 16:01:32.045       tray   main  11768  11768                      unix_app.control - User changed. Hiding tray.
+   info 2022-02-08 07:12:07.673         ad   main   2228   2228                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-08 07:12:07.676         ad   main   2228   2228                                  main - * AnyDesk Linux Startup *
+   info 2022-02-08 07:12:07.676         ad   main   2228   2228                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-08 07:12:07.676         ad   main   2228   2228                                  main - * Build 20210125094543
+   info 2022-02-08 07:12:07.676         ad   main   2228   2228                                  main - * Prefix ad
+   info 2022-02-08 07:12:07.676         ad   main   2228   2228                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-08 07:12:07.676         ad   main   2228   2228                                  main - 
+   info 2022-02-08 07:12:07.676         ad   main   2228   2228                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-08 07:12:07.676         ad   main   2228   2228                                  main - Found GLib Version: 2.64.
+   info 2022-02-08 07:12:07.719         ad   main   2228   2228                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-08 07:12:07.719         ad   main   2228   2228                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-08 07:12:07.722       tray   main   2228   2228                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-08 07:12:07.722       tray   main   2228   2228                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-08 07:12:07.740       tray   main   2228   2228                       base.signal.hub - 1 threads.
+   info 2022-02-08 07:12:07.740       tray   main   2228   2228                    app.tunnel_ft_comp - Ready.
+   info 2022-02-08 07:12:07.794       tray   ctrl   2228   2351                      unix_app.control - Control startup.
+  error 2022-02-08 07:12:07.795       tray   ctrl   2228   2351              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-08 07:12:07.811       tray   wrk0   2228   2352              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-08 07:12:07.811       tray   wrk0   2228   2352                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-08 07:12:07.811       tray   wrk0   2228   2352        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-08 07:12:07.814       tray   wrk0   2228   2352                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-02-12 06:05:42.677         ad   main 116109 116109                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-12 06:05:42.691         ad   main 116109 116109                                  main - * AnyDesk Linux Startup *
+   info 2022-02-12 06:05:42.691         ad   main 116109 116109                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-12 06:05:42.691         ad   main 116109 116109                                  main - * Build 20210125094543
+   info 2022-02-12 06:05:42.691         ad   main 116109 116109                                  main - * Prefix ad
+   info 2022-02-12 06:05:42.691         ad   main 116109 116109                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-12 06:05:42.691         ad   main 116109 116109                                  main - 
+   info 2022-02-12 06:05:42.691         ad   main 116109 116109                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-12 06:05:42.693         ad   main 116109 116109                                  main - Found GLib Version: 2.64.
+   info 2022-02-12 06:05:42.711         ad   main 116109 116109                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-12 06:05:42.711         ad   main 116109 116109                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-12 06:05:42.749       tray   main 116109 116109                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-12 06:05:42.749       tray   main 116109 116109                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-12 06:05:42.779       tray   main 116109 116109                       base.signal.hub - 1 threads.
+   info 2022-02-12 06:05:42.780       tray   main 116109 116109                    app.tunnel_ft_comp - Ready.
+   info 2022-02-12 06:05:42.893       tray   ctrl 116109 116186                      unix_app.control - Control startup.
+  error 2022-02-12 06:05:42.898       tray   ctrl 116109 116186              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-12 06:05:42.902       tray   wrk0 116109 116187              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-12 06:05:42.902       tray   wrk0 116109 116187                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-12 06:05:42.903       tray   wrk0 116109 116187        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-12 06:05:42.907       tray   wrk0 116109 116187                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-02-12 06:26:40.894         ad   main   2192   2192                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-12 06:26:40.895         ad   main   2192   2192                                  main - * AnyDesk Linux Startup *
+   info 2022-02-12 06:26:40.895         ad   main   2192   2192                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-12 06:26:40.895         ad   main   2192   2192                                  main - * Build 20210125094543
+   info 2022-02-12 06:26:40.895         ad   main   2192   2192                                  main - * Prefix ad
+   info 2022-02-12 06:26:40.895         ad   main   2192   2192                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-12 06:26:40.895         ad   main   2192   2192                                  main - 
+   info 2022-02-12 06:26:40.895         ad   main   2192   2192                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-12 06:26:40.895         ad   main   2192   2192                                  main - Found GLib Version: 2.64.
+   info 2022-02-12 06:26:40.931         ad   main   2192   2192                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-12 06:26:40.931         ad   main   2192   2192                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-12 06:26:40.938       tray   main   2192   2192                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-12 06:26:40.938       tray   main   2192   2192                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-12 06:26:40.956       tray   main   2192   2192                       base.signal.hub - 1 threads.
+   info 2022-02-12 06:26:40.956       tray   main   2192   2192                    app.tunnel_ft_comp - Ready.
+   info 2022-02-12 06:26:41.014       tray   ctrl   2192   2302                      unix_app.control - Control startup.
+  error 2022-02-12 06:26:41.015       tray   ctrl   2192   2302              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-12 06:26:41.025       tray   wrk0   2192   2303              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-12 06:26:41.025       tray   wrk0   2192   2303                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-12 06:26:41.025       tray   wrk0   2192   2303        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-12 06:26:41.028       tray   wrk0   2192   2303                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-02-16 06:29:55.965         ad   main 148606 148606                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-16 06:29:55.967         ad   main 148606 148606                                  main - * AnyDesk Linux Startup *
+   info 2022-02-16 06:29:55.967         ad   main 148606 148606                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-16 06:29:55.967         ad   main 148606 148606                                  main - * Build 20210125094543
+   info 2022-02-16 06:29:55.967         ad   main 148606 148606                                  main - * Prefix ad
+   info 2022-02-16 06:29:55.967         ad   main 148606 148606                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-16 06:29:55.967         ad   main 148606 148606                                  main - 
+   info 2022-02-16 06:29:55.968         ad   main 148606 148606                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-16 06:29:55.969         ad   main 148606 148606                                  main - Found GLib Version: 2.64.
+   info 2022-02-16 06:29:55.999         ad   main 148606 148606                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-16 06:29:55.999         ad   main 148606 148606                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-16 06:29:56.028       tray   main 148606 148606                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-16 06:29:56.028       tray   main 148606 148606                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-16 06:29:56.044       tray   main 148606 148606                       base.signal.hub - 1 threads.
+   info 2022-02-16 06:29:56.044       tray   main 148606 148606                    app.tunnel_ft_comp - Ready.
+   info 2022-02-16 06:29:56.126       tray   ctrl 148606 148691                      unix_app.control - Control startup.
+  error 2022-02-16 06:29:56.127       tray   ctrl 148606 148691              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-16 06:29:56.136       tray   wrk0 148606 148692              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-16 06:29:56.136       tray   wrk0 148606 148692                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-16 06:29:56.136       tray   wrk0 148606 148692        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-16 06:29:56.149       tray   wrk0 148606 148692                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-02-16 08:33:59.929         ad   main   2201   2201                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-16 08:33:59.932         ad   main   2201   2201                                  main - * AnyDesk Linux Startup *
+   info 2022-02-16 08:33:59.932         ad   main   2201   2201                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-16 08:33:59.934         ad   main   2201   2201                                  main - * Build 20210125094543
+   info 2022-02-16 08:33:59.934         ad   main   2201   2201                                  main - * Prefix ad
+   info 2022-02-16 08:33:59.934         ad   main   2201   2201                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-16 08:33:59.934         ad   main   2201   2201                                  main - 
+   info 2022-02-16 08:33:59.934         ad   main   2201   2201                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-16 08:33:59.934         ad   main   2201   2201                                  main - Found GLib Version: 2.64.
+   info 2022-02-16 08:33:59.964         ad   main   2201   2201                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-16 08:33:59.964         ad   main   2201   2201                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-16 08:33:59.966       tray   main   2201   2201                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-16 08:33:59.966       tray   main   2201   2201                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-16 08:33:59.983       tray   main   2201   2201                       base.signal.hub - 1 threads.
+   info 2022-02-16 08:33:59.983       tray   main   2201   2201                    app.tunnel_ft_comp - Ready.
+   info 2022-02-16 08:34:00.047       tray   ctrl   2201   2300                      unix_app.control - Control startup.
+  error 2022-02-16 08:34:00.047       tray   ctrl   2201   2300              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-16 08:34:00.057       tray   wrk0   2201   2301              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-16 08:34:00.057       tray   wrk0   2201   2301                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-16 08:34:00.057       tray   wrk0   2201   2301        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-16 08:34:00.060       tray   wrk0   2201   2301                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-02-19 07:17:13.038         ad   main   2297   2297                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-19 07:17:13.040         ad   main   2297   2297                                  main - * AnyDesk Linux Startup *
+   info 2022-02-19 07:17:13.040         ad   main   2297   2297                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-19 07:17:13.040         ad   main   2297   2297                                  main - * Build 20210125094543
+   info 2022-02-19 07:17:13.040         ad   main   2297   2297                                  main - * Prefix ad
+   info 2022-02-19 07:17:13.040         ad   main   2297   2297                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-19 07:17:13.040         ad   main   2297   2297                                  main - 
+   info 2022-02-19 07:17:13.040         ad   main   2297   2297                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-19 07:17:13.040         ad   main   2297   2297                                  main - Found GLib Version: 2.64.
+   info 2022-02-19 07:17:13.091         ad   main   2297   2297                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-19 07:17:13.091         ad   main   2297   2297                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-19 07:17:13.098       tray   main   2297   2297                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-19 07:17:13.098       tray   main   2297   2297                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-19 07:17:13.116       tray   main   2297   2297                       base.signal.hub - 1 threads.
+   info 2022-02-19 07:17:13.116       tray   main   2297   2297                    app.tunnel_ft_comp - Ready.
+   info 2022-02-19 07:17:13.171       tray   ctrl   2297   2420                      unix_app.control - Control startup.
+  error 2022-02-19 07:17:13.172       tray   ctrl   2297   2420              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-19 07:17:13.178       tray   wrk0   2297   2421              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-19 07:17:13.178       tray   wrk0   2297   2421                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-19 07:17:13.178       tray   wrk0   2297   2421        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-19 07:17:13.182       tray   wrk0   2297   2421                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-02-21 05:35:06.748         ad   main   2258   2258                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-21 05:35:06.749         ad   main   2258   2258                                  main - * AnyDesk Linux Startup *
+   info 2022-02-21 05:35:06.749         ad   main   2258   2258                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-21 05:35:06.749         ad   main   2258   2258                                  main - * Build 20210125094543
+   info 2022-02-21 05:35:06.749         ad   main   2258   2258                                  main - * Prefix ad
+   info 2022-02-21 05:35:06.749         ad   main   2258   2258                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-21 05:35:06.749         ad   main   2258   2258                                  main - 
+   info 2022-02-21 05:35:06.749         ad   main   2258   2258                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-21 05:35:06.749         ad   main   2258   2258                                  main - Found GLib Version: 2.64.
+   info 2022-02-21 05:35:06.788         ad   main   2258   2258                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-21 05:35:06.788         ad   main   2258   2258                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-21 05:35:06.790       tray   main   2258   2258                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-21 05:35:06.790       tray   main   2258   2258                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-21 05:35:06.807       tray   main   2258   2258                       base.signal.hub - 1 threads.
+   info 2022-02-21 05:35:06.807       tray   main   2258   2258                    app.tunnel_ft_comp - Ready.
+   info 2022-02-21 05:35:06.864       tray   ctrl   2258   2367                      unix_app.control - Control startup.
+  error 2022-02-21 05:35:06.864       tray   ctrl   2258   2367              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-21 05:35:06.872       tray   wrk0   2258   2368              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-21 05:35:06.872       tray   wrk0   2258   2368                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-21 05:35:06.872       tray   wrk0   2258   2368        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-21 05:35:06.876       tray   wrk0   2258   2368                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).
+   info 2022-02-21 10:45:45.647         ad   main   2187   2187                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-02-21 10:45:45.650         ad   main   2187   2187                                  main - * AnyDesk Linux Startup *
+   info 2022-02-21 10:45:45.650         ad   main   2187   2187                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2022-02-21 10:45:45.650         ad   main   2187   2187                                  main - * Build 20210125094543
+   info 2022-02-21 10:45:45.650         ad   main   2187   2187                                  main - * Prefix ad
+   info 2022-02-21 10:45:45.650         ad   main   2187   2187                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2022-02-21 10:45:45.650         ad   main   2187   2187                                  main - 
+   info 2022-02-21 10:45:45.650         ad   main   2187   2187                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-02-21 10:45:45.650         ad   main   2187   2187                                  main - Found GLib Version: 2.64.
+   info 2022-02-21 10:45:45.672         ad   main   2187   2187                       app.common_path - user_data_dir = /home/abdiweli/.anydesk, logged_in_user_data_dir = /home/abdiweli/.anydesk, current_home = /home/abdiweli
+
+   info 2022-02-21 10:45:45.673         ad   main   2187   2187                       app.common_path - initialized user = /home/abdiweli/.anydesk, system = /etc/anydesk
+   info 2022-02-21 10:45:45.677       tray   main   2187   2187                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-02-21 10:45:45.677       tray   main   2187   2187                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-02-21 10:45:45.704       tray   main   2187   2187                       base.signal.hub - 1 threads.
+   info 2022-02-21 10:45:45.704       tray   main   2187   2187                    app.tunnel_ft_comp - Ready.
+   info 2022-02-21 10:45:45.785       tray   ctrl   2187   2295                      unix_app.control - Control startup.
+  error 2022-02-21 10:45:45.790       tray   ctrl   2187   2295              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-02-21 10:45:45.793       tray   wrk0   2187   2296              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-02-21 10:45:45.793       tray   wrk0   2187   2296                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-02-21 10:45:45.793       tray   wrk0   2187   2296        base.signal.global.shared_file - open (/var/lib/AccountsService/users/abdiweli) failed (13): Permission denied 
+warning 2022-02-21 10:45:45.798       tray   wrk0   2187   2296                      unix_app.control - Could not update account image (File not found: /home/abdiweli/.face.icon).

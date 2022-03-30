@@ -1,0 +1,22 @@
+[2022-02-21 09:05:12.187] [sharedprocess] [info] Starting worker process with pid 6754 (type: fileWatcher, window: 3).
+[2022-02-21 09:05:12.220] [sharedprocess] [info] Starting worker process with pid 6755 (type: fileWatcher, window: 1).
+[2022-02-21 09:05:12.234] [sharedprocess] [info] Starting worker process with pid 6764 (type: fileWatcher, window: 2).
+[2022-02-21 13:10:56.482] [sharedprocess] [info] Worker process with pid 6754 terminated normally (type: fileWatcher, window: 3).
+[2022-02-21 13:10:57.443] [sharedprocess] [info] Starting worker process with pid 22419 (type: fileWatcher, window: 3).
+[2022-02-21 13:32:31.098] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-21 13:35:48.274] [sharedprocess] [info] Worker process with pid 22419 terminated normally (type: fileWatcher, window: 3).
+[2022-02-21 13:35:49.650] [sharedprocess] [info] Starting worker process with pid 24716 (type: fileWatcher, window: 3).
+[2022-02-21 13:36:37.171] [sharedprocess] [info] Getting Manifest... abusaidm.html-snippets
+[2022-02-21 13:36:37.183] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2022-02-21 13:36:40.873] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets /home/abdiweli/.config/Code/CachedExtensionVSIXs/abusaidm.html-snippets-0.2.1
+[2022-02-21 13:36:40.922] [sharedprocess] [info] Extracted extension to /home/abdiweli/.vscode/extensions/.13ad2f35-5eda-48d7-a334-e45fd0ac886d: abusaidm.html-snippets
+[2022-02-21 13:36:40.926] [sharedprocess] [info] Renamed to /home/abdiweli/.vscode/extensions/abusaidm.html-snippets-0.2.1
+[2022-02-21 13:36:40.926] [sharedprocess] [info] Extracting completed. abusaidm.html-snippets
+[2022-02-21 13:36:40.927] [sharedprocess] [info] Extension installed successfully: abusaidm.html-snippets
+[2022-02-21 13:36:55.458] [sharedprocess] [info] Getting Manifest... ecmel.vscode-html-css
+[2022-02-21 13:36:55.468] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2022-02-21 13:36:57.314] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /home/abdiweli/.config/Code/CachedExtensionVSIXs/ecmel.vscode-html-css-1.11.0
+[2022-02-21 13:36:57.369] [sharedprocess] [info] Extracted extension to /home/abdiweli/.vscode/extensions/.6c69348b-7488-4c54-ac1d-4b9aea4c5054: ecmel.vscode-html-css
+[2022-02-21 13:36:57.373] [sharedprocess] [info] Renamed to /home/abdiweli/.vscode/extensions/ecmel.vscode-html-css-1.11.0
+[2022-02-21 13:36:57.374] [sharedprocess] [info] Extracting completed. ecmel.vscode-html-css
+[2022-02-21 13:36:57.376] [sharedprocess] [info] Extension installed successfully: ecmel.vscode-html-css

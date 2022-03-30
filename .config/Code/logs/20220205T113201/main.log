@@ -1,0 +1,25 @@
+[2022-02-05 11:32:01.038] [main] [info] update#setState idle
+[2022-02-05 11:32:01.181] [main] [info] ExtensionHostStarterWorker created
+[2022-02-05 11:32:02.191] [main] [error] vscode-file: Refused to load resource /snap/code/85/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+[2022-02-05 11:32:02.196] [main] [error] vscode-file: Refused to load resource /snap/code/85/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/snap/code/85/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+[2022-02-05 11:32:02.326] [main] [info] Starting extension host with pid 8589 (fork() took 7 ms).
+[2022-02-05 11:32:02.327] [main] [info] ExtensionHostStarterWorker.start() took 8 ms.
+[2022-02-05 11:32:02.412] [main] [info] Starting extension host with pid 8598 (fork() took 5 ms).
+[2022-02-05 11:32:02.412] [main] [info] ExtensionHostStarterWorker.start() took 8 ms.
+[2022-02-05 11:32:31.043] [main] [info] update#setState checking for updates
+[2022-02-05 11:32:31.047] [main] [info] update#setState idle
+[2022-02-05 11:32:39.119] [main] [info] Starting extension host with pid 8936 (fork() took 3 ms).
+[2022-02-05 11:32:39.119] [main] [info] ExtensionHostStarterWorker.start() took 21 ms.
+[2022-02-05 12:32:31.119] [main] [info] update#setState checking for updates
+[2022-02-05 12:32:31.124] [main] [info] update#setState idle
+[2022-02-05 13:32:31.184] [main] [info] update#setState checking for updates
+[2022-02-05 13:32:31.188] [main] [info] update#setState idle
+[2022-02-05 14:25:03.884] [main] [info] Starting extension host with pid 19897 (fork() took 7 ms).
+[2022-02-05 14:25:03.884] [main] [info] ExtensionHostStarterWorker.start() took 20 ms.
+[2022-02-05 14:32:31.285] [main] [info] update#setState checking for updates
+[2022-02-05 14:32:31.289] [main] [info] update#setState idle
+[2022-02-05 14:43:43.316] [main] [info] Extension host with pid 19897 exited with code: 0, signal: null.
+[2022-02-05 15:32:31.385] [main] [info] update#setState checking for updates
+[2022-02-05 15:32:31.387] [main] [info] update#setState idle
+[2022-02-05 16:32:31.487] [main] [info] update#setState checking for updates
+[2022-02-05 16:32:31.491] [main] [info] update#setState idle

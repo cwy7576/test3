@@ -1,0 +1,130 @@
+[2022-02-21 13:45:53.043] [exthost] [info] Extension host with pid 3108 started
+[2022-02-21 13:45:53.043] [exthost] [info] Skipping acquiring lock for /home/abdiweli/.config/Code/User/workspaceStorage/a422dc8c22d19bde5af106b11f34d845.
+[2022-02-21 13:45:53.148] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-21 13:45:53.165] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-21 13:45:53.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-21 13:45:53.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-21 13:45:53.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-21 13:45:53.402] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-02-21 13:45:53.439] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2022-02-21 13:45:53.445] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2022-02-21 13:45:53.487] [exthost] [info] ExtensionService#_doActivateExtension mcright.auto-save, startup: true, activationEvent: '*'
+[2022-02-21 13:45:53.508] [exthost] [error] Activating extension vscode.typescript-language-features failed due to an error:
+[2022-02-21 13:45:53.508] [exthost] [error] Error: EEXIST: file already exists, mkdir '/tmp/vscode-typescript1002'
+	at Object.mkdirSync (fs.js:987:3)
+	at /snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:570656
+	at /snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:570733
+	at t.getTempFile (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:570848)
+	at new s (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:481954)
+	at Object.create (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:482310)
+	at u.spawnTsServer (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:498664)
+	at u.spawn (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:498000)
+	at w.startService (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:521777)
+	at w.ensureServiceStarted (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:521218)
+	at new y (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:510264)
+	at r._getValue (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:460437)
+	at r.get value [as value] (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:555915)
+	at p (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:460813)
+	at Array.some (<anonymous>)
+	at t.lazilyActivateClient (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:460915)
+	at e.activate (/snap/code/88/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:583014)
+	at Function._callActivateOptional (/snap/code/88/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:16040)
+	at Function._callActivate (/snap/code/88/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:15704)
+	at /snap/code/88/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13528
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async Promise.all (index 0)
+[2022-02-21 13:45:53.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-02-21 13:45:53.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2022-02-21 13:45:53.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-21 13:45:53.664] [exthost] [info] Eager extensions activated
+[2022-02-21 13:45:53.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 13:45:53.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 13:45:53.698] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 14:05:04.938] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-21 14:05:04.943] [exthost] [info] Extension host with pid 3108 exiting with code 0
+[2022-02-21 14:05:06.063] [exthost] [info] Extension host with pid 8088 started
+[2022-02-21 14:05:06.063] [exthost] [info] Skipping acquiring lock for /home/abdiweli/.config/Code/User/workspaceStorage/bd9139d6590d77edcaf1945dafe24ceb.
+[2022-02-21 14:05:06.124] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-21 14:05:06.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-21 14:05:06.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-21 14:05:06.138] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-02-21 14:05:06.155] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2022-02-21 14:05:06.159] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2022-02-21 14:05:06.197] [exthost] [info] ExtensionService#_doActivateExtension mcright.auto-save, startup: true, activationEvent: '*'
+[2022-02-21 14:05:06.216] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-02-21 14:05:06.227] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2022-02-21 14:05:06.241] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-21 14:05:06.272] [exthost] [info] Eager extensions activated
+[2022-02-21 14:05:06.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 14:05:06.304] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 14:05:06.305] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 14:05:08.258] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-21 14:05:09.459] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-21 14:06:44.384] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-21 14:06:44.389] [exthost] [info] Extension host with pid 8088 exiting with code 0
+[2022-02-21 14:06:45.397] [exthost] [info] Extension host with pid 8282 started
+[2022-02-21 14:06:45.397] [exthost] [info] Skipping acquiring lock for /home/abdiweli/.config/Code/User/workspaceStorage/51ae0f701a3bea824da7cbadd4e91801.
+[2022-02-21 14:06:45.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-21 14:06:45.467] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-21 14:06:45.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-21 14:06:45.470] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-02-21 14:06:45.482] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2022-02-21 14:06:45.486] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2022-02-21 14:06:45.507] [exthost] [info] ExtensionService#_doActivateExtension mcright.auto-save, startup: true, activationEvent: '*'
+[2022-02-21 14:06:45.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-02-21 14:06:45.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2022-02-21 14:06:45.575] [exthost] [info] Eager extensions activated
+[2022-02-21 14:06:45.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-21 14:06:45.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 14:06:45.595] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 14:06:45.596] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 14:06:47.930] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2022-02-21 14:06:56.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-21 14:06:56.298] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-21 14:06:59.531] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-21 14:07:00.736] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-21 14:07:05.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-21 14:07:05.819] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-21 14:07:05.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-21 14:08:30.609] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:08:30.609] [exthost] [error] undefined
+[2022-02-21 14:08:33.370] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:08:33.370] [exthost] [error] undefined
+[2022-02-21 14:08:35.733] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:08:35.733] [exthost] [error] undefined
+[2022-02-21 14:08:36.637] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:08:36.637] [exthost] [error] undefined
+[2022-02-21 14:08:38.068] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:08:38.068] [exthost] [error] undefined
+[2022-02-21 14:08:38.507] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:08:38.507] [exthost] [error] undefined
+[2022-02-21 14:08:39.189] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:08:39.189] [exthost] [error] undefined
+[2022-02-21 14:08:52.277] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:08:52.277] [exthost] [error] undefined
+[2022-02-21 14:08:54.979] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:08:54.979] [exthost] [error] undefined
+[2022-02-21 14:08:55.996] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:08:55.996] [exthost] [error] undefined
+[2022-02-21 14:09:38.080] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:09:38.080] [exthost] [error] undefined
+[2022-02-21 14:09:39.851] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:09:39.851] [exthost] [error] undefined
+[2022-02-21 14:09:42.181] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:09:42.181] [exthost] [error] undefined
+[2022-02-21 14:09:42.353] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:09:42.353] [exthost] [error] undefined
+[2022-02-21 14:09:48.818] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:09:48.818] [exthost] [error] undefined
+[2022-02-21 14:09:49.792] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:09:49.792] [exthost] [error] undefined
+[2022-02-21 14:09:51.838] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:09:51.838] [exthost] [error] undefined
+[2022-02-21 14:09:54.812] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:09:54.812] [exthost] [error] undefined
+[2022-02-21 14:09:57.462] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:09:57.462] [exthost] [error] undefined
+[2022-02-21 14:09:59.394] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-02-21 14:09:59.394] [exthost] [error] undefined
+[2022-02-21 14:10:01.808] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10026
+[2022-02-21 14:10:14.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'

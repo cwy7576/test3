@@ -1,0 +1,14 @@
+[2022-02-05T08:32:03.932Z] Validating found git in: git
+[2022-02-05T08:32:04.092Z] Using git 2.25.1 from git
+[2022-02-05T08:32:04.204Z] > git rev-parse --git-dir [55ms]
+[2022-02-05T08:32:04.215Z] Open repository: /home/abdiweli
+[2022-02-05T08:32:06.432Z] > git fetch [2197ms]
+[2022-02-05T08:32:06.432Z] Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[2022-02-05T08:32:15.689Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n39 -- /home/abdiweli/Desktop/app/app.js [1ms]
+[2022-02-05T08:32:15.689Z] fatal: your current branch 'master' does not have any commits yet
+[2022-02-05T08:32:15.878Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/app.js [4ms]
+[2022-02-05T08:32:17.828Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/app.js [3ms]
+[2022-02-05T08:32:20.588Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n39 -- /home/abdiweli/Desktop/app/index.html [2ms]
+[2022-02-05T08:32:20.588Z] fatal: your current branch 'master' does not have any commits yet
+[2022-02-05T08:32:20.767Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/index.html [0ms]

@@ -1,0 +1,18 @@
+[2022-02-21 09:05:10.146] [renderer3] [info] IExtensionHostStarter.start() took 275 ms.
+[2022-02-21 09:05:10.319] [renderer3] [error] [Extension Host] (node:6608) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-21 13:10:57.617] [renderer3] [info] IExtensionHostStarter.start() took 212 ms.
+[2022-02-21 13:10:57.709] [renderer3] [error] [Extension Host] (node:22418) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-21 13:35:49.646] [renderer3] [info] IExtensionHostStarter.start() took 15 ms.
+[2022-02-21 13:35:49.977] [renderer3] [error] [Extension Host] (node:24715) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-21 13:36:37.646] [renderer3] [error] Cannot read property 'toLowerCase' of undefined: TypeError: Cannot read property 'toLowerCase' of undefined
+    at i.getLanguageIdByLanguageName (vscode-file://vscode-app/snap/code/88/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:578:102227)
+    at c.getLanguageIdByLanguageName (vscode-file://vscode-app/snap/code/88/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:578:103973)
+    at vscode-file://vscode-app/snap/code/88/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1157:1193
+[2022-02-21 13:39:41.345] [renderer3] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-21 13:39:45.375] [renderer3] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-21 13:39:57.775] [renderer3] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-21 13:40:00.361] [renderer3] [error] An unknown error occurred. Please consult the log for more details.
+[2022-02-21 13:40:01.973] [renderer3] [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,7 @@
+2021/12/26-12:25:07.731 3cab Reusing MANIFEST /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/26-12:25:07.732 3cab Recovering log #3
+2021/12/26-12:25:07.734 3cab Reusing old log /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000003.log 
+2021/12/26-13:07:30.006 4ee7 Level-0 table #5: started
+2021/12/26-13:07:30.013 4ee7 Level-0 table #5: 53539 bytes OK
+2021/12/26-13:07:30.016 4ee7 Delete type=0 #3
+2021/12/26-13:07:30.016 4ee7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

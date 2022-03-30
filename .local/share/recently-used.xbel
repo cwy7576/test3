@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali" added="2021-12-12T07:52:48Z" modified="2021-12-26T07:59:34Z" visited="2021-12-12T07:52:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T07:59:34Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali/index.html" added="2021-12-12T07:54:24Z" modified="2021-12-28T11:18:14Z" visited="2021-12-19T11:35:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/notepad-plus-plus_notepad-plus-plus.desktop /snap/bin/notepad-plus-plus %F&apos;" modified="2021-12-28T11:18:14Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali/Paris-Bucket-List.jpg.optimal.jpg" added="2021-12-12T08:22:15Z" modified="2021-12-12T08:22:15Z" visited="2021-12-19T11:35:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-12-12T08:22:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali/readme.md" added="2021-12-18T13:20:15Z" modified="2021-12-28T11:18:41Z" visited="2021-12-19T11:35:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-12-18T13:20:15Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-12-28T11:18:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali/images.png" added="2021-12-20T09:01:09Z" modified="2021-12-20T09:01:09Z" visited="2021-12-26T06:54:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-12-20T09:01:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali/0fd8decaad0d649cb6071d8dc4b0d86b.jpg" added="2021-12-21T10:19:58Z" modified="2021-12-21T10:19:58Z" visited="2021-12-26T06:54:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-12-21T10:19:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali/images.jpeg" added="2021-12-25T08:47:37Z" modified="2021-12-25T08:47:37Z" visited="2021-12-26T06:54:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-12-25T08:47:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali/images%20(1).jpeg" added="2021-12-25T08:48:44Z" modified="2021-12-25T08:48:44Z" visited="2021-12-26T06:54:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-12-25T08:48:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali/Bed%20Icon%20_%20Font%20Awesome.html" added="2021-12-26T06:45:32Z" modified="2021-12-26T06:45:32Z" visited="2021-12-26T06:54:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-12-26T06:45:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/cabdiweli" added="2021-12-26T06:54:31Z" modified="2021-12-26T07:59:58Z" visited="2021-12-26T06:54:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T07:59:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali/%20sawir.jpg" added="2021-12-26T08:06:26Z" modified="2021-12-26T08:06:55Z" visited="2021-12-26T08:06:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T08:06:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel" added="2021-12-26T08:58:12Z" modified="2021-12-26T09:35:45Z" visited="2021-12-26T08:58:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T09:35:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/benjamin-suter-mlOvsx4xdaA-unsplash.jpg" added="2021-12-26T09:23:40Z" modified="2021-12-26T09:37:40Z" visited="2021-12-26T09:35:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-26T09:23:40Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T09:37:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/instagram.png" added="2021-12-26T09:28:19Z" modified="2021-12-26T09:37:40Z" visited="2021-12-26T09:35:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-26T09:28:19Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T09:37:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Music/cabdiwali/1000_F_167713061_xLtZ29HrJSDU95suaFKkzYRZ66TqPBeC.jpg" added="2021-12-26T09:29:39Z" modified="2021-12-26T09:29:40Z" visited="2021-12-26T09:35:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-12-26T09:29:39Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-26T09:29:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads" added="2021-12-26T09:35:02Z" modified="2022-02-21T11:06:21Z" visited="2021-12-26T09:35:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-02-21T11:06:21Z" count="4"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-12-28T07:56:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/route-solid.svg" added="2021-12-26T09:36:36Z" modified="2021-12-26T09:37:40Z" visited="2021-12-26T09:37:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-26T09:36:36Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T09:37:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/plane-departure-solid%20(1).svg" added="2021-12-26T09:36:36Z" modified="2021-12-26T09:37:40Z" visited="2021-12-26T09:37:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-26T09:36:36Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T09:37:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/youtube.png" added="2021-12-26T09:36:36Z" modified="2021-12-26T09:37:40Z" visited="2021-12-26T09:37:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-26T09:36:36Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T09:37:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/bed-solid%20(1).svg" added="2021-12-26T09:36:36Z" modified="2021-12-26T09:36:36Z" visited="2021-12-26T09:37:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-26T09:36:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/bed-solid.svg" added="2021-12-26T09:37:10Z" modified="2021-12-26T09:37:40Z" visited="2021-12-26T09:37:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T09:37:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/plane.png" added="2021-12-26T09:37:40Z" modified="2021-12-26T09:37:40Z" visited="2021-12-26T09:37:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T09:37:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/plane-departure-solid.svg" added="2021-12-26T09:37:40Z" modified="2021-12-26T09:37:40Z" visited="2021-12-26T09:37:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-12-26T09:37:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/index.html" added="2021-12-26T10:15:22Z" modified="2022-01-24T10:11:35Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/notepad-plus-plus_notepad-plus-plus.desktop /snap/bin/notepad-plus-plus %F&apos;" modified="2022-01-24T10:11:35Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel.zip" added="2021-12-26T11:37:59Z" modified="2021-12-26T11:37:59Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-12-26T11:37:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/images" added="2021-12-26T13:11:23Z" modified="2021-12-26T13:11:23Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-12-26T13:11:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Poppins.zip" added="2021-12-28T07:43:30Z" modified="2021-12-28T07:43:50Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-12-28T07:43:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Pattaya.zip" added="2021-12-28T07:56:33Z" modified="2021-12-28T07:56:33Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-12-28T07:56:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Travelly.zip" added="2021-12-28T08:40:49Z" modified="2022-01-01T07:30:57Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-01-01T07:30:57Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Videos" added="2021-12-28T08:41:06Z" modified="2022-01-01T07:34:35Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2022-01-01T07:34:35Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/img/contact-mountain.png" added="2021-12-28T10:42:08Z" modified="2021-12-28T10:42:37Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-12-28T10:42:08Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-28T10:42:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/img/emiliano-bar-kheTI8pIywU-unsplash.jpg" added="2021-12-28T10:42:13Z" modified="2021-12-28T10:42:41Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-12-28T10:42:13Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-28T10:42:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/img/jack-ward-rknrvCrfS1k-unsplash.jpg" added="2021-12-28T10:42:18Z" modified="2021-12-28T11:26:53Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-12-28T10:42:18Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-28T11:26:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/img/landing-page.jpg" added="2021-12-28T10:42:22Z" modified="2021-12-28T10:42:27Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-12-28T10:42:27Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-28T10:42:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/img/new-york-page.png" added="2021-12-28T10:42:29Z" modified="2021-12-28T10:42:29Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-28T10:42:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/img/tom-barrett-M0AWNxnLaMw-unsplash.jpg" added="2021-12-28T10:42:32Z" modified="2021-12-28T10:42:32Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-28T10:42:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/img/cloud.png" added="2021-12-28T10:42:36Z" modified="2021-12-28T10:42:36Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-28T10:42:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/img/danial.jpg" added="2021-12-28T10:42:38Z" modified="2021-12-28T10:42:38Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-28T10:42:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/travel%20(2).zip" added="2022-01-01T07:31:57Z" modified="2022-01-01T07:31:57Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-01-01T07:31:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Travelly%20(1).zip" added="2022-01-01T07:33:08Z" modified="2022-01-01T07:33:08Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-01-01T07:33:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Videos/index.html" added="2022-01-01T07:34:49Z" modified="2022-01-01T07:34:49Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/notepad-plus-plus_notepad-plus-plus.desktop /snap/bin/notepad-plus-plus %F&apos;" modified="2022-01-01T07:34:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Videos/style.css" added="2022-01-01T07:35:12Z" modified="2022-01-01T07:35:24Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-01-01T07:35:24Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/Screenshot%20from%202022-01-01%2015-33-04.png" added="2022-01-01T12:33:05Z" modified="2022-02-21T06:55:09Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-01-01T12:33:05Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-21T06:55:09Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-21T06:55:09Z" count="2"/>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2022-02-21T06:37:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Videos/Projects/Travelly" added="2022-01-01T12:56:51Z" modified="2022-01-01T12:56:51Z" visited="2022-01-01T12:56:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-01-01T12:56:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/me.jpeg" added="2022-01-01T13:20:02Z" modified="2022-01-01T13:20:13Z" visited="2022-01-22T07:49:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2022-01-01T13:20:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Desktop/registration" added="2022-01-22T07:49:20Z" modified="2022-01-25T08:18:22Z" visited="2022-01-22T07:49:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-01-23T13:32:29Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-01-25T08:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Desktop/registration/code.html" added="2022-01-22T12:33:06Z" modified="2022-01-22T12:35:45Z" visited="2022-01-23T07:48:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/notepad-plus-plus_notepad-plus-plus.desktop /snap/bin/notepad-plus-plus %F&apos;" modified="2022-01-22T12:35:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/code.zip" added="2022-01-22T12:34:15Z" modified="2022-01-22T12:35:13Z" visited="2022-01-23T07:48:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-01-22T12:35:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/php" added="2022-01-23T11:10:26Z" modified="2022-01-24T07:18:13Z" visited="2022-01-23T11:10:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-01-24T07:18:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/Test" added="2022-01-23T13:49:37Z" modified="2022-01-23T13:49:37Z" visited="2022-01-23T13:49:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-01-23T13:49:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Starter%20Files.zip" added="2022-01-24T10:06:49Z" modified="2022-01-24T10:07:13Z" visited="2022-01-24T10:09:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-01-24T10:07:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Documents" added="2022-01-24T10:07:53Z" modified="2022-01-24T10:07:53Z" visited="2022-01-24T10:09:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2022-01-24T10:07:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Videos/Starter%20Files" added="2022-01-24T10:08:59Z" modified="2022-01-24T10:08:59Z" visited="2022-01-24T10:09:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-01-24T10:08:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/travel/style.css" added="2022-01-24T10:12:32Z" modified="2022-01-24T10:12:32Z" visited="2022-01-24T10:15:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-01-24T10:12:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Videos/photograph" added="2022-01-24T10:15:42Z" modified="2022-01-24T10:15:42Z" visited="2022-01-24T10:15:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-01-24T10:15:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Great_Vibes,Pattaya,Poppins.zip" added="2022-01-24T11:02:30Z" modified="2022-01-24T11:02:30Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-01-24T11:02:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/.cache/.fr-ULC8ZM/Great_Vibes/OFL.txt" added="2022-01-24T11:02:50Z" modified="2022-01-24T11:02:50Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-01-24T11:02:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Elena%20Joy%20Final%20Code.zip" added="2022-01-25T08:16:55Z" modified="2022-01-25T08:16:55Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-01-25T08:16:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Desktop/registration/Elena%20Joy%20Final%20Code/index.html" added="2022-01-25T08:18:31Z" modified="2022-01-25T08:18:44Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/notepad-plus-plus_notepad-plus-plus.desktop /snap/bin/notepad-plus-plus %F&apos;" modified="2022-01-25T08:18:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Desktop/registration/Elena%20Joy%20Final%20Code/style.css" added="2022-01-25T08:21:09Z" modified="2022-01-25T08:21:09Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-01-25T08:21:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Elena%20Joy%20Final%20Code%20(1).zip" added="2022-01-26T10:24:50Z" modified="2022-01-26T10:25:40Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-01-26T10:25:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Telegram%20Desktop" added="2022-01-26T10:25:59Z" modified="2022-01-26T10:26:37Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2022-01-26T10:25:59Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-01-26T10:26:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Elena%20Joy%20Final%20Code%20(1)/app.js" added="2022-01-26T10:26:46Z" modified="2022-01-26T10:26:46Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-01-26T10:26:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Elena%20Joy%20Final%20Code%20(1)/style.css" added="2022-01-26T10:26:57Z" modified="2022-01-26T10:26:57Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-01-26T10:26:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/Screenshot%20from%202022-01-26%2015-58-32.png" added="2022-01-26T12:58:33Z" modified="2022-02-21T06:55:14Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-01-26T12:58:33Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-21T06:55:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Portofolio%20Final%20Code" added="2022-01-30T08:53:46Z" modified="2022-01-30T08:53:46Z" visited="2022-01-30T08:53:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-01-30T08:53:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/java%20script" added="2022-01-31T09:07:38Z" modified="2022-02-08T08:20:08Z" visited="2022-01-31T09:07:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-02-08T08:20:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Desktop/app" added="2022-02-01T07:59:57Z" modified="2022-02-01T07:59:57Z" visited="2022-02-01T07:59:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-02-01T07:59:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Desktop/app/index.html" added="2022-02-01T08:11:45Z" modified="2022-02-01T08:11:45Z" visited="2022-02-05T10:33:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-01T08:11:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/app.js" added="2022-02-05T10:33:29Z" modified="2022-02-05T10:33:29Z" visited="2022-02-05T10:33:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-02-05T10:33:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/code%20" added="2022-02-06T11:04:58Z" modified="2022-02-06T11:20:07Z" visited="2022-02-06T11:11:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-06T11:04:58Z" count="1"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2022-02-06T11:08:07Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-02-06T11:20:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/code%20/Sidebar%20Menu%20-%20Dark%20Light%20Mode.zip" added="2022-02-06T11:05:06Z" modified="2022-02-06T11:09:53Z" visited="2022-02-06T11:11:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-02-06T11:09:53Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/code%20/Sidebar%20Menu%20-%20Dark%20Light%20Mode/index.html" added="2022-02-06T11:10:18Z" modified="2022-02-06T11:23:14Z" visited="2022-02-06T11:11:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/notepad-plus-plus_notepad-plus-plus.desktop /snap/bin/notepad-plus-plus %F&apos;" modified="2022-02-06T11:23:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/code%20/Sidebar%20Menu%20-%20Dark%20Light%20Mode/logo.png" added="2022-02-06T11:11:02Z" modified="2022-02-06T11:16:47Z" visited="2022-02-06T11:11:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-06T11:16:47Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-06T11:11:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/code%20/Sidebar%20Menu%20-%20Dark%20Light%20Mode/style.css" added="2022-02-06T11:11:10Z" modified="2022-02-06T11:11:10Z" visited="2022-02-06T11:11:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-06T11:11:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Desktop/side%20bar" added="2022-02-06T11:11:53Z" modified="2022-02-06T11:11:53Z" visited="2022-02-06T11:11:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-02-06T11:11:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/code%20/Sidebar%20Menu%20-%20Dark%20Light%20Mode/Monogram-CL-Logo-by-Greenlines-Studios-580x387.jpg" added="2022-02-06T11:18:10Z" modified="2022-02-06T11:18:10Z" visited="2022-02-06T11:20:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2022-02-06T11:18:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/BeatMaker" added="2022-02-19T13:30:37Z" modified="2022-02-19T13:30:37Z" visited="2022-02-19T13:30:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-02-19T13:30:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/emiliano-bar-kheTI8pIywU-unsplash.jpg" added="2022-02-21T06:37:40Z" modified="2022-02-21T06:37:40Z" visited="2022-02-21T10:35:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2022-02-21T06:37:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/Screenshot%20from%202022-02-21%2009-54-41.png" added="2022-02-21T06:54:58Z" modified="2022-02-21T06:55:17Z" visited="2022-02-21T10:35:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-21T06:54:58Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-21T06:55:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.jpg" added="2022-02-21T10:32:30Z" modified="2022-02-21T10:33:33Z" visited="2022-02-21T10:35:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-21T10:32:30Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-21T10:33:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/lagos-techie-kwzWjTnDPLk-unsplash.jpg" added="2022-02-21T10:33:23Z" modified="2022-02-21T10:33:26Z" visited="2022-02-21T10:35:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-21T10:33:23Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-21T10:33:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/himiway-bikes-hUQWXOtaq4M-unsplash.jpg" added="2022-02-21T10:33:29Z" modified="2022-02-21T10:33:30Z" visited="2022-02-21T10:35:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-21T10:33:29Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-21T10:33:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Pictures/project/BeatMaker.zip" added="2022-02-21T10:34:31Z" modified="2022-02-21T10:34:39Z" visited="2022-02-21T10:35:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-02-21T10:34:39Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/boitumelo-phetla-X89VSmdDKE0-unsplash.jpg" added="2022-02-21T10:35:16Z" modified="2022-02-21T10:35:18Z" visited="2022-02-21T10:35:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-21T10:35:16Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-21T10:35:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Desktop/project" added="2022-02-21T10:35:47Z" modified="2022-02-21T10:35:47Z" visited="2022-02-21T10:35:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-02-21T10:35:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Desktop/project/imeges/search.html" added="2022-02-21T10:43:23Z" modified="2022-02-21T10:43:23Z" visited="2022-02-21T11:05:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2022-02-21T10:43:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Travel%20Project.zip" added="2022-02-21T11:06:05Z" modified="2022-02-21T11:06:05Z" visited="2022-02-21T11:06:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-02-21T11:06:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abdiweli/Downloads/Travel%20Project" added="2022-02-21T11:06:44Z" modified="2022-02-21T11:06:44Z" visited="2022-02-21T11:06:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-02-21T11:06:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

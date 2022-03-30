@@ -1,0 +1,6 @@
+2022/02/07-11:25:38.425 ce68 Creating DB /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2022/02/07-11:25:38.429 ce68 Reusing MANIFEST /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/07-11:26:14.014 cd80 Level-0 table #5: started
+2022/02/07-11:26:14.017 cd80 Level-0 table #5: 827 bytes OK
+2022/02/07-11:26:14.020 cd80 Delete type=0 #3
+2022/02/07-11:26:14.020 cd80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,19 @@
+[2022-02-19T13:29:27.065Z] Validating found git in: git
+[2022-02-19T13:29:27.107Z] Using git 2.25.1 from git
+[2022-02-19T13:29:27.153Z] > git rev-parse --git-dir [1ms]
+[2022-02-19T13:29:27.156Z] Open repository: /home/abdiweli
+[2022-02-19T13:29:27.474Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/index.html [3ms]
+[2022-02-19T13:37:21.354Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/index.html [1ms]
+[2022-02-19T13:37:21.475Z] > git symbolic-ref --short HEAD [2ms]
+[2022-02-19T13:37:21.483Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-02-19T13:37:21.495Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-02-19T13:37:21.495Z] > git remote --verbose [2ms]
+[2022-02-19T13:37:21.604Z] > git config --get commit.template [1ms]
+[2022-02-19T13:37:23.294Z] > git fetch [1685ms]
+[2022-02-19T13:37:23.417Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-19T13:37:23.421Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [1ms]
+[2022-02-19T13:37:23.426Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-02-19T13:37:23.426Z] > git remote --verbose [0ms]
+[2022-02-19T13:37:23.495Z] > git config --get commit.template [1ms]
+[2022-02-19T13:37:25.603Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/index.html [0ms]
+[2022-02-19T13:39:13.502Z] > git ls-files --stage -- /home/abdiweli/Desktop/app/app.js [1ms]

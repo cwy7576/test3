@@ -1,0 +1,74 @@
+img{
+    height: 1rem;
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+
+a{
+    color: black;
+    text-decoration: black;
+} 
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    min-height: 10vh;
+}
+.hero{
+    min-height: 90vh;
+    background-image: url(/\ laptop.jpeg);
+    background-size: cover;
+    background-position: center;
+    color:  burlywood;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.hero h2 {
+text-align: center;
+margin: 2rem;
+}
+
+.hero button{
+    padding: 1rem 2rem;
+   background: lightblue;
+    border: none;
+}
+
+.intro{
+    display: flex;
+    flex-wrap: wrap;
+   
+
+}
+
+.inro_img{
+    width: 100%;
+   
+}
+
+ .intro-img{
+     width: 100%;
+    flex: 1 1 10rem;
+    background-color: rgb(73, 50, 62);
+ }
+
+.intro-text{
+    flex: 1 1 10rem;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+}
+.intro-text h2{
+    padding: 2rem;
+
+}
+.intro-text p{
+    padding: 1rem;
+} 

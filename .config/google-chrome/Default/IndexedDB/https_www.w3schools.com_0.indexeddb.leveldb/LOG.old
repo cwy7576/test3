@@ -1,0 +1,15 @@
+2022/02/08-11:56:05.312 245c Reusing MANIFEST /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_www.w3schools.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/08-11:56:05.312 245c Recovering log #7
+2022/02/08-11:56:05.313 245c Reusing old log /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_www.w3schools.com_0.indexeddb.leveldb/000007.log 
+2022/02/08-11:56:17.064 1fd5 Level-0 table #12: started
+2022/02/08-11:56:17.066 1fd5 Level-0 table #12: 209 bytes OK
+2022/02/08-11:56:17.069 1fd5 Delete type=0 #7
+2022/02/08-11:56:17.069 1fd5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/02/08-11:56:17.069 1fd5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 14 : 1
+2022/02/08-11:56:17.069 1fd5 Compacting 1@1 + 1@2 files
+2022/02/08-11:56:17.072 1fd5 Generated table #13@1: 9 keys, 373 bytes
+2022/02/08-11:56:17.072 1fd5 Compacted 1@1 + 1@2 files => 373 bytes
+2022/02/08-11:56:17.074 1fd5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/08-11:56:17.075 1fd5 Delete type=2 #12
+2022/02/08-11:56:17.075 1fd5 Delete type=2 #9
+2022/02/08-11:56:17.075 1fd5 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 14 : 1 .. (end); will stop at (end)

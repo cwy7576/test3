@@ -1,0 +1,26 @@
+[2022-02-06T11:20:08.922Z] Validating found git in: git
+[2022-02-06T11:20:08.951Z] Using git 2.25.1 from git
+[2022-02-06T11:20:08.989Z] > git rev-parse --git-dir [26ms]
+[2022-02-06T11:20:08.991Z] Open repository: /home/abdiweli
+[2022-02-06T11:20:09.995Z] > git fetch [1001ms]
+[2022-02-06T11:20:09.995Z] Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+[2022-02-06T11:20:16.025Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/index.html [2ms]
+[2022-02-06T11:20:42.556Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/index.html [3ms]
+[2022-02-06T11:24:52.066Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/script.js [1ms]
+[2022-02-06T11:25:51.205Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/index.html [3ms]
+[2022-02-06T11:26:47.267Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/script.js [4ms]
+[2022-02-06T12:06:37.410Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/index.html [2ms]
+[2022-02-07T12:21:54.873Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/script.js [14ms]
+[2022-02-07T12:33:35.179Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/index.html [1ms]
+[2022-02-07T13:18:16.121Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/style.css [1ms]
+[2022-02-07T13:18:17.625Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/script.js [3ms]
+[2022-02-07T13:18:19.280Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/index.html [2ms]
+[2022-02-07T13:21:28.891Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/script.js [3ms]
+[2022-02-07T14:05:19.805Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/index.html [1ms]
+[2022-02-07T14:05:27.535Z] > git ls-files --stage -- /home/abdiweli/Pictures/code /Sidebar Menu - Dark Light Mode/script.js [7ms]

@@ -1,0 +1,6 @@
+2021/12/26-11:13:16.672 2842 Creating DB /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb since it was missing.
+2021/12/26-11:13:16.676 2842 Reusing MANIFEST /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/26-11:13:28.076 2cee Level-0 table #5: started
+2021/12/26-11:13:28.077 2cee Level-0 table #5: 373 bytes OK
+2021/12/26-11:13:28.079 2cee Delete type=0 #3
+2021/12/26-11:13:28.079 2cee Manual compaction at level-0 from (begin) .. (end); will stop at (end)

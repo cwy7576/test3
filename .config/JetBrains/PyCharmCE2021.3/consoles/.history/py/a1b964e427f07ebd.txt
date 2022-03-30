@@ -1,0 +1,1 @@
+runfile('/home/abdiweli/PycharmProjects/pythonProject/hellow mogadisho.py', wdir='/home/abdiweli/PycharmProjects/pythonProject')

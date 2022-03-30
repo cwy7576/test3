@@ -1,0 +1,143 @@
+{
+  "appInfo" : {
+    "build" : "213.6777.50",
+    "buildDate" : "2022-01-27T16:06:38.09Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2022-02-21T06:06:28.150682Z",
+    "os" : "Linux 5.13.0-30-generic",
+    "runtime" : "JetBrains s.r.o. 11.0.13 11.0.13+7-b1751.25"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 786432000,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "pythonProject",
+    "times" : {
+      "indexingReason" : "changes in: \"Python SDK Python 3.8 (pythonProject)\"",
+      "wasFullIndexing" : false,
+      "totalUpdatingTime" : 1168061513,
+      "indexingTime" : 1021306000,
+      "contentLoadingTime" : 14561238,
+      "scanFilesTime" : 30695000,
+      "pushPropertiesTime" : 299000,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2022-02-21T06:06:26.982304Z",
+      "updatingEnd" : "2022-02-21T06:06:28.150371Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 3814,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 1230,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 909,
+      "numberOfFilesIndexedWithLoadingContent" : 1230
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 3793303505,
+        "total" : 3793303505
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 54102044,
+        "total" : 54102044
+      },
+      "totalNumberOfFiles" : 1230,
+      "totalFilesSize" : 18109378,
+      "indexingSpeed" : {
+        "totalBytes" : 18109378,
+        "totalTime" : 3793303505
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.8 (pythonProject)",
+        "numberOfFiles" : 1230,
+        "totalFilesSize" : 18109378,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3793303505,
+          "total" : 3793303505
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 2834669589,
+        "total" : 2917672808
+      },
+      "totalNumberOfFiles" : 1229,
+      "totalNumberOfFilesIndexedByExtensions" : 909,
+      "totalFilesSize" : 18108652,
+      "indexingSpeed" : {
+        "totalBytes" : 18108652,
+        "totalTime" : 2834669589
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 42812397,
+        "total" : 2917672808
+      },
+      "totalNumberOfFiles" : 1222,
+      "totalNumberOfFilesIndexedByExtensions" : 909,
+      "totalFilesSize" : 17881527,
+      "indexingSpeed" : {
+        "totalBytes" : 17881527,
+        "totalTime" : 42812397
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 40190822,
+        "total" : 2917672808
+      },
+      "totalNumberOfFiles" : 1230,
+      "totalNumberOfFilesIndexedByExtensions" : 909,
+      "totalFilesSize" : 18109378,
+      "indexingSpeed" : {
+        "totalBytes" : 18109378,
+        "totalTime" : 40190822
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Python SDK Python 3.8 (pythonProject)",
+      "numberOfScannedFiles" : 3814,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 1230,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 25415171,
+      "timeProcessingUpToDateFiles" : 1980519,
+      "timeUpdatingContentLessIndexes" : 1238124,
+      "timeIndexingWithoutContent" : 4416207
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.8 (pythonProject)",
+      "totalNumberOfIndexedFiles" : 1230,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 909,
+      "totalIndexingTime" : 1020944744,
+      "contentLoadingTime" : 14561238,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    } ]
+  }
+}

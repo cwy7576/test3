@@ -1,0 +1,14 @@
+[2022-02-12 09:16:26.317] [sharedprocess] [info] Starting worker process with pid 121011 (type: fileWatcher, window: 3).
+[2022-02-12 09:16:26.327] [sharedprocess] [info] Starting worker process with pid 121012 (type: fileWatcher, window: 1).
+[2022-02-12 09:16:26.334] [sharedprocess] [info] Starting worker process with pid 121013 (type: fileWatcher, window: 2).
+[2022-02-12 09:16:29.247] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-02-12 09:16:29.248] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-02-12 09:16:29.252] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-02-12 09:16:30.861] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-02-12 09:16:30.861] [sharedprocess] [info] Extensions is already requested to install pkief.material-icon-theme
+[2022-02-12 09:16:30.862] [sharedprocess] [info] Extensions is already requested to install pkief.material-icon-theme
+[2022-02-12 09:16:34.366] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/abdiweli/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.13.0
+[2022-02-12 09:16:34.810] [sharedprocess] [info] Extracted extension to /home/abdiweli/.vscode/extensions/.92fe18a9-177f-4ee8-8428-7b22e84e4d69: pkief.material-icon-theme
+[2022-02-12 09:16:34.814] [sharedprocess] [info] Renamed to /home/abdiweli/.vscode/extensions/pkief.material-icon-theme-4.13.0
+[2022-02-12 09:16:34.815] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-02-12 09:16:34.818] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme

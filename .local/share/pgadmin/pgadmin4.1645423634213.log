@@ -1,0 +1,80 @@
+pgAdmin Runtime Environment
+--------------------------------------------------------
+Python Path: "/usr/pgadmin4/venv/bin/python3"
+Runtime Config File: "/home/abdiweli/.config/pgadmin/runtime_config.json"
+pgAdmin Config File: "/usr/pgadmin4/web/config.py"
+Webapp Path: "/usr/pgadmin4/web/pgAdmin4.py"
+pgAdmin Command: "/usr/pgadmin4/venv/bin/python3 -s /usr/pgadmin4/web/pgAdmin4.py"
+Environment: 
+  - GJS_DEBUG_TOPICS: JS ERROR;JS LOG
+  - LC_TIME: so_SO.UTF-8
+  - USER: abdiweli
+  - SSH_AGENT_PID: 2004
+  - XDG_SESSION_TYPE: x11
+  - SHLVL: 0
+  - HOME: /home/abdiweli
+  - DESKTOP_SESSION: ubuntu
+  - GIO_LAUNCHED_DESKTOP_FILE: /usr/share/applications/pgadmin4.desktop
+  - GTK_MODULES: gail:atk-bridge
+  - GNOME_SHELL_SESSION_MODE: ubuntu
+  - LC_MONETARY: so_SO.UTF-8
+  - MANAGERPID: 1829
+  - DBUS_SESSION_BUS_ADDRESS: unix:path=/run/user/1002/bus
+  - GIO_LAUNCHED_DESKTOP_FILE_PID: 7489
+  - IM_CONFIG_PHASE: 1
+  - LOGNAME: abdiweli
+  - _: /usr/bin/dbus-update-activation-environment
+  - JOURNAL_STREAM: 8:55554
+  - XDG_SESSION_CLASS: user
+  - USERNAME: abdiweli
+  - GNOME_DESKTOP_SESSION_ID: this-is-deprecated
+  - WINDOWPATH: 2
+  - PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  - SESSION_MANAGER: local/aadan-HP-290-G3-MT-Business-PC:@/tmp/.ICE-unix/2048,unix/aadan-HP-290-G3-MT-Business-PC:/tmp/.ICE-unix/2048
+  - INVOCATION_ID: 603ebb124875403884b0add4a5026fe2
+  - LC_ADDRESS: so_SO.UTF-8
+  - XDG_RUNTIME_DIR: /run/user/1002
+  - XDG_MENU_PREFIX: gnome-
+  - DISPLAY: :0
+  - LANG: en_US.UTF-8
+  - LC_TELEPHONE: so_SO.UTF-8
+  - XDG_CURRENT_DESKTOP: ubuntu:GNOME
+  - XAUTHORITY: /run/user/1002/gdm/Xauthority
+  - XDG_SESSION_DESKTOP: ubuntu
+  - XMODIFIERS: @im=ibus
+  - SSH_AUTH_SOCK: /run/user/1002/keyring/ssh
+  - LC_NAME: so_SO.UTF-8
+  - SHELL: /bin/bash
+  - QT_ACCESSIBILITY: 1
+  - GDMSESSION: ubuntu
+  - LC_MEASUREMENT: so_SO.UTF-8
+  - LC_IDENTIFICATION: so_SO.UTF-8
+  - GPG_AGENT_INFO: /run/user/1002/gnupg/S.gpg-agent:0:1
+  - GJS_DEBUG_OUTPUT: stderr
+  - QT_IM_MODULE: ibus
+  - PWD: /home/abdiweli
+  - XDG_DATA_DIRS: /usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+  - XDG_CONFIG_DIRS: /etc/xdg/xdg-ubuntu:/etc/xdg
+  - LC_NUMERIC: so_SO.UTF-8
+  - LC_PAPER: so_SO.UTF-8
+  - GDK_BACKEND: x11
+  - NO_AT_BRIDGE: 1
+  - PGADMIN_INT_PORT: 38201
+  - PGADMIN_INT_KEY: 39f093a6-2200-49e5-8444-b17246c5f604
+  - PGADMIN_SERVER_MODE: OFF
+--------------------------------------------------------
+
+2022-02-21 09:07:19,221: WARNING	werkzeug:	WebSocket transport not available. Install simple-websocket for improved performance.
+2022-02-21 09:07:19,221: WARNING	werkzeug:	WebSocket transport not available. Install simple-websocket for improved performance.
+
+NOTE: Configuring authentication for DESKTOP mode.
+pgAdmin 4 - Application Initialisation
+======================================
+
+ * Serving Flask app 'pgadmin' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+
+Application Server URL: http://127.0.0.1:38201/?key=39f093a6-2200-49e5-8444-b17246c5f604

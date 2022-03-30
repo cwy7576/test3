@@ -1,0 +1,10 @@
+[2022-02-21T10:35:51.312Z] Validating found git in: git
+[2022-02-21T10:35:51.354Z] Using git 2.25.1 from git
+[2022-02-21T10:35:51.372Z] > git rev-parse --git-dir [5ms]
+[2022-02-21T10:35:51.374Z] Open repository: /home/abdiweli
+[2022-02-21T10:35:52.340Z] > git fetch [962ms]
+[2022-02-21T10:37:12.181Z] > git ls-files --stage -- /home/abdiweli/Desktop/project/indextcode.html [17ms]
+[2022-02-21T10:37:19.298Z] > git ls-files --stage -- /home/abdiweli/Desktop/project/style.css [1ms]
+[2022-02-21T10:37:26.337Z] > git ls-files --stage -- /home/abdiweli/Desktop/project/app.js [1ms]
+[2022-02-21T10:37:33.797Z] > git ls-files --stage -- /home/abdiweli/Desktop/project/indextcode.html [24ms]
+[2022-02-21T10:43:41.275Z] > git ls-files --stage -- /home/abdiweli/Desktop/project/indextcode.html [240ms]

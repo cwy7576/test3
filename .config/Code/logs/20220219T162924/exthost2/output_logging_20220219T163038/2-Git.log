@@ -1,0 +1,9 @@
+[2022-02-19T13:30:38.276Z] Validating found git in: git
+[2022-02-19T13:30:38.295Z] Using git 2.25.1 from git
+[2022-02-19T13:30:38.331Z] > git rev-parse --git-dir [26ms]
+[2022-02-19T13:30:38.333Z] Open repository: /home/abdiweli
+[2022-02-19T13:30:41.166Z] > git fetch [2829ms]
+[2022-02-19T13:30:44.134Z] > git ls-files --stage -- /home/abdiweli/Pictures/BeatMaker/app.js [2ms]
+[2022-02-19T13:30:44.847Z] > git ls-files --stage -- /home/abdiweli/Pictures/BeatMaker/index.html [0ms]
+[2022-02-19T13:39:19.991Z] > git ls-files --stage -- /home/abdiweli/Pictures/BeatMaker/index.html [1ms]
+[2022-02-19T13:40:13.023Z] > git ls-files --stage -- /home/abdiweli/Pictures/BeatMaker/app.js [5ms]

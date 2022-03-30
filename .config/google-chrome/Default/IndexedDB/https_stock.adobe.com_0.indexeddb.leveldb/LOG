@@ -1,0 +1,6 @@
+2021/12/26-12:30:07.598 44d6 Creating DB /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_stock.adobe.com_0.indexeddb.leveldb since it was missing.
+2021/12/26-12:30:07.603 44d6 Reusing MANIFEST /home/abdiweli/.config/google-chrome/Default/IndexedDB/https_stock.adobe.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/26-12:30:10.328 4193 Level-0 table #5: started
+2021/12/26-12:30:10.330 4193 Level-0 table #5: 555 bytes OK
+2021/12/26-12:30:10.332 4193 Delete type=0 #3
+2021/12/26-12:30:10.332 4193 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

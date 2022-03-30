@@ -1,0 +1,32 @@
+[2022-02-16 09:33:50.185] [exthost] [info] Extension host with pid 151566 started
+[2022-02-16 09:33:50.185] [exthost] [info] Skipping acquiring lock for /home/abdiweli/.config/Code/User/workspaceStorage/725095ef9c5eec02c503eb2da3b5fa34.
+[2022-02-16 09:33:50.324] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-16 09:33:50.347] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-16 09:33:50.673] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-16 09:33:50.680] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onWebviewPanel:markdown.preview'
+[2022-02-16 09:33:50.703] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-16 09:33:50.704] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-16 09:33:50.705] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2022-02-16 09:33:50.712] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2022-02-16 09:33:50.728] [exthost] [info] ExtensionService#_doActivateExtension mcright.auto-save, startup: true, activationEvent: '*'
+[2022-02-16 09:33:50.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-02-16 09:33:50.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2022-02-16 09:33:50.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-02-16 09:33:51.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-16 09:33:51.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-02-16 09:33:51.212] [exthost] [info] Eager extensions activated
+[2022-02-16 09:33:51.361] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-16 09:33:51.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-16 09:33:51.365] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-16 09:33:56.099] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-16 09:33:57.309] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2022-02-16 09:36:58.576] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
+[2022-02-16 09:39:59.568] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-16 09:43:00.783] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-16 09:46:01.715] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-16 09:49:02.818] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-16 09:52:03.981] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-16 09:55:05.168] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-16 09:58:06.423] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-16 10:01:09.525] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-02-16 10:24:40.708] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10523

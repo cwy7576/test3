@@ -1,0 +1,20 @@
+[2022-02-21T10:45:53.590Z] Validating found git in: git
+[2022-02-21T10:45:53.621Z] Using git 2.25.1 from git
+[2022-02-21T10:45:53.636Z] > git rev-parse --git-dir [1ms]
+[2022-02-21T10:45:53.640Z] Open repository: /home/abdiweli/Pictures/BeatMaker
+[2022-02-21T10:45:53.672Z] > git symbolic-ref --short HEAD [2ms]
+[2022-02-21T10:45:53.756Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [74ms]
+[2022-02-21T10:45:53.780Z] > git remote --verbose [4ms]
+[2022-02-21T10:45:53.781Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-02-21T10:45:53.793Z] > git config --get commit.template [5ms]
+[2022-02-21T10:45:54.011Z] > git ls-files --stage -- /home/abdiweli/Pictures/BeatMaker/app.js [1ms]
+[2022-02-21T10:45:54.016Z] > git cat-file -s 617d627aeaffd0cbbbbc696961158b79d626609b [2ms]
+[2022-02-21T10:46:31.006Z] > git fetch [1163ms]
+[2022-02-21T10:46:31.006Z] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/ysf252/beetmeker.git/'
+[2022-02-21T10:46:31.020Z] > git ls-files --stage -- /home/abdiweli/Pictures/BeatMaker/app.js [1ms]
+[2022-02-21T10:46:31.023Z] > git cat-file -s 617d627aeaffd0cbbbbc696961158b79d626609b [1ms]

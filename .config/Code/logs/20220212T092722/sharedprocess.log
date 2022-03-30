@@ -1,0 +1,4 @@
+[2022-02-12 09:27:25.585] [sharedprocess] [info] Starting worker process with pid 3695 (type: fileWatcher, window: 3).
+[2022-02-12 09:27:25.597] [sharedprocess] [info] Starting worker process with pid 3696 (type: fileWatcher, window: 1).
+[2022-02-12 09:27:25.598] [sharedprocess] [info] Starting worker process with pid 3697 (type: fileWatcher, window: 2).
+[2022-02-12 09:27:25.725] [sharedprocess] [info] Deleted from disk pkief.material-icon-theme /home/abdiweli/.vscode/extensions/pkief.material-icon-theme-4.12.1

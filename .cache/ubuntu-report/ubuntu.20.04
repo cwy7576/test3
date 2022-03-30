@@ -1,0 +1,77 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP 290 G3 MT Business PC",
+    "Family": "103C_53307F HP 280"
+  },
+  "BIOS": {
+    "Vendor": "AMI",
+    "Version": "F.21"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "12",
+    "Threads": "2",
+    "Cores": "6",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "158",
+    "Stepping": "10",
+    "Name": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "3e92"
+    }
+  ],
+  "RAM": 8,
+  "Disks": [
+    1024.2
+  ],
+  "Partitions": [
+    982.9,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "598mmx336mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_US",
+  "Timezone": "Africa/Mogadishu",
+  "Install": {
+    "Media": "Ubuntu 20.04 LTS \"Focal Fossa\" - Release amd64 (20200423)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "10": "console_setup",
+      "17": "prepare",
+      "53": "partman",
+      "71": "start_install",
+      "129": "timezone",
+      "160": "usersetup",
+      "323": "user_done",
+      "1990": "done"
+    }
+  }
+}
